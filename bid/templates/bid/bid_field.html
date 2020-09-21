@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="findField">
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ selectform }}
+            <button type="submit" name="selectf">Search</button>
+        </form>
+
+        <form method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ searchform }}
+            <button type="submit" name="searchf">Search</button>
+        </form>
+    </div>
+
+    <div>
+        <table border="1px">
+            <thead>
+                <tr>
+                    <td>DB_table_name</td>
+                    <td>fiel_urls</td>
+                    <td>bid_type</td>
+                    <td>bid_names</td>
+                    <td>bid_number</td>
+                    <td>bid_descriptions</td>
+                    <td>bid_insurance_time</td>
+                    <td>bid_open_time</td>
+                    <td>input_time</td>
+                    <td>catagory</td>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for item in items %}
+                    <tr>
+                        <td>{{ item.0 }}</td>
+                        <td>{{ item.1 }}</td>
+                        <td>{{ item.2 }}</td>
+                        <td>{{ item.3 }}</td>
+                        <td>{{ item.4 }}</td>
+                        <td>{{ item.5 }}</td>
+                        <td>{{ item.6 }}</td>
+                        <td>{{ item.7 }}</td>
+                        <td>{{ item.8 }}</td>
+                        <td>{{ item.9 }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+</body>
+</html>
