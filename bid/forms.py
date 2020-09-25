@@ -2,7 +2,7 @@ from django import forms
 from . view_config import *
 
 class SearchForm(forms.Form):
-    searchform = forms.CharField(max_length=20, widget=forms.TextInput(attrs={'class' : 'searchField'}))
+    searchform = forms.CharField(max_length=20, widget=forms.TextInput(attrs={'class' : 'searchField'}), label="")
 
 class SelectForm(forms.Form):
     choice = []
@@ -11,4 +11,4 @@ class SelectForm(forms.Form):
     for a in choice_list :
         choice.append((a,a))
         
-    selectform = forms.ChoiceField(choices = choice)
+    selectform = forms.ChoiceField(choices = choice, label="")
