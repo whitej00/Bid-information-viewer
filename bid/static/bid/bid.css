@@ -35,6 +35,10 @@ thead {
     text-align: center;
 }
 
+thead td {
+
+}
+
 tbody td {
     text-overflow: ellipsis;
     text-align: left;
