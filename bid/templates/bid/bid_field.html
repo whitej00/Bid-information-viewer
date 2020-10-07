@@ -1,6 +1,9 @@
 {% extends 'base.html' %}
 
 {% block content %}
+
+<a class="mBtnWrap" href="{% url 'moniter_field' %}">Monitering</a>
+
 <div class="findField">
     <form method="POST" enctype="multipart/form-data">
         {% csrf_token %}
@@ -12,12 +15,14 @@
         {{ selectform }}
         <button type="submit" name="selectf">Search</button>
     </form>
+    
 </div>
+
 <div class="listField">
     <table>
         <thead>
             <tr>
-                <td style="width: 10%;">Co.Name</td>
+                <td style="width: 10%;">Power Company</td>
                 <td style="width: 20%;">File Urls</td>
                 <td style="width: 5%;">Bid Type</td>
                 <td style="width: 5%;">Bid Name</td>
@@ -31,21 +36,21 @@
         </thead>
         <tbody>
             {% for item in items %}
-                <tr>
-                    <td>{{ item.0 }}</td>
-                    <td>{{ item.1 }}</td>
-                    <td>{{ item.2 }}</td>
-                    <td>{{ item.3 }}</td>
-                    <td>{{ item.4 }}</td>
-                    <td>{{ item.5 }}</td>
-                    <td>{{ item.6 }}</td>
-                    <td>{{ item.7 }}</td>
-                    <td>{{ item.8 }}</td>
-                    <td>{{ item.9 }}</td>
-                </tr>
+            <tr>
+                <td><a href="{% url 'bid_dtfield' idk=item.8 %}">{{ item.0 }}</a></td>
+                <td>{{ item.1 }}</td>
+                <td>{{ item.2 }}</td>
+                <td>{{ item.3 }}</td>
+                <td>{{ item.4 }}</td>
+                <td>{{ item.5 }}</td>
+                <td>{{ item.6 }}</td>
+                <td>{{ item.7 }}</td>
+                <td>{{ item.8 }}</td>
+                <td>{{ item.9 }}</td>
+            </tr>
             {% endfor %}
         </tbody>
     </table>
 </div>
+
 {% endblock %}
-<

@@ -1,0 +1,54 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="detailBid">
+    <table>
+        <tbody>
+            <tr>
+                <td style="width: 150px;">Power Company</td><td style="width: auto;">{{ item.0 }}</td>
+            </tr>
+            <tr>
+                <td>File Urls</td><td id="itemOne">{{ item.1 }}</td>
+            </tr>
+            <tr>
+                <td>Bid Type</td><td>{{ item.2 }}</td>
+            </tr>
+            <tr>
+                <td>Bid Name</td><td>{{ item.3 }}</td>
+            </tr>
+            <tr>
+                <td>Bid Num</td><td>{{ item.4 }}</td>
+            </tr>
+            <tr>
+                <td>Bid Descriptions</td><td>{{ item.5 }}</td>
+            </tr>
+            <tr>
+                <td>Bid Insuarance Time</td><td>{{ item.6 }}</td>
+            </tr>
+            <tr>
+                <td>Bid Open Time</td><td>{{ item.7 }}</td>
+            </tr>
+            <tr>
+                <td>Input Time</td><td>{{ item.8 }}</td>
+            </tr>
+            <tr>
+                <td>Category</td><td>{{ item.9 }}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    var beforeStr = document.getElementById('itemOne').innerText;
+    var afterStr = beforeStr.split(',');
+    var strValue = "";
+
+    for ( var i = 0; i < afterStr.length; i ++) {
+        strValue += "<p>" + afterStr[i] + "</p>";
+    }
+    document.getElementById('itemOne').innerHTML = strValue
+</script>
+
+
+{% endblock %}
