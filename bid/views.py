@@ -11,9 +11,8 @@ def bid_field(request):
         if 'searchf' in request.POST:
             searchform = SearchForm(request.POST)
             if searchform.is_valid() :
-                search_keys = cats_analogue[searchform.cleaned_data['searchform']]
-                for search_key in search_keys :
-                    items = cur.execute(find_tenders.format(search_key)).fetchall()
+                items = cur.execute(find_tenders.format(searchform.cleaned_data['searchform'])).fetchall()
+                    
         if 'selectf' in request.POST:
             selectform = SelectForm(request.POST)
             if selectform.is_valid() :
