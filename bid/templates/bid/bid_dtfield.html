@@ -39,8 +39,11 @@
     </table>
 </div>
 
+<div id="pdfField">
+</div>
+
 <script>
-    var beforeStr = document.getElementById('itemOne').innerText;
+    var beforeStr = "{{ item.1 }}";
     var afterStr = beforeStr.split(',');
     var strValue = "";
 
@@ -48,7 +51,12 @@
         strValue += "<p>" + afterStr[i] + "</p>";
     }
     document.getElementById('itemOne').innerHTML = strValue
-</script>
 
+    for ( var i = 0; i < afterStr.length; i ++) {
+        var newObj = document.createElement('object');
+        newObj.data = afterStr[i];
+        document.getElementById('pdfField').appendChild(newObj);
+    }
+</script>
 
 {% endblock %}

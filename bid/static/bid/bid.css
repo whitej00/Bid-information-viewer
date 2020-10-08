@@ -109,3 +109,15 @@ tr:nth-child(even) {
 .detailBid table td {
     overflow: visible;
 }
+
+/* !----------pdf Zone */
+#pdfField {
+    margin: 50px;
+}
+
+#pdfField object {
+    display: block;
+    margin: 30px auto;
+    width: 800px;
+    height: 1000px;
+}
