@@ -40,10 +40,11 @@
 </div>
 
 <div id="pdfField">
+
 </div>
 
 <script>
-    var beforeStr = "{{ item.1 }}";
+    var beforeStr = "{{ item.1|safe }}";
     var afterStr = beforeStr.split(',');
     var strValue = "";
 
