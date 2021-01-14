@@ -1,16 +1,13 @@
 import sqlite3
 
-DB_location="tender.db"
+DB_location="/srv1/process/tender.db"
 
 conn = sqlite3.connect(DB_location,check_same_thread=False)
 cur = conn.cursor()
 
-find_tenders = "select * from tenders where bid_descriptions like \"%{0}%\""
-monitering_tenders = "SELECT COUNT(DB_table_name) as cnt, DB_table_name, input_time FROM 'tenders' where input_time like \"%2020-09-12%\"  GROUP BY DB_table_name"
-total_qty = "SELECT COUNT(DB_table_name) from 'tenders' where input_time like \"%2020-09-12%\" "
-all_tenders = "SELECT COUNT(DB_table_name), DB_table_name, max(input_time) from 'tenders' GROUP BY DB_table_name"
-all_total = "select count(*) as cnt from 'tenders'"
-detail_tenders = "select * from tenders where input_time like \"%{0}%\""
+find_tender = "select * from tender where Category like \"%{0}%\""
+monitering_tender = "SELECT * FROM tender where InputTime like \"%{0}%\""
+detail_tender = "select * from tender where InputTime like \"%{0}%\""
 
 cats_analogue={"TRANSFORMER":["converter","transformer"],
          "SWITCH GEARS":["switch"],
@@ -18,8 +15,49 @@ cats_analogue={"TRANSFORMER":["converter","transformer"],
          "CABLE":["cable", "conductors", "insulating", "wire", "cables"],
          "INSULATOR":["insulator", "electrical insulator","Ceramic insulator"],
          "ARRESTOR":["arrester","Surge","lightning","surge diverter", "diverter", "protect", "protector", "Lightning rod"],
-         "FUSES":["fuse", "fusing", "fuse-base", "fuse-link", "drop-out", "fuse-carrier", "fuse-element", "melt", "cos", "cut", "cutout", "circuit", "holder"],
-         "OCR":["ocr", "protective", "relay", "power", "current", "overcurrent", "digital", "protection", "microprocessor"],
+         "FUSES":["fuse", "fusing", "fuse-base", "fuse-link", "drop-out", "fuse-carrier", "fuse-element", "melt", "cos", "cut", "cutout", "holder"],
+         "OCR":["ocr", "protective", "relay", "power", "Power","current", "overcurrent", "digital", "protection", "microprocessor"],
          "UPS":["ups", "load"],
+         "CONSTRUCTION":["construction"],
+         "Boundary wall":["wall"],
+         "CIRCUIT":["circuit"],
+         "FILLIMG":["filling"],
+         "FLOORING":["flooring"],
+         "BUILDING":["building"],
+         "STATION":["station"],
+         "TIRE":["tire","tires","tire","tires"],
+         "TUBE":["tube"],
+         "SERVICE":["service"],
+         "PLANT":["plant"],
+         "RECORD":["record"],
+         "SCANNING":["scanning"],
+         "METER":["meter"],
+         "EQUIPMENT":["equipment"],
+         "BRACKET":["bracket"],
+         "DISPLAY":["display", "moniter"],
+         "DISTRIBUTION LINE":["distribution line"],
+         "RECLOSER":["recloser"],
+         "PARTS":["parts"],
+         "SHOCKS":["shock"],
+         "DETAILING":["detailing"],
+         "ENGINE":["engine"],
+         "TANK":["tank"],
+         "CAMERA":["camera"],
+         "TONER CARTRIDGE":["toner","cartridge"],
+         "TELEPHONE":["telephone"],
+         "OUTLET":["outlet","extention"],
+         "STEEL":["steel"],
+         "POLE":["pole"],
+         "GAUGE":["gauge"],
+         "PAD":["pad"],
+         "STICKER":["sticker"],
+         "PEN":["pen"],
+         "PAPER":["paper"],
+         "STAMP":["stamp"],
+         "BRUSH":["brush"],
+         "APPLIANCES":["appliances"],
+         "AIRCONDITION":["aircondition"],
+         "HIGHLIGHTER":["highlighter"],
+         "GENERATOR":["generator"," generating","dynamo"],
          "BATTERIES":["Batteries", "battery", "Charger", "Chargers"]
-         }
+         }  

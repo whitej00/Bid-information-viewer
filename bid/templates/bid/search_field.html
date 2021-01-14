@@ -2,9 +2,23 @@
 
 {% block content %}
 
-<a class="bBtnWrap" href="{% url 'search_field' %}">Search</a>
+<a class="mBtnWrap" href="{% url 'moniter_field' %}">Moniter</a>
 
-<div class="moniterField">
+<div class="findField">
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ searchform }}
+        <button type="submit" name="searchf">Search</button>
+    </form>
+    <form method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ selectform }}
+        <button type="submit" name="selectf">Search</button>
+    </form>
+    
+</div>
+
+<div class="listField">
     <table>
         <thead>
             <tr>
