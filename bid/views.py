@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from . view_config import *
 from .forms import SearchForm, SelectForm
+from django.core.paginator import Paginator
 import time
 
 def search_field(request):
@@ -24,10 +25,11 @@ def search_field(request):
     return render(request, 'bid/search_field.html', { 'items' : items, 'searchform' : searchform, 'selectform' : selectform })
 
 def moniter_field(request):
-    date = time.strftime('%Y-%m-%d', time.localtime(time.time()))
-    items = cur.execute(monitering_tender.format(date)).fetchall()
-    
-    return render(request, 'bid/moniter_field.html', { 'items' : items })
+    boards_all = cur.execute(monitering_tender).fetchall()
+    paginator = Paginator(boards_all, 10) #한 페이지 당 몇개 씩 보여줄 지 지정 
+    page = request.GET.get('page') 
+    boards = paginator.get_page(page)
+    return render(request, "bid/moniter_field.html", {"boards":boards})
 
 def detail_field(request, idk):
     item = cur.execute(detail_tender.format(idk)).fetchone()

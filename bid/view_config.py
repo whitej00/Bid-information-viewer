@@ -1,12 +1,12 @@
 import sqlite3
 
-DB_location="/srv1/process/tender.db"
+DB_location="C:/Users/wlsdk/newscrawling/tender.db"
 
 conn = sqlite3.connect(DB_location,check_same_thread=False)
 cur = conn.cursor()
 
 find_tender = "select * from tender where Category like \"%{0}%\""
-monitering_tender = "SELECT * FROM tender where InputTime like \"%{0}%\""
+monitering_tender = "SELECT * FROM tender order by id desc"
 detail_tender = "select * from tender where InputTime like \"%{0}%\""
 
 cats_analogue={"TRANSFORMER":["converter","transformer"],

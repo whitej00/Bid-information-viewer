@@ -30,6 +30,14 @@ head, body{
     line-height: 90px;
 }
 
+/* !----------findPage */
+.findPage, .pageLink {
+    text-align: center;
+    color: #81d4fa;
+    text-decoration: none;
+    font-size: 20px;
+}
+
 /* !----------bid findField */
 .findField {
     margin-top: 100px;

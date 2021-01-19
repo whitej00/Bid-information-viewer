@@ -18,7 +18,7 @@
             </tr>
         </thead>
         <tbody>
-            {% for item in items %}
+            {% for item in boards %}
             <tr>
                 <td><a href="{% url 'detail_field' idk=item.6 %}">{{ item.1 }}</a></td>
                 <td>{{ item.8 }}</td>
@@ -32,5 +32,19 @@
         </tbody>
     </table>
 </div>
-
+<div class="findPage">
+    <ul class="pagination justify-content-center">
+        {% if boards.has_previous %}                         
+        <a class="pageLink" href="?page=1">FirstPage</a>
+        <a class="pageLink" href="?page={{boards.previous_page_number}}">Previous</a>
+        {% endif %}
+        <span>{{boards.number}}</span>
+        <span>/</span>
+        <span>{{boards.paginator.num_pages}}</span>
+        {% if boards.has_next %}
+        <a class="pageLink" href="?page={{boards.next_page_number}}">Next</a>
+        <a class="pageLink" href="?page={{boards.paginator.num_pages}}">LastPage</a>
+        {% endif %}
+    </ul>
+</div>
 {% endblock %}
