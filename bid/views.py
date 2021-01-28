@@ -26,7 +26,7 @@ def search_field(request):
 
 def moniter_field(request):
     boards_all = cur.execute(monitering_tender).fetchall()
-    paginator = Paginator(boards_all, 10) #한 페이지 당 몇개 씩 보여줄 지 지정 
+    paginator = Paginator(boards_all, 100) #한 페이지 당 몇개 씩 보여줄 지 지정 
     page = request.GET.get('page') 
     boards = paginator.get_page(page)
     return render(request, "bid/moniter_field.html", {"boards":boards})

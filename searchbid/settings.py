@@ -29,7 +29,7 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'ec2-15-164-228-121.ap-northeast-2.compute.amazonaws.com',
+    '13.125.58.250',
     ]
 
 
