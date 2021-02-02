@@ -120,12 +120,28 @@ tr:nth-child(even) {
 
 /* !----------pdf Zone */
 #pdfField {
-    margin: 50px;
+    width: 95%;
+    margin: auto;
 }
 
-#pdfField object {
+#engPdf {
+    float: left;
+    width: 50%;
+}
+
+#korPdf {
+    float: right;
+    width: 50%;
+}
+
+#engPdf object {
     display: block;
-    margin: 30px auto;
-    width: 800px;
+    width: 100%;
+    height: 1000px;
+}
+
+#korPdf object {
+    display: block;
+    width: 100%;
     height: 1000px;
 }
