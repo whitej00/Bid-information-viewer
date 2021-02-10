@@ -1,0 +1,277 @@
+ 
+ 
+b`©vb
+ 
+
+ 
+
+ 
+
+ 
+ 
+Northern Electricity Supply Company Limited
+ 
+(An Enterprise 
+of Bangladesh Power Development 
+Board)
+ 
+ 
+ 
+ 
+cÖKí
+ 
+
+ 
+¯§vU© wcÖ
+-
+
+ 
+wgUvwis
+ 
+
+ 
+
+ 
+
+-
+813690
+ 
+E
+-
+Mail : 
+pd.smp@nesco.gov.bd
+ 
+Memo No: NESCO/SMP/Purchase/124 
+                                                  
+                    
+                                                  
+Date: 09.06.2019
+ 
+ 
+CORRIGENDUM NOTICE 
+
+ 
+V
+I
+I
+ 
+ 
+This 
+is to notify all concern, That t
+he
+ 
+related Document for the International Tender Notice
+ 
+(Supply, Installation, Testing &
+ 
+Commissioning of Smart Pre
+-
+Payment Meter with related Services on Turn
+-
+Key Basis for NESCO Ltd. Memo No:  
+NESCO/SMP/Purchase / 42 ; Date: 30.01.2019) has been amended  as follows :
+ 
+ 
+ 
+Sl.
+ 
+No
+.
+ 
+Clause /
+ 
+Reference No
+.
+ 
+ 
+As Per
+ 
+Tender Document
+ 
+/
+ 
+Corrigendum
+-
+VI
+ 
+Newly Amended As
+ 
+1
+.
+ 
+(ITT
+-
+14.1 (a) (ii)
+ 
+For MDMS, The Tenderer must ensure 
+that, their offered MDMS has Provision 
+to integrate at least 02 (Two) Million 
+Meters. However, all Such Smart Meters 
+should be interoperable having 
+Standardization of DLMS / COSEM [The 
+Tenderer/Manufacturer must provide 0
+2 
+(Two) End User Certificate (At least one 
+from outside of the Manufacturers 
+Country) that Their Offered MDMS has 
+the Capability to handle at least 
+Half a 
+Million Smart Pre
+-
+payment /Pre
+-
+Payment 
+Meters & still it is under 
+operation
+]
+.
+ 
+ 
+As a Proof the Tendere
+r will have to 
+demonstrate a Presentation through 
+Simulation that their offered MDMS is 
+capable to accommodate / handle 02 
+(Two) Million Meters at the same time.
+ 
+For MDMS, The Tenderer must ensure that, their 
+offered MDMS has Provision to integrate at leas
+t 
+02 (Two) Million Meters. However, all Such 
+Smart Meters should be interoperable
+ 
+having 
+Standardization of DLMS / 
+COSEM 
+[
+The 
+Tenderer
+/Manufacturer
+ 
+must provide 
+02 (Two)
+ 
+End User Certificate
+ 
+(At least one from outside
+ 
+of
+ 
+the Manufacturers Country) that Their 
+Existing
+ 
+MDMS has the Capability to handle 
+at 
+least 
+Half a Million 
+ 
+Meters (Smart
+/
+ 
+Pre
+-
+Payment
+ 
+Meters)
+ 
+&
+ 
+it is 
+operational
+]
+.
+ 
+ 
+As a Proof the Tenderer will have to 
+demonstrate a Presentation through Simulation 
+that 
+their offered MDMS is capable to 
+accommodate / handle 02 (Two) Million Meters 
+(
+Smart/ Pre
+-
+Payment Meters) 
+at the same time.
+ 
+ 
+Alt
+ernatively, the Tenderer
+ 
+can 
+provide an end 
+user Certificate that their offered MDMS is 
+successfully 
+operating
+ 
+at least
+ 
+02 Milli
+on 
+Smart
+/Pre
+-
+Payment 
+Meters. 
+In that case, i
+t is the 
+responsibility of the 
+lowest evaluated 
+Te
+nderer 
+to 
+prove
+ 
+physically
+ 
+at
+ 
+the 
+
+that the
+ 
+offered 
+MDMS is operating
+ 
+minimum 
+02 
+(Two) Million 
+(
+Smart/ Pre
+-
+Payment Meters
+)
+ 
+before issuing
+ 
+the NOA. Failing to do so will be 
+considered as non
+-
+responsive. 
+ 
+ 
+All Other Terms & Conditions will remain unchanged.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sd
+/
+-
+ 
+ 
+ 
+ 
+ 
+ 
+Project Director
+ 
+Smart Pre
+-
+Payment Metering Project
+ 
+NESCO Ltd. Rajshahi.
+ 
+ 

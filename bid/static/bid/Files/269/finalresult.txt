@@ -1,0 +1,121 @@
+ 
+
+shackle only as specified in SECTION
+XIX part B-DTS sub-section 1.2.2 and
+illustrated in Fig 2 & Fig 3
+
++ IF The tension clamps need to come | The tension clamps are to be
+with Guy Grip as there isan item —_| supplied as complete in themselves
+with Guy grips —Fig 4 in SECTION XIX part B-DTS
+sub-section 1.2.3 is only for
+illustration of the use of tension
+clamp.
+
+% Ifitem for Guy grip is PC’s and not _| The schedule of requirement for guy
+
+pairs. grips is as presented in Section IV,
+Part A, item 6 and the unit of
+measure is "piece"
+
+ 
+
+ 
+
+ 
+
+3. TENDER CLOSING DATE
+
+The tender closing date remains 23 December 2020, 10.00am as communicated in the
+tender document.
+
+All other terms and conditions remain as per the Principal Tender Document (PTD)
+
+Yours faithfully,
+For: THE KENYA POWER & LIGHTING CO. PLC
+
+4 MUIGAI
+
+SUPPLY CHAIN MANAGER, PROCUREMENT
+
+ 
+ 
+
+Kenya Power
+
+The Kenya Power & Lighting Co. Ld
+Central Office - P.O, Box 30099, Nairobi, Kenya
+Telephone ~ 254-02-3201000
+Fax No. 254-02-3201889
+Stima Plaza, Kolobot Road
+
+  
+
+Our Ref: KP1/9A.2/OT/023/ICT/20-21 /JN/rmh 16 December 2020
+
+M/s
+
+ 
+
+Dear Sir/Madam,
+
+ADDENDUM NO. 1 TO THE TENDER NO. KP1/9A.2/OT/023/ICT/20-21 FOR PROCUREMENT OF
+FIBER OPTIC CABLE SPARES, FITTINGS AND ACCESSORIES
+
+The following clarifications are made to the specified provisions of the Tender document.
+1. RELATIONSHIP WITH THE PRINCIPAL TENDER DOCUMENT
+Save where expressly amended by the terms of this Addendum, the Principal Tender
+
+Document shall continue to be in full force and effect. The provisions of this Addendum
+shall be deemed to have been incorporated in and shall be read as part of the Principal
+
+Tender Document.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. CLARIFICATIONS MADE TO QUERIES ON THE TENDER DOCUMENT
+
+No. | Clarifications Response
+
+Ws Is the patchcord diameter simplex or The patch cords shall be duplex
+duplex?
+
+2. Please note the patchcord diameter are The cable size for the Low insertion
+either 2.0mm or 3.0mm, No manufacturer | loss SM Fiber patch cables shall be
+do 0.9mm as you have indicated in the 3mm
+specifications.
+
+3. Names with full contact as well as physical | This is not a requirement as per the
+addresses of previous customers of similar | evaluation criteria set in the tender
+goods and reference letters from at least | document
+four (4) previous customers.
+
+Confirm this with respect to the
+manufacturer as a supplier in Kenya has
+only supplied KPLC has no 4 other
+customers
+
+4, | Technical clarification
+Confirm
+
+% If The suspension need to come _| The suspension clamp assembly
+with inner rod shall consist of the housing, rubber
+insert, eye chain link and anchor
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

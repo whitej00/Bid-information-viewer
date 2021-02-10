@@ -1,0 +1,14782 @@
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TENDER N
+O.
+ 
+KP1/9A.2/OT/
+0
+26
+/ICT/20
+-
+21
+ 
+FOR PROVISION OF 
+ANNUAL SUPPORT & MAINTENANCE SERVICES FOR 
+ORACLE HARDWARE (TAPE LIBRARIES & ASSOCIATED 
+DEVICES)
+ 
+ 
+DATE OF TENDER DOCUMENT: 
+DECE
+MBER
+ 
+2020
+ 
+ 
+ 
+ALL TENDERERS ARE ADVISED TO READ CAREFULLY THIS TENDER 
+DOCUME
+NT IN ITS ENTIRETY BEFORE MAKING ANY BID
+ 
+ 
+TENDER DOCUMENT FOR SERVICES
+ 
+ 
+THE KENYA POWER & LIGHTING COMPANY LIMITED 
+ 
+CENTRAL OFFICE, STIMA PLAZA,
+ 
+KOLOBOT ROAD, PARKLANDS,
+ 
+P.O. BOX 30099
+-
+00100,
+ 
+NAIROBI,
+ 
+KENYA. 
+ 
+ 
+Telephones:
+ 
++254
+-
+020
+-
+3201000; 3644000 Pilot Li
+nes
+ 
+Telephones: 
+ 
++254
+-
+711031904; 0711031932 Cellular
+ 
+ 
+Website: 
+ 
+www.kplc.co.ke
+ 
+Email 
+ 
+1:
+ 
+JMuigai@kplc.co.ke
+ 
+ 
+ 
+ 
+2
+:
+ 
+RHassan@kplc.co.ke
+ 
+ 
+ 
+3
+: 
+LKagundu@kplc.co.ke
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS
+ 
+ 
+SECTION I 
+-
+ 
+INVITATION TO TENDER
+ 
+................................
+................................
+................................
+...
+ 
+3
+ 
+SECTION I
+I 
+-
+ 
+TENDER SUBMISSION CHECKLIST
+ 
+................................
+................................
+.................
+ 
+4
+ 
+SECTION III 
+-
+ 
+INSTRUCTIONS TO TENDERERS (ITT)
+ 
+................................
+................................
+..........
+ 
+7
+ 
+SECTION IV 
+-
+ 
+SCHEDULE OF REQUIREMENTS
+ 
+................................
+................................
+..................
+ 
+25
+ 
+SECTION VI 
+-
+ 
+EVALUATION CRITERIA
+ 
+................................
+................................
+................................
+ 
+31
+ 
+SECTION VII 
+
+ 
+GENERAL CONDITIONS OF CONTRACT
+ 
+................................
+................................
+...
+ 
+37
+ 
+SECTION VIII 
+
+ 
+SPECIAL CONDITIONS OF CONTRACT
+ 
+................................
+................................
+....
+ 
+48
+ 
+SECTION IX 
+-
+ 
+TENDER FORM
+ 
+................................
+................................
+................................
+.................
+ 
+49
+ 
+SECTION X 
+-
+ 
+CONFIDENTIAL BUSINESS QUESTIONNAIRE FO
+RM
+ 
+................................
+................
+ 
+51
+ 
+SECTION XI A 
+-
+ 
+TENDER SECURITY FORM 
+
+ 
+(BANK GUARANTEE)
+ 
+................................
+.............
+ 
+54
+ 
+SECTION XI B 
+-
+ 
+TENDER SECURITY FORM (SACCO SOCIETY, DEPOSIT TAKING M
+ICRO FINANCE 
+INSTITUTIONS, WOMEN ENTERPRISE FUND & YOUTH ENTERPRISE FUND)
+ 
+............................
+ 
+57
+ 
+SECTION XI C 
+-
+ 
+TENDER SECURITY 
+
+ 
+(LETTERS OF CREDIT)
+ 
+................................
+........................
+ 
+60
+ 
+SECTION XII 
+-
+ 
+
+ 
+...............................
+ 
+62
+ 
+SECTION XIII 
+-
+ 
+DECLARATION FORM
+ 
+................................
+................................
+................................
+..
+ 
+63
+ 
+SECTION XIV 
+
+ 
+DRAFT LETTER OF NO
+TIFICATION OF AWARD
+ 
+................................
+...................
+ 
+64
+ 
+SECTION XV 
+
+ 
+DRAFT LETTER OF NOTIFICATION OF REGRET
+ 
+................................
+....................
+ 
+65
+ 
+SECTION XVI 
+-
+ 
+CONTRACT AGREEMENT FORM
+ 
+................................
+................................
+...............
+ 
+66
+ 
+SECTION XVII A 
+-
+ 
+PERFORMANCE SECURITY FORM (BANK GUARANTEE)
+ 
+...............................
+ 
+71
+ 
+SECTION XVII B 
+-
+ 
+PERFORMANCE SECURITY (LC)
+ 
+................................
+................................
+..........
+ 
+73
+ 
+SECTION XVIII 
+
+ 
+SUBCONTRACTORS
+ 
+................................
+................................
+................................
+..
+ 
+75
+ 
+SECTION XIX 
+-
+ 
+PREVIOUS EXPERIENCE WITH SIMILAR WORK
+ 
+................................
+...................
+ 
+76
+ 
+SECTION XX 
+-
+ 
+SUPP
+LIER EVALUATION FORM
+ 
+................................
+................................
+..................
+ 
+77
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION I 
+-
+ 
+INVITATION TO TENDER
+ 
+ 
+DATE: 
+DECEM
+BER
+ 
+2020
+ 
+ 
+TENDER N
+O.
+ 
+KP1/9A.2/OT/026/ICT/20
+-
+21 
+FOR PROVISION OF 
+ANNUAL SUPPORT 
+& MAINTENANCE SERVICES FOR ORACLE HARDWARE (TAPE LIBRARIES & 
+ASSOC
+IATED DEVICES)
+ 
+ 
+1.1
+ 
+The 
+K
+enya 
+P
+ower & 
+L
+ighting 
+C
+ompany Limited
+ 
+hereinafter referred to KPLC invites 
+bids from eligible Tenderers 
+for 
+Provision of 
+Annual Support & Maintenance Services for 
+Oracle Hardware (Tape Libraries & Associated Devices)
+. 
+Interested el
+igible 
+t
+enderers may 
+obtain further information from the 
+General 
+Manager
+ 
+-
+ 
+Supply Chain
+,
+ 
+The Kenya Power & 
+Lighting Company Ltd at Stima
+ 
+Plaza, 3
+rd
+ 
+Floor, Kolobot Road, P.O. Box 30099 
+
+ 
+00100 
+Nairobi, Kenya.
+ 
+ 
+1.2 
+ 
+Obtaining tender documents.
+ 
+1.2.1
+ 
+Tender d
+ocuments detailing the requirements may be obtained from the
+ 
+KPLC E
+-
+ 
+Procurement Portal
+.
+ 
+ 
+ 
+1.2.2
+ 
+Prospe
+
+(
+www.k
+plc
+.co.ke
+) free of 
+charge.
+ 
+ 
+ 
+1.3 
+ 
+Sub
+mission of Tender documents 
+ 
+ 
+Completed Tenders are to be 
+
+-
+P
+rocurement 
+P
+ortal on the due date and time published on the portal. Tenderers are 
+required to visit the portal from time to time for revised closing d
+ates and addendums. 
+The Tender is to be submitted 
+ONLINE
+ 
+on 
+or before
+ 
+the submission date and time 
+indicated on the 
+KPLC 
+T
+endering 
+P
+orta
+l
+ 
+to
+ 
+be received on or before 
+closing date set 
+on the portal
+. 
+ 
+ 
+1.4
+ 
+Prices
+ 
+Prices quoted should be inclusive of all taxe
+s and delivery costs to the required site 
+(where applicable) and must be in Kenya Shillings or a freely convertible currency in 
+Kenya and shall remain valid for 
+one hundred and 
+eighty
+ 
+(
+1
+8
+0
+) days
+ 
+from the closing 
+date of the tender.
+ 
+Please note that prices 
+indicated on the KPLC tendering portal should be exclusive of 
+VAT.
+ 
+1.5 
+ 
+Opening of submitted Tenders
+ 
+ 
+
+representatives who choose to attend in KPLC Auditorium at Stima Pla
+za, Kolobot 
+Road, Parklands, Nairobi
+.
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION II 
+-
+ 
+TENDER SUBMISSION CHECKLIST
+ 
+ 
+Tender Submission Format 
+ 
+Bidders are advised to clearly label their documents while uploading on the portal.
+ 
+ 
+No. 
+ 
+            
+Item
+ 
+Tick Where 
+ 
+Provided 
+ 
+1
+ 
+Tender Security
+ 
+
+ 
+Bank Guarantee or Letters of Credit (issued by 
+Banks Licensed by the Central Bank of Kenya), Guarantee by a 
+deposit taking Microfinance Institution, Sacco Society, the Youth 
+Enterprise Development Fund or the Women Enterprise Fund.
+ 
+ 
+2
+ 
+Declaration Form 
+  
+ 
+ 
+3 
+ 
+Duly completed Tender Form 
+ 
+ 
+4 
+ 
+Certificate of Confirmation of Directors and Shareholding 
+(C.R.12) for registered companies and if not a registered company 
+a business name for those trading as a sole proprietor or a 
+partnership registered under th
+e Kenyan law or equivalent 
+certification for foreign tenderers
+ 
+ 
+5*
+ 
+Copy of PIN Certificate  
+ 
+ 
+6*
+ 
+Copy of Valid Tax Compliance Certificate
+ 
+ 
+ 
+7 
+ 
+Confidential Business Questionnaire (CBQ)
+ 
+ 
+8*
+ 
+Certificate of Confirmation of Directors and Shareholding (C.R.
+ 
+12) 
+or equivalent
+ 
+(for foreign tenderers)
+ 
+ 
+9
+ 
+Type Test Certificates and their Reports and or Test Certificates 
+and their Reports 
+ 
+ 
+10
+ 
+Valid and current ISO 9001 Certificates or for locally 
+manufactured or produced goods, valid Mark of Quality 
+Certificat
+e or Standardization Mark Certificates from the Kenya 
+Bureau of Standards (KEB
+S) where applicable
+ 
+ 
+11
+ 
+
+ 
+where applicable.
+ 
+ 
+12
+ 
+Duly completed Schedule of Guaranteed Technical Particulars 
+ 
+ 
+13
+ 
+Principals 
+Authorizati
+on
+ 
+and warranty 
+where applicable
+ 
+ 
+14
+ 
+Names with full contact as well as physical addresses of previous 
+customers of similar goods and referen
+ce letters from at least 
+one 
+ 
+(
+1
+) previous customers
+ 
+ 
+15
+ 
+Statement on Deviations
+ 
+ 
+16
+ 
+Price Schedule(s)
+ 
+ 
+17
+ 
+Sche
+dule of requirements duly filled indicating 
+services 
+offered
+ 
+ 
+18
+ 
+Audited Financial Statements. The audited financial statements
+ 
+required must be those that are reported within eighteen (18) 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+calendar months of the date of the tender document.
+ 
+(For compani
+es or firms that are registered or incorporated within 
+the last one calendar year of the Date of the Tender Document, 
+they should submit certified copies of bank statements covering a 
+period of at least six months prior to the date of the tender 
+document. 
+The copies should be certified by the Bank issuing 
+ 
+the statements. The certification should be original).
+ 
+19
+ 
+Any other document or item required by the Tender Document. 
+(The Tenderer shall specify such other documents or items it has 
+submitted)
+ 
+ 
+ 
+ 
+ 
+*NO
+TES TO TENDERERS
+ 
+ 
+1. 
+ 
+Valid Tax Compliance Certificate shall be one issued by the relevant tax authorities and 
+valid for at least up to the tender closing date. 
+All Kenyan 
+Registered
+ 
+Tenderers must 
+provide a valid Tax Compliance Certificate. 
+ 
+ 
+2. 
+ 
+All Keny
+an 
+Registered
+ 
+Tenderers must provide the Personal Identification Number 
+Certificate (PIN Certificate).
+ 
+ 
+3.
+ 
+Foreign Tenderers must provide equivalent documents from their country of origin 
+about
+ 
+Tax Compliance and PIN certificates OR statements certifying t
+hat the equivalent 
+
+ 
+
+
+of or
+igin. 
+ 
+ 
+ 
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF PARAGRAPHS ON INSTRUCTIONS TO TENDERERS
+ 
+Paragraph No. 
+ 
+Headings
+ 
+ 
+ 
+ 
+     
+ 
+ 
+    
+Page No. 
+ 
+ 
+3.1
+ 
+ 
+
+
+ 
+9
+ 
+3.2
+ 
+ 
+
+
+ 
+3.3 
+ 
+ 
+
+
+ 
+3.
+4
+ 
+ 
+
+
+ 
+3.
+5
+ 
+ 
+ 
+
+
+ 
+3.
+6
+ 
+ 
+
+
+....
+.13
+ 
+3.
+7
+ 
+ 
+ 
+
+
+...
+13
+ 
+3.
+8
+ 
+ 
+ 
+
+
+.
+.
+1
+4
+ 
+3.
+9
+ 
+ 
+ 
+
+
+..
+.14
+ 
+3.
+10
+ 
+ 
+ 
+
+
+..
+.14
+ 
+3.1
+1
+ 
+ 
+ 
+
+
+..
+..1
+5
+ 
+3.1
+2
+ 
+ 
+ 
+
+
+.
+.15
+ 
+3.1
+3
+ 
+ 
+ 
+
+ 
+and Qualifica
+
+..
+15
+ 
+3.1
+4
+ 
+ 
+ 
+
+
+.
+.16
+ 
+3.1
+5
+ 
+ 
+ 
+
+
+7
+  
+ 
+3.1
+6
+ 
+ 
+
+
+ 
+3.1
+7
+ 
+ 
+
+
+..
+.1
+8
+ 
+3.1
+8
+ 
+ 
+ 
+Validit
+
+
+.
+..
+20
+ 
+3.1
+9
+ 
+ 
+ 
+
+
+.
+.
+20
+ 
+3.
+2
+0
+ 
+ 
+ 
+
+
+20
+ 
+3.
+2
+1
+ 
+ 
+Deadline for Submission of 
+Tender...
+
+
+1
+ 
+3.
+2
+2
+ 
+ 
+ 
+Modification and Withdrawal of Tender
+
+
+..
+2
+1
+ 
+3.
+2
+3
+ 
+ 
+ 
+
+
+..
+..2
+1
+ 
+3.
+2
+4
+ 
+ 
+
+
+1
+ 
+3.
+2
+5
+ 
+ 
+ 
+Clarification of Tenders
+ 
+and Contacting KPLC
+
+
+..
+2
+2
+ 
+3.
+2
+6
+ 
+ 
+ 
+
+
+
+.....
+..22
+ 
+3.
+2
+7
+ 
+ 
+
+
+.
+.2
+3
+ 
+3.
+28
+ 
+ 
+ 
+Technical 
+
+..
+
+
+.
+..2
+3
+ 
+3.
+29
+ 
+ 
+ 
+
+
+..
+.2
+4
+ 
+ 
+3.
+30
+ 
+         
+ 
+ 
+
+
+
+.2
+4
+ 
+3.
+3
+1
+ 
+ 
+ 
+Debarment of a Tend
+
+
+
+.
+2
+5
+ 
+3.
+3
+2
+ 
+ 
+
+
+
+.2
+5
+ 
+3.
+3
+3
+ 
+ 
+ 
+Award
+ 
+
+
+
+.2
+5
+ 
+3.
+3
+4
+ 
+ 
+ 
+
+
+
+2
+5
+ 
+3.
+3
+5
+ 
+ 
+Notifi
+
+
+
+..
+2
+6
+ 
+3.
+3
+6
+ 
+ 
+ 
+Sign
+ing 
+
+
+
+
+
+6
+ 
+ 
+3.
+37
+ 
+ 
+ 
+
+
+6
+ 
+3.
+38
+ 
+ 
+
+
+7
+                                                                   
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION III 
+-
+ 
+INSTRUCTIONS TO TENDERERS
+ 
+(
+IT
+T
+)
+ 
+ 
+3.1 
+ 
+Definitions
+ 
+ 
+In this tender, unless the context or express provision otherwise requires: 
+-
+ 
+a) 
+ 
+A
+ny reference to any Act shall include any statutory extension, amendment, 
+modification, re
+-
+amendment or replacement of such Act and any rule, regul
+ation 
+or order made there
+-
+under.
+ 
+ 
+b) 
+ 
+
+shall be
+ 
+the 
+start date
+ 
+specified on the KPLC 
+tendering portal
+.
+ 
+ 
+c) 
+ 
+
+ 
+d) 
+ 
+
+s or its 
+successor(s) and assign(s) where the context so admits.
+ 
+e)
+ 
+
+or its successor(s) and assign(s) where the context so admits
+ 
+f) 
+ 
+ 
+
+R
+
+ 
+wherever appearing means The Public Proc
+urement 
+Regulatory
+ 
+ 
+Authority or its successor(s) and assign(s) where the context so admits.
+ 
+ 
+g) 
+ 
+R
+
+and documents mentioned hereunder and any reference to this tender or to any 
+other 
+document includes a reference to the other document as varied 
+supplemented and/or replaced in any manner from time to time. 
+ 
+h) 
+ 
+
+ 
+ 
+Limited or its successor(s) and assign(s) where the context 
+so admits 
+(hereinafter abbreviated as KPLC). 
+ 
+i) 
+ 
+
+installation and commissioning (where applicable) of the goods in response to 
+the Invitation to Tender. 
+ 
+j) 
+ 
+W
+here there are two or m
+ore persons included in the expression the 
+
+be an act, default or omission by any one or more of such persons.
+ 
+ 
+k)  
+ 
+Words importing the masculine gender only, include the feminin
+e gender or (as 
+the case may be) the neutral gender.
+ 
+ 
+l) 
+ 
+W
+ords importing the singular number only include the plural number and vice
+-
+versa and where there are two or more persons included in the expression the 
+
+gations expressed to be made or 
+performed by the Tenderer shall be deemed to be made or performed by such 
+persons jointly and severally.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+m)
+ 
+
+ 
+
+authorized
+ 
+
+MD & CEO
+ 
+who is 
+designated by 
+the PPAD Act 2015 
+to exercise such pow
+er, authority or 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+discretion as is required under the tender and any contract arising therefrom, or 
+such other KPLC staff delegated with such authority.
+ 
+ 
+n
+) 
+ 
+Citizen contractors
+-
+means 
+a 
+person/
+firm 
+wholly owned and controlled by 
+person(s) who are
+ 
+citize
+ns of 
+Kenya
+.
+ 
+ 
+o
+) 
+ 
+Local contractors
+-
+ 
+a firm shall be qualified as a local contractor if it is 
+registered in Kenya.
+ 
+ 
+ 
+3.2
+ 
+Eligible Tenderers
+ 
+ 
+3.2.1
+ 
+A tenderer is eligible to bid for this contract only if the tenderer satisfies the following 
+criteria
+
+ 
+(a) th
+e tenderer has the legal capacity to 
+enter a
+ 
+contract for
+ 
+procurement or asset 
+disposal;
+ 
+(b) the tenderer is not insolvent, in receivership, bankrupt or in the process
+ 
+of being wound up;
+ 
+(c) the tenderer, if a member of a regulated profession, has satisfie
+d all the
+ 
+professional requirements;
+ 
+(d) the tenderer and his or her sub
+-
+contractor, if any, is not debarred;
+ 
+(e) the tenderer has fulfilled tax obligations;
+ 
+(f) the tenderer has not been convicted of corrupt or fraudulent practices;
+ 
+and
+ 
+(g) is not guilty 
+of any serious violation of fair employment laws and
+ 
+practices.
+ 
+ 
+In addition, this Invitation to Tender is open to all Tenderers eligible as described in the 
+Appendix to Instructions to Tenderers
+. 
+ 
+ 
+Successful Tenderers shall supply the 
+services
+ 
+in accorda
+nce with this tender and the 
+ensuing contract. 
+ 
+ 
+3.2.2
+ 
+In addition the tenderer shall be considered ineligible to bid, where in
+ 
+case of a 
+corporation, private company, partnership or other body, the tenderer, their spouse, 
+child or sub
+-
+contractor has subst
+antial or controlling
+ 
+interest and is found to be in 
+contravention of the provisions of section 3.2.1 above.
+ 
+ 
+3.2.5
+ 
+Despite the provisions of section 3.2.
+2
+, a tenderer having a
+ 
+substantial or controlling interest shall be eligible to bid where
+
+ 
+(a) 
+ 
+such t
+enderer has declared any conflict of interest; and
+ 
+(b) 
+ 
+performance and price competition for that good, work or service is
+ 
+not available or can only be sourced from that tenderer.
+ 
+ 
+3.2.6 
+ 
+For the purposes of this paragraph, any relative i.e. spouse(s) and
+ 
+child(ren) of any 
+person mentioned in sub
+-
+paragraph 3.2.3 is also ineligible to participate in the tender. In 
+addition, a Cabinet Secretary shall include the President, Deputy President or the 
+Attorney General of GoK.   
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+3.2.7
+ 
+Tenderers shall provide the 
+qualification information statement that the Tenderer 
+(including subcontractors) is not associated, or have been associated in the past, directly 
+or indirectly, with a firm or any of its affiliates which have been engaged by KPLC to 
+provide consulting serv
+ices for the preparation of the design, specifications, and other 
+documents to be used for the procurement of the goods under this Invitation to Tender.
+ 
+3.2.8
+ 
+Tenderers shall not be under declarations as prescribed at 
+Section XIII
+. 
+ 
+3.2.9 
+ 
+Tenderers who ar
+e not under these declarations shall complete the Declaration Form 
+strictly in the form and content as prescribed at 
+Section XIII.
+ 
+3.2.10 
+ 
+Those that are under the Declaration as prescribed at 
+Section XIII 
+whether currently or 
+in the past shall not complet
+e the Form. They will submit a suitable Form giving details, 
+the nature and present status of their circumstances. 
+ 
+ 
+ 
+3.3 
+ 
+Joint Venture
+ 
+3
+.3.1 
+ 
+Tenders submitted by a joint venture of two or more firms, as partners shall comply 
+with the following requireme
+nts: 
+-
+ 
+ 
+a) 
+ 
+the Tender Form and in case of a successful tender, the Contract Agreement 
+Form, shall be signed so as to be legally binding on all partners of the joint 
+venture. 
+ 
+b) 
+ 
+one of the partners shall be nominated as being lead contractor, and 
+this 
+au
+thorization shall be evidenced by submitting a Power of Attorney signed
+ 
+b
+y 
+legally authorized signatories of all the partners.
+ 
+c) 
+ 
+The Power of Attorney which shall accompany the tender, shall be granted by 
+the authorized signatories of all the partners as
+ 
+follows: 
+-
+ 
+ 
+(i.) 
+ 
+for local bidders, before a Commissioner of Oaths
+ 
+or a 
+Notary Public or 
+Magistrate of the Kenyan Judiciary. 
+ 
+(ii.) 
+ 
+for a foreign bidder, before a Notary Public, or the equivalent of a 
+Notary Public, and in this regard the bidder shall p
+rovide satisfactory 
+proof of such equivalence.  
+ 
+d) 
+ 
+the lead contractor shall be authorized to incur liability and receive instructions 
+for and on behalf of 
+all
+ 
+the partners of the joint venture and the entire execution 
+of the contract including payment s
+hall be done exclusively with the lead 
+contractor.
+ 
+3
+.3.2 
+ 
+All partners of the joint venture shall be liable jointly and severally for the execution of 
+the contract in accordance with the contract terms, and a relevant statement to this 
+effect shall be incl
+uded in the authorization mentioned in paragraph 
+3
+.3.1 (b) above as 
+well as in the Form of Tender and the Contract Agreement Form (in case of the 
+accepted tender).
+ 
+3
+.3.3
+ 
+A copy of the agreement 
+entered by
+ 
+the joint venture partners shall be submitted with 
+the tender.
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+3.4
+ 
+Cost of Tendering 
+ 
+3.4.1
+ 
+The Tenderer shall bear all costs associated with the preparation and submission of its 
+Tender, and KPLC will in no case be responsible or liable for those costs, regardless of 
+the conduct or outcome of the tenderi
+ng process.
+ 
+ 
+3.5
+ 
+ 
+Contents of
+ 
+the Tender Document 
+ 
+3.5.1 
+ 
+The Tender Document comprises the documents listed below and Addendum (where 
+applicable) issued in accordance with paragraph 3.7 of these Instructions to Tenderers: 
+-
+ 
+ 
+ 
+a) 
+ 
+Invitation to Tender 
+ 
+ 
+b)
+ 
+ 
+Tender Submission Checklist
+ 
+c)
+ 
+Instructions to Tenderers 
+ 
+ 
+d) 
+ 
+Appendix to Instructions to Tenderers
+ 
+e) 
+ 
+Schedule of Requirements   
+ 
+f) 
+ 
+Project Implementation Schedule
+ 
+g)        
+Price Schedule for 
+Services
+ 
+h
+) 
+ 
+Evaluation Criteria
+ 
+i
+) 
+ 
+General Conditions 
+of Contract
+ 
+j
+) 
+ 
+Special Conditions of Contract 
+ 
+k
+) 
+ 
+Tender Form
+ 
+ 
+ 
+l
+) 
+ 
+Confidential Business Questionnaire Form
+ 
+m
+)  
+ 
+Tender Security Form 
+ 
+n
+) 
+ 
+
+ 
+p
+) 
+ 
+Declaration Form
+ 
+q
+) 
+ 
+Contract Form
+ 
+r
+) 
+ 
+Performance Security Form 
+ 
+s
+) 
+ 
+Detail
+s of Service
+ 
+(i.) 
+ 
+General Requirements
+ 
+(ii.) 
+ 
+Specific Details of Services  
+ 
+ 
+3.5.2
+ 
+The Tenderer is expected to examine all instructions, forms, provisions, terms and 
+specifications in the Tender Document. Failure to furnish all information required by 
+th
+e Tender Document or to submit a tender not substantially responsive to the Tender 
+
+of its Tender.
+ 
+3.5.3 
+ 
+All recipients of the documents for the proposed Contract for 
+the purpose of submitting 
+a tender 
+(whether they submit a tender or not)
+ 
+shall treat the details of the documents as 
+
+ 
+ 
+ 
+ 
+3.
+6
+ 
+Clarification of Documents 
+ 
+ 
+ 
+A prospective Tenderer requiring any clarification of the Tender Document 
+may notify 
+the 
+General
+ 
+Manager Supply 
+Chain in
+ 
+writing and ensure receipt is acknowledge
+d
+ 
+at 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+
+. KPLC will respond in 
+writing to any request for clarification of the Tender documents, which it receives 
+not 
+later than 
+seven
+ 
+(
+7
+) days prior to the deadline for the submission of Tenders, prescribed 
+
+(including an explanation of the query 
+but without identifying the source of inquiry) 
+will be 
+published and accessible 
+to 
+all 
+prospective Tenderers 
+
+.
+ 
+ 
+ 
+3.
+7
+ 
+ 
+Amendment of Documents 
+ 
+3.
+7
+.1 
+ 
+At any time prior to the deadline for submission of Tenders, KPLC, for any reason, 
+whether at its own initiative or in response to a clarification requested 
+by a prospective 
+Tenderer, may modify the tender documents by amendment.
+ 
+3.7.2 
+ 
+All prospective Tenderers that have 
+registered in the portal for
+ 
+the Tender will be 
+notified of the amendment(s) 
+(hereinafter referred to or otherwise known as addendum) 
+in wri
+ting and will be binding on them. 
+ 
+3.7.3
+ 
+In order to allow prospective Tenderers reasonable time in which to take the 
+amendment into account in preparing their Tenders, KPLC, at its discretion, may extend 
+the deadline for the submission of Tenders. 
+ 
+ 
+3.8
+ 
+ 
+Language of Tender 
+ 
+The Tender prepared by the Tenderer, as well as all correspondence and documents 
+relating to the tender, exchanged between the Tenderer and KPLC, shall be written in 
+English language
+. A
+ny printed literature furnished by the Tenderer wri
+tten in 
+any ot
+her 
+language 
+shall be
+ 
+accompanied by an accurate English translation of the relevant 
+passages
+,
+ 
+in which case, for purposes of interpretation of the Tender, the English 
+translation shall govern. The English translation shall be on the Tenderer
+
+and shall be signed by the duly authorized signatory signing the Tender and stamped 
+
+ 
+ 
+ 
+3.
+9
+ 
+ 
+Documents Comprising the Tender
+ 
+The Tender prepared and submitted by the Tenderers shall include but not be limited to 
+all t
+he following components: 
+-
+ 
+a) 
+ 
+D
+eclaration Form
+, Tender Form
+ 
+and a Price Schedule completed in compliance 
+with paragraphs 3.2, 3.
+10
+, 3.1
+1
+ 
+and 3.1
+2
+. 
+ 
+b) 
+ 
+Documentary evidence established in accordance with paragraph 3.1
+3 
+that the 
+Tenderer is eligible to ten
+der and is qualified to perform the contract if its 
+tender is accepted.
+ 
+c) 
+ 
+Documentary evidence established in accordance with paragraph 3.1
+4
+ 
+that the 
+services and any ancillary thereto to be provided by the Tenderer conform to the 
+tender documents, and,
+ 
+d) 
+ 
+Tender Security furnished in accordance with paragraph 3.1
+7
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+e) 
+ 
+A detailed list of previous customers as prescribed for similar services on tender 
+and their contact addresses shall be submitted with the Tender for the purpose 
+of reference, or for evalu
+ation where the Details of Service so dictate.
+ 
+f
+)
+ 
+And all other documents indicated in 
+Section II (Tender Submission Checklist)
+ 
+3.
+10
+ 
+Tender Form
+ 
+The Tenderer shall complete and sign the Tender Form and all other documents 
+furnished in the Tender Document, 
+indicating the services to be performed, a brief 
+description of the services, quantity (where applicable), and prices amongst other 
+information required. 
+ 
+ 
+3.1
+1
+ 
+Tender Prices 
+ 
+3.1
+1
+.1 
+ 
+The Tenderer shall indicate on the appropriate Price Schedule, the unit 
+prices (where 
+applicable) and total tender price of the services it proposes to provide under the 
+contract. 
+ 
+3.1
+1
+.2
+ 
+Prices indicated on the Price Schedule 
+shall be of 
+all costs for the services including 
+insurances, duties, Value Added Tax (V.A.T) and othe
+r taxes 
+payable. 
+No other 
+basis 
+shall be accepted for evaluation, award or otherwise.
+ 
+ 
+ 
+3.1
+1
+.3
+ 
+Tender prices to be submitted (quoted) by the Tenderer shall remain fixed 
+for
+ 
+ 
+the contract duration.
+ 
+3.1
+1
+.4
+ 
+A price that is derived by a disclosed incorporation
+ 
+or usage of an international 
+accepted standard formula shall 
+be acceptable within the meaning of this paragraph.
+  
+ 
+ 
+3.1
+2
+ 
+Tender Currencies 
+ 
+3.1
+2
+.1
+ 
+For services that the Tenderer will provide from within or outside Kenya, the prices 
+shall be quoted in Keny
+a Shillings, or in another freely convertible currency
+ 
+in Kenya
+. 
+The currency quoted must be indicated clearly on the Price Schedule of Services. 
+ 
+3.1
+2
+.2
+ 
+The exchange rate to be used for currency conversion shall be the Central Bank of 
+Kenya selling rate 
+p
+revailing
+ 
+on the 
+Tender closing date
+. 
+(Please visit the Central Bank 
+of Kenya website)
+.
+ 
+ 
+3.1
+3
+ 
+
+ 
+3.1
+3
+.1 
+ 
+Pursuant to paragraph 3.2, the Tenderer shall furnish, as part of its Tender, documents 
+establishing the Tender
+
+ 
+perform the contract if its Tender is accepted. 
+ 
+3.1
+3
+.2
+ 
+
+
+ction 
+
+ 
+ 
+a) 
+ 
+that, in the case of a Tenderer offering to perform the services under the 
+contract which the Tenderer is not the Principal, the Tenderer has been duly 
+authorized by the Manufacturer, Principal or Producer to provide the services. 
+The authoriz
+ation shall strictly be in the form and content as prescribed in the 
+
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+b) 
+ 
+that the Tenderer has the financial capability necessary to perform the contract. 
+The Tenderer shall be requir
+ed to provide the documents as specified in the 
+Appendix to Instructions to Tenderers including a current Tax Compliance 
+Certificate issued by the 
+relevant tax authorities
+.
+ 
+c) 
+ 
+that the Tenderer has the technical and production capability necessary to 
+perf
+orm the contract. 
+ 
+d) 
+ 
+that, in the case of a Tenderer not doing business within Kenya, the Tenderer is 
+or will be (if awarded the contract) represented by an agent in Kenya equipped, 
+
+d 
+stocking obligations prescribed in the Conditions
+ 
+of Contract and or in the 
+Details of Service. 
+ 
+e) 
+ 
+that the Tenderer is duly registered and is a current member of a
+ 
+recognized 
+body or institution accredited and or pertaining to that service.
+ 
+ 
+3.1
+3
+.3 
+ 
+T
+he Tenderer will furnish KPLC with a copy of the accreditation or recognition 
+certificate as applicable. KPLC reserves the right to subject the certificate to 
+authentication. 
+ 
+3.1
+3
+.4 
+ 
+Tenderers with a record of unsatisfactory or default in performance obli
+gations in any 
+contract shall not be considered for evaluation or award. For the avoidance of doubt, 
+this shall include any Tenderer with unresolved case(s) in its obligations for more than 
+two (2) months in any contract.  
+ 
+ 
+3.1
+4
+ 
+ 
+Conformity of Services to
+ 
+Tender Documents
+ 
+3.1
+4
+.1 
+ 
+The Tenderer shall furnish, as part of its tender, documents establishing the conformity 
+to the Tender Document of all services that the Tenderer proposes to perform under the 
+contract.
+ 
+ 
+3.1
+4
+.2 
+ 
+The documentary evidence of conform
+ity of the services to the Tender Document may 
+be in the form of literature, drawings, and data, and shall (where applicable) consist of: 
+-
+  
+ 
+a) 
+ 
+a detailed description of the essential technical and performance characteristics 
+of the services whether in c
+atalogues, drawings or otherwise,  
+ 
+b) 
+ 
+a list giving full particulars, including available source and current prices of 
+spare parts, special tools and other incidental apparatus necessary for the 
+proper and continuing performance of the services for a min
+imum period of two 
+(2) years following commencement of the provision of the services to 
+KPLC, 
+and
+,  
+ 
+c) 
+ 
+
+demonstrating substantial responsiveness of the service to those Details or, a 
+stat
+ement of deviations and exceptions to the provisions of the Details of 
+Service.
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+3.1
+4
+.3 
+ 
+For purposes of the documentary and other evidence to be furnished pursuant to sub
+-
+paragraphs 3.1
+4
+.1, 3.1
+4
+.2 and paragraph 3.1
+5
+, the Tenderer shall note that standards 
+for 
+workmanship, material, and equipment, designated by KPLC in its Details of Service 
+are intended to be descriptive only and not restrictive. The Tenderer may adopt higher 
+
+ 
+the 
+substitutions ensure substantial equivalence to those designated in the Details of 
+Service.
+ 
+ 
+3.1
+5
+ 
+ 
+Demonstration(s), 
+Inspection(s) and Test(s)
+ 
+3.1
+5
+.1
+ 
+Where required in the tender, all Tenderers shall demonstrate ability of performance of 
+the required 
+service in conformity with the Details of Services. 
+ 
+3.1
+5
+.2 
+ 
+
+capacity, equipment, premises, and to confirm their conformity 
+to the tender 
+ 
+requirements. This shall include t
+
+representative(s) retained for these purposes shall provide appropriate identification at 
+the time of such inspection/ test.  
+ 
+3.1
+5
+.3 
+ 
+KPLC shall meet its own costs of the inspection/ test. Where conducted on the premis
+es 
+of the Tenderer(s), all reasonable facilities and assistance, including access to drawings 
+and production data, shall be furnished to the inspectors at no charge to KPLC.     
+ 
+3.1
+5
+.4 
+ 
+Demonstration, Inspection/ Test Report(s) shall be completed upon con
+clusion of the 
+inspection/ tests. This Report will be considered at time of evaluation
+ 
+and or award
+. 
+ 
+ 
+ 
+3.1
+6
+ 
+ 
+Warranty
+ 
+3.1
+6
+.1
+ 
+Where required in the Tender, all Tenderers must also provide a Warranty 
+that
+ 
+services 
+to be rendered 
+
+o defect arising from manufacture, materials 
+or workmanship or from any act or omission of the Tenderer that may develop under 
+normal use or application of the services under the conditions obtaining in Kenya.
+ 
+ 
+3.1
+6
+.2 
+ 
+This warranty will remain valid for t
+he period indicated in the special conditions of 
+contract after the 
+services
+, or any portion thereof as the case may be, have been 
+rendered
+.  
+ 
+ 
+3.17
+ 
+Tender Security 
+ 
+3.17.1 
+ 
+The Tenderer shall furnish, as part of its Tender, a tender security for the amoun
+t 
+specified in the 
+Appendix to Instructions to Tenderers
+.
+ 
+The Original Tender Security, 
+in a clearly labelled envelop, shall be deposited in the 
+Tender Security Box on
+ 
+3
+rd
+ 
+Floor, Procurement entrance 
+on or before the opening date and time.
+ 
+ 
+3.17.2 
+ 
+The ten
+der security shall be either one or a combination of the 
+following: 
+-
+ 
+a)
+ 
+an original Bank Guarantee that is strictly in the form and content as prescribed 
+in the Tender Security Form (Bank Guarantee) in the Tender Document. 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+b)
+ 
+For Local bidders, Standby L
+etters of Credit (LC). All costs, expenses and 
+charges levied by all banks party to the LC shall be prepaid
+/borne
+ 
+by the 
+Tenderer. The LC must contain all the mandatory conditions of payment to 
+KPLC as prescribed in the Tender Security (Letters of Credit) 
+provided in the 
+Tender Document. 
+ 
+c)
+ 
+For Foreign bidders, Standby Letters of Credit (LC) confirmed by a bank in 
+Kenya. All costs, expenses and charges levied by all banks party to the LC 
+including confirmation charges shall be prepaid
+/borne
+ 
+by the Tenderer
+. The LC 
+must contain all the mandatory conditions of payment to KPLC as prescribed in 
+the Tender Security (Letters of Credit) provided in the Tender Document. 
+ 
+d)
+ 
+An original Guarantee by a deposit taking Microfinance Institution, Sacco 
+Society, Youth Ent
+erprise Development Fund or the Women Enterprise Fund, 
+that is strictly in the form and content as prescribed in the Tender Security Form
+ 
+ 
+3.17.3 
+ 
+
+conduct which would warran
+
+ 
+3.17.4 
+ 
+The Tender Security shall be denominated in Kenya Shillings or in another freely 
+convertible currency in Kenya. A Tender Security in form of a Bank Guarantee or a 
+Standby Letter of Credit i
+ssued on behalf of local bidders, should be from a commercial 
+bank licensed by the Central Bank of Kenya.  A Tender Security in form of a Standby 
+Letter of Credit issued on behalf of foreign bidders by foreign banks, should be 
+confirmed by a commercial ban
+k licensed by the Central Bank of Kenya.
+ 
+ 
+3.17.5
+ 
+The Tender Security shall be valid for thirty (30) days beyond the validity of the tender. 
+ 
+3.17.6 
+ 
+KPLC shall seek authentication of the Tender Security from the issuing bank. It is the 
+responsibility of th
+e Tenderer to sensitize its issuing bank on the need to respond 
+directly and expeditiously to queries from KPLC. The period for response shall not 
+
+response by the bank within
+ 
+
+deemed as invalid and the bid rejected. 
+ 
+ 
+3.17.7 
+ 
+Any Tender not secured in accordance with this paragraph will be rejected by  
+ 
+KPLC as non
+-
+responsive, pursuant to paragraph 
+3.
+26
+.
+ 
+ 
+3.17.8 
+ 
+The unsuccess
+
+in any of the following circumstances: 
+-
+ 
+ 
+a) 
+ 
+the procurement proceedings are terminated 
+ 
+b) 
+ 
+KPLC determines that none of the submitted Tenders is responsive 
+ 
+c) 
+ 
+a contract for the 
+procurement is entered into.
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+3.17.9 
+ 
+
+
+Performance Security, pursuant to paragraph 3.40.
+ 
+ 
+3.17.10 
+ 
+The Tender Security shall be forfeited 
+
+ 
+ 
+a) 
+ 
+if the Tenderer withdraws its Tender after the deadline for submitting Tenders 
+but before the expiry of the period during which the Tenders must remain valid
+ 
+b
+) 
+ 
+if the Tenderer fails to enter into a w
+ritten contract in accordance with 
+paragraph 3.39
+ 
+c
+) 
+ 
+if the successful Tenderer fails to furnish the performance security in 
+accordance with paragraph 3.40 
+ 
+d
+) 
+ 
+if the Tenderer fails to extend the validity of the tender security where KPLC has 
+extended th
+e tender validity period in accordance with paragraph 3.18.  
+ 
+ 
+3.18
+ 
+Validity of Tenders 
+ 
+3.18.1 
+ 
+Tenders shall remain valid for 
+one hundred and eighty (18
+0) days after the date of 
+tender opening as specified in the Invitation to Tender or as otherwise may 
+be 
+prescribed by KPLC, pursuant to paragraph 3.23. A Tender that is valid for a shorter 
+period shall be rejected by KPLC as non
+-
+responsive.  
+ 
+3.18.2 
+ 
+In exceptional circumstances, KPLC may extend the Tender validity period. The 
+extension shall be made in w
+riting. The tender security provided under paragraph 3.17 
+shall also be extended. A Tenderer shall not be required nor permitted to modify its 
+tender during the extended period
+.
+ 
+ 
+3.1
+9
+ 
+ 
+Alternative Offers 
+ 
+ 
+Only main offers shall be considered, as alternati
+ve offers are not acceptable.  
+ 
+          
+ 
+3.
+2
+0
+ 
+Preparation and Signing of the Tender 
+ 
+ 
+ 
+3.
+2
+0
+.1 
+ 
+The Tender shall be typed or written in indelible ink. 
+It
+ 
+shall be signed by the Tenderer 
+or a person or persons duly authorized to bind the Tenderer to the co
+ntract. 
+ 
+ 
+3.
+2
+0
+.2 
+ 
+The authorization shall be indicated by a written Power of Attorney granted by the 
+Tenderer to the authorized person before any of the following 
+persons: 
+-
+ 
+a)
+ 
+For local Tenderers, a Commissioner of Oaths or a Notary Public or a 
+Magistrate
+ 
+of the Kenyan Judiciary. 
+ 
+b)
+ 
+For foreign Tenderers, a Notary Public in the country of the Tenderer. 
+ 
+In either case above, the Power of Attorney shall accompany the Tender. 
+ 
+3.
+2
+0
+.3 
+ 
+All pages of the Tender, including un
+-
+amended printed literature, shall b
+e 
+initialed
+ 
+by 
+the person or persons signing the Tender and serially numbered. 
+ 
+3.
+2
+0
+.4 The Tender shall have no interlineations, erasures, or overwriting except as necessary to 
+correct errors made by the Tenderer, in which case such corrections shall be 
+in
+itialed
+ 
+by 
+the person or persons signing the Tender.
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+2
+0
+.5 
+ 
+
+with or observe the entire contents of this paragraph 3.
+2
+0
+. 
+ 
+3.2
+0
+.6 Any
+ 
+Tender not prepared and signed in accor
+dance with this paragraph may be rejected 
+by KPLC as non
+-
+responsive, pursuant to paragraph 
+3.
+26
+.
+ 
+ 
+3.
+2
+1
+ 
+ 
+Deadline for Submission of Tenders 
+ 
+3.
+2
+1
+.1 
+ 
+T
+enders must be received by KPLC by the 
+date and 
+time 
+
+portal in PDF form
+.
+ 
+3.
+2
+1
+.2 
+ 
+KPLC may, at its discretion, extend this deadline for submission of Tenders by 
+amending the tender documents in accordance with paragraph 3.7, in which case all 
+rights and obligations of KPLC and the Tenderer previously subject to the initial 
+deadline,
+ 
+will therefore be subject to the deadline as extended.
+ 
+ 
+3.
+2
+2
+ 
+Modification and Withdrawal of Tenders
+ 
+ 
+3.
+2
+2
+.1
+ 
+The Tenderer may modify or withdraw its Tender after it has submitted, provided that 
+the modification, including substitution or
+ 
+withdrawal of the 
+Tender is received by 
+KPLC prior to the deadline prescribed for submission of tenders.
+ 
+3.2
+2
+.2 
+ 
+No Tender may be modified after the deadline for submission of Tenders.
+ 
+3.
+2
+2
+.
+3
+ 
+ 
+No Tender may be withdrawn in the interval between the deadline for submission of
+ 
+tenders and the expiration of the period during which the Tender must remain valid 
+except where KPLC extends the initial validity period. Any withdrawal of a Tender 
+
+w
+here KPLC extends the initial validity period.
+ 
+ 
+3.
+2
+3
+ 
+O
+pening of Tenders
+ 
+3.
+2
+3
+.1 
+ 
+KPLC shall open all Tenders promptly 
+at the 
+date and time
+ 
+specified in the KPLC 
+tendering portal and
+ 
+at the location specified in the Invitation to Tender or as may 
+otherwise b
+e indicated. 
+ 
+3.
+2
+3
+.2 
+ 
+
+requisite Tender Security and such other details as KPLC, at its discretion, may 
+consider appropriate, will be announced at the opening.
+ 
+3.
+2
+3
+.3 
+ 
+At 
+the Tender opening, tender prices, discounts, and such other details as KPLC, at its 
+discretion, may consider appropriate will be read out.  
+ 
+3.
+2
+3
+.4
+ 
+The Tenderers or their representatives may attend the opening and those present shall 
+sign a register evide
+ncing their attendance.
+ 
+ 
+3.
+2
+4
+ 
+Process to be Confidential
+ 
+3.
+2
+4
+.1 
+ 
+After the 
+o
+pening of tenders, information relating to the examination, 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+clarification, evaluation and comparisons of tenders and recommendations arising there
+-
+from shall not be disclosed to a
+ 
+Tenderer or other person(s) not officially concerned 
+with such process until conclusion of that process. 
+ 
+3.
+2
+4
+.2 
+ 
+Conclusion of that process shall be deemed to have occurred, at the latest, by the date 
+and time KPLC 
+notifies the successful
+ 
+bidder(s). In a
+ny event, official disclosure by 
+KPLC of any information upon conclusion of that process may only be to the 
+unsuccessful bidders and may contain only the information permissible by law in 
+summary form. 
+ 
+3.
+2
+4
+.3 
+ 
+Any effort by a Tenderer to influence KPLC or
+ 
+any of its staff members in the process 
+of examination, evaluation and comparison of tenders and information or decisions 
+concerning the Tender may result in the disqualification of the Tenderer.
+ 
+3.
+2
+5
+ 
+Clarification of Tenders and Contacting KPLC
+ 
+3.
+2
+5
+.1
+ 
+To
+ 
+assist in the examination, evaluation and comparison of Tenders KPLC may, at its 
+discretion, ask the Tenderer for a clarification of its Tender. The request for 
+clarification and the response shall be in writing, and no change in the prices or 
+substance o
+f the Tender shall be sought, offered, or permitted.
+ 
+3.
+2
+5
+.2 
+ 
+The Tenderer is required to provide timely clarification or substantiation of the 
+information that is essential for effective evaluation of its qualifications. It is the 
+responsibility of the Ten
+derer to provide in writing the clarification or substantiation 
+
+writing may include by electronic mail, facsimile or postal mail. Should there be no 
+conclusive response within
+ 
+
+ 
+3.
+2
+5
+.3 
+ 
+Save as is provided in this paragraph and paragraph 3.
+2
+2
+ 
+above, no Tenderer shall 
+contact KPLC on any matter related to its Tender, from the time of the tender opening 
+to the time th
+e successful Tenderer is 
+announced.
+ 
+3.
+2
+5
+.4 
+ 
+Any effort by a Tenderer to influence KPLC in its decisions on tender evaluation, 
+tender comparison, tender recommendation(s) or signing of Agreement may result in 
+the 
+disqualification of 
+the Tenderer
+.
+ 
+ 
+3.
+2
+6
+ 
+Prel
+iminary Evaluation and Responsiveness
+ 
+3.
+2
+6
+.1 
+ 
+P
+rior to the detailed Technical and Financial evaluation, KPLC will determine the 
+substantial responsiveness of each Tender. For purposes of this tender, a substantially 
+responsive Tender is one that conforms t
+o the requirements of Preliminary Evaluation. 
+
+the Tender itself without recourse to extrinsic evidence. 
+ 
+3.
+2
+6
+.2 
+ 
+KPLC will examine the Tenders to determine whether they con
+form to the Preliminary 
+Evaluation Criteria set out in Section VI Evaluation Criteria.   
+ 
+3.
+2
+6
+.3 
+ 
+Notwithstanding the contents of the foregoing sub
+-
+paragraphs, if a Tender is
+ 
+not
+ 
+ 
+substantially responsive, it will be rejected at the earliest stage of evalu
+ation by KPLC 
+and cannot subsequently be made responsive by the Tenderer by correction of any non
+
+conformity.
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+2
+7
+ 
+Minor Deviations, Errors or Oversights 
+ 
+3.
+2
+7
+.1
+ 
+KPLC may waive any minor deviation in a Tender that does not materially depart from 
+the requi
+rements of the goods and or services set out in the Tender Document.
+ 
+3.
+2
+7
+.2 
+ 
+Such minor deviation 
+-
+ 
+ 
+3.
+2
+7
+.2.1 shall be quantified to the extent possible,  
+ 
+3.
+2
+7
+.2.2 shall be taken into account in the evaluation process, and, 
+ 
+3.
+2
+7
+.2.3 shall be applied unif
+ormly and consistently to all qualified Tenders duly
+ 
+  
+received by KPLC.
+ 
+3.
+2
+7
+.3 
+ 
+KPLC may waive errors and oversights that can be corrected without affecting the 
+substance of the Tender.
+ 
+ 
+3.
+28
+ 
+Technical 
+Evaluation and Comparison of Tenders 
+ 
+3.
+28
+.1
+ 
+ 
+KPLC wi
+ll further evaluate and compare the Tenders that have been determined to be 
+substantially responsive, in compliance to the Details of Services set out in the Tender 
+Document and as per the 
+prescribed 
+Evaluation Criteria
+. 
+ 
+3.
+28
+.2 
+ 
+The 
+Operational Plan is a 
+critical aspect of the Tender. KPLC 
+requires that the Services 
+shall be performed at the time specified in the Schedule of Requirements. 
+
+evaluation of a tender will also take into account the Operational Plan proposed in the 
+Tender. 
+Tenderers offeri
+
+be treated as non
+-
+responsive and rejected. 
+ 
+ 
+3.
+29
+ 
+ 
+Financial Evaluation
+ 
+3.
+29
+.
+1
+ 
+The financial evaluation and comparison shall be as set out in the Summary of 
+Evaluation Process. 
+The comparison sha
+ll be 
+ 
+a) 
+ 
+of the price including all costs as well as duties and taxes payable on all the 
+materials to be used in the provision of the Services. 
+ 
+b) 
+ 
+deviations in Payment Schedule from that specified in the Special Conditions of 
+Contract
+ 
+3.
+29
+.
+2
+ 
+ 
+Where ot
+her currencies are used, KPLC will convert those currencies to the 
+ 
+same currency using the selling exchange rate ruling on the date of tender closing 
+provided by the Central Bank of Kenya. 
+ 
+ 
+3.
+3
+0
+ 
+Preferences
+ 
+3.30.1 
+ 
+Subject to availability and realization
+ 
+of the applicable international or local standards, 
+only such manufactured articles, materials or supplies wholly mined and produced in 
+Kenya shall be subject to preferential procurement.
+ 
+ 
+3.30.2
+ 
+Despite the above provisions, preference shall be given to 
+
+ 
+ 
+(a)
+ 
+manufactured articles, materials and supplies partially mined or produced in Kenya 
+or where applicable have been assembled in Kenya; or 
+ 
+(b)
+ 
+firms where Kenyans are shareholders.
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.30.3
+ 
+The threshold for the provision under 3.30.2 (b) shall be abov
+e fifty
+-
+one percent of 
+Kenyan shareholders.
+ 
+ 
+3.
+30
+.1
+ 
+In the evaluation of tenders, e
+xclusive preference shall firstly be given to citizen 
+contractors where the
+ 
+amount of the tender as evaluated is below
+ 
+Ksh. 500 Million
+ 
+in 
+respect of 
+works, goods and servic
+es.
+ 
+3.
+30
+.2
+ 
+Where a person is entitled to more than one preference scheme, the scheme with the 
+highest advantage to the person shall be applied.
+ 
+ 
+3.
+3
+0
+.
+3
+    
+For purposes of this paragraph the Tenderer shall submit with its Tender, a valid copy 
+of certificate
+ 
+of Confirmation of Directorships and Shareholding issued 
+and signed
+ 
+by 
+either the Registrar of Companies or Registrar of Business Names. This certificate must 
+not be more than three (3) months old from the Date of the Tender Document. Kenya 
+Power reserves
+ 
+the right to subject the certificate to authentication
+.
+ 
+ 
+3.
+3
+1
+ 
+Debarment of a Tenderer 
+ 
+A Tenderer who gives false information in the Tender about its qualification or who 
+refuses to enter into a contract after notification of contract award shall be consi
+dered 
+for debarment from participating in future public procurement. 
+ 
+ 
+3
+.
+3
+2
+ 
+ 
+Confirmation of Qualification for Award
+ 
+ 
+3.
+3
+2
+.1 
+ 
+KPLC may confirm to its satisfaction whether the Tenderer that is selected as having 
+submitted the lowest evaluated responsive ten
+der is qualified to perform the contract 
+satisfactorily.
+ 
+3.
+3
+2
+.2 
+ 
+
+p
+erformance 
+capabilities. It will be based upon an examination of the documentary 
+
+ualifications submitted by the Tenderer, pursuant to 
+paragraph 3.1
+3
+ 
+as well as confirmation of such other information as KPLC deems 
+necessary and appropriate.
+ 
+This may include factory, office and other facilities 
+inspection and audits. 
+ 
+3.
+3
+2
+.3 
+ 
+An affirmat
+ive confirmation will be a prerequisite for award of the contract to 
+ 
+
+in which event KPLC will proceed to the next lowest evaluated responsive tender to 
+make a similar
+ 
+
+ 
+3.
+3
+3
+ 
+ 
+Award of Contract  
+ 
+3.
+3
+3
+.1 
+ 
+KPLC will award the contract to the successful Tenderer whose Tender has been 
+determined to be substantially responsive, compliant with the evaluatio
+n criteria and has 
+been determined to be the lowest evaluated tender, and further, where deemed 
+necessary, that the Tenderer is confirmed to be qualified to perform the contract 
+satisfactorily. 
+ 
+3.
+3
+3
+.2 
+ 
+Award will be done as indicated in the Appendix to In
+structions to Tenderers.  
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3
+4
+ 
+ 
+Termination of Procurement Proceedings 
+ 
+3.
+3
+4
+.1 
+ 
+KPLC may at any time terminate procurement proceedings before contract award and 
+shall not be liable to any person for the termination. 
+ 
+3.
+3
+4
+.2 
+ 
+KPLC shall give prompt notice
+ 
+of the termination to the Tenderers, and, on request 
+from any Tenderer, give its reasons for termination within fourteen (14) days of such 
+request.
+ 
+ 
+3.
+3
+5
+ 
+ 
+Notification of Award
+ 
+3.
+3
+5
+.1 
+ 
+Prior to the expiration of the period of tender validity, KPLC shall n
+otify the successful 
+Tenderer in writing that its Tender has been accepted.
+ 
+3.
+3
+5
+.2 
+ 
+The notification of award shall not constitute the formation of the contract until one is 
+finally signed by both parties.
+ 
+3.
+3
+5
+.3 
+ 
+Simultaneously,
+ 
+and without prejudice to t
+he conten
+t
+s of paragraph 3.
+2
+5
+, 
+on issuance of 
+Notification of Award to the successful Tenderer, KPLC shall notify each unsuccessful 
+Tenderer. 
+ 
+3.3
+5
+.4 
+ 
+A notification of the tender outcome does not reduce the validity period for any tender 
+security whether 
+the Tenderer is successful or not
+, 
+except where such tender security is 
+officially released to the Bank and/or the Tenderer and such Bank discharged of all its 
+obligations by KPLC prior to the expiry of its stated validity period.
+ 
+ 
+ 
+3.
+3
+6
+ 
+ 
+Signing of Contra
+ct
+ 
+3.
+3
+6
+.1 
+ 
+At the same time as KPLC notifies the successful Tenderer that its Tender has been 
+accepted, KPLC will send the Tenderer the Contract Agreement provided in the Tender 
+Document together with any other necessary documents incorporating all agreeme
+nts 
+between the Parties.
+ 
+3.
+3
+6
+.2 
+ 
+Within 
+fourteen
+ 
+(
+14
+) days of the date of notification of award, the successful Tenderer 
+shall only sign the Contract Form and all the documents specified in that Form and 
+return them to KPLC within that period of 
+fourteen
+ 
+(
+14
+) days.
+ 
+3.
+36
+.3 
+ 
+KPLC shall sign and date the Contract in the period between not earlier than 
+fourteen
+ 
+(
+14
+) days from the date of notification of contract award. Further, KPLC shall not sign 
+the contract until and unless the authentic performance security
+ 
+is received in 
+accordance with
+ 
+paragraph 3.
+3
+6
+.   
+ 
+3.
+3
+6
+.4 
+ 
+Failure of the successful Tenderer to sign the Contract, the award shall be annulled and 
+its tender security forfeited in which event KPLC shall notify the next lowest evaluated 
+Tenderer that its T
+ender has been accepted.
+ 
+3.
+3
+6
+.5 
+ 
+Paragraph 3.
+3
+3
+ 
+together with the provisions of this paragraph 3.
+3
+5
+ 
+will apply with 
+necessary modifications with respect to the Tenderer notified under sub
+-
+paragraph 
+3.
+3
+5
+.
+3
+. 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+37
+ 
+ 
+Performance Security 
+ 
+ 
+3.
+37
+.1 
+ 
+W
+ithin 
+fou
+rteen 
+(
+14)
+ 
+days of the date of notification of award from KPLC, the 
+successful Tenderer shall furnish KPLC with a Performance Security which shall be 
+either one or a combination of the following:
+ 
+a)
+ 
+an original Bank Guarantee that is strictly in the form a
+nd content as prescribed 
+in the Performance Security Form (Bank Guarantee) in the Tender Document.  
+ 
+b)
+ 
+For Local bidders, Standby Letters of Credit (LC). All costs, expenses and 
+charges levied by all banks party to the LC shall be prepaid
+/borne
+ 
+by the 
+Ten
+derer. The LC must contain all the mandatory conditions of payment to 
+KPLC as prescribed in the Tender Security (Letters of Credit) provided in the 
+Tender Document.
+ 
+ 
+c)
+ 
+For Foreign bidders, Standby Letters of Credit (LC) confirmed by a bank in 
+Kenya. All c
+osts, expenses and charges levied by all banks party to the LC 
+including confirmation charges shall be prepaid
+/borne
+ 
+by the Tenderer. The LC 
+must contain all the mandatory conditions of payment to KPLC as prescribed in 
+the Tender Security (Letters of Credi
+t) provided in the Tender Document. 
+ 
+3.
+ 
+37
+.2
+ 
+The Performance Security shall be issued by a commercial bank licensed by the Central 
+Bank of Kenya. The bank must 
+be in
+ 
+Kenya.
+ 
+3.
+ 
+37
+.3 
+ 
+The Performance Security shall be the sum of ten percent (10%) of the 
+cont
+ract 
+value. It 
+shall be in the currency of the contract price.
+ 
+ 
+3.
+ 
+37
+.4 
+ 
+KPLC shall seek authentication of the Performance Security from the issuing bank. It is 
+the responsibility of the successful Tenderer to sensitize its issuing bank on the need to 
+resp
+ond directly and expeditiously to queries from KPLC. The period for response shall 
+not exceed 
+three
+ 
+(
+3
+
+ 
+query. Should there be no conclusive response by the Bank within this period, such 
+
+ity may be deemed as invalid. 
+ 
+3.
+ 
+37
+.5 
+ 
+Failure of the successful Tenderer to furnish an authentic Performance Security, the 
+award shall be annulled and the Tender Security forfeited, in which event KPLC may 
+notify the next lowest evaluated Tenderer that i
+ts Tender has been accepted.
+ 
+3.
+ 
+37
+.6 
+ 
+Paragraph 3.
+3
+5
+, 3.
+3
+6
+ 
+together with the provisions of this paragraph 3.
+ 
+37
+ 
+will apply with 
+necessary modifications, and as far as circumstances permit, with respect to the 
+Tenderer notified under sub
+-
+paragraph 3.
+3
+7
+.
+5
+.
+ 
+ 
+3.
+38
+ 
+ 
+Corrupt or Fraudulent Practices 
+ 
+3.
+38
+.1 
+ 
+KPLC requires that Tenderers observe the highest standard of ethics during the 
+procurement process and execution of contracts. When used in the present Regulations, 
+the following terms are defined as follows: 
+-
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+a) 
+ 
+
+anything
+ 
+of value to influence the action of public official in the procurement 
+process or in contract execution; 
+ 
+b) 
+ 
+
+in order to influence 
+a procurement process or the execution of a contract to the detriment of KPLC, 
+and includes collusive practice among Tenderers (prior to or after Tender 
+submission) designed to establish tender prices at artificial non
+-
+competitive 
+lev
+els and to deprive KPLC of the benefits of free and open competition. 
+ 
+3.
+ 
+38
+.2 
+ 
+KPLC will nullify its 
+notification of award 
+if it determines that the Tenderer 
+recommended has engaged in corrupt or fraudulent practices in competing for the 
+contract in quest
+ion
+. 
+ 
+3.
+ 
+38
+.3 
+ 
+Further, a Tenderer who is found to have indulged in corrupt or fraudulent practices 
+risks being debarred from participating in public procurement in Kenya.
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX TO INSTRUCTIONS TO TENDERERS
+ 
+ 
+The following information regarding the par
+ticulars of the tender shall complement and or 
+amend the provisions of the Instructions to Tenderers 
+hereinafter abbreviated as 
+I
+T
+T
+. Wherever 
+there is a conflict between the provisions of the 
+IT
+T
+ 
+and the Appendix, the provisions of the 
+Appendix herein shal
+l prevail over those of the 
+I
+T
+T
+.
+ 
+ 
+No. 
+ 
+ICT
+ 
+Reference Clause 
+ 
+Particulars of Appendix 
+ 
+1.
+ 
+3.2.1 Eligible Tenderers 
+ 
+Local bidders duly authorized by the following 
+manufacturers: 
+-
+ 
+i)
+ 
+Messrs. Oracle Corporation 
+for the 
+support & 
+maintenance
+ 
+of the
+ 
+Oracle hardw
+are
+ 
+viz. Electronic 
+Tape Libraries SL3000 and Sun SPARC servers 
+ 
+ii)
+ 
+ 
+Messrs.
+ 
+Veritas Technologies for the 
+support and 
+m
+aintenance of 
+NetBackup
+ 
+Software
+ 
+2. 
+ 
+3.9 (e) Documents 
+Comprising the Tender 
+
+ 
+List of Previous Customers
+ 
+The Tenderer shall
+ 
+submit at leas
+t 
+one (1)
+ 
+name with full 
+contact as well as physical addresses of previous 
+customers of similar services and letters from the previous 
+customers confirming completion of the contracts on 
+schedule.
+ 
+ 
+3.
+ 
+3.12
+ 
+Tender Currencies
+ 
+Price quoted 
+MUST
+ 
+be in Kenya s
+hillings.
+ 
+ 
+4
+.
+ 
+
+
+ 
+M
+
+ 
+from 
+M/s 
+Oracle 
+Corporation
+ 
+and 
+Messrs. Veritas Technologies
+.
+ 
+5
+.
+ 
+3.13.2 (b) Documentary 
+evidence of financial 
+capability 
+ 
+The audited financial statements re
+quired must be those 
+that are reported within eighteen (18) calendar months of 
+the date of the tender document.
+ 
+(For companies or firms that are registered or 
+incorporated within the last one calendar year of the Date 
+of the Tender Document, they should su
+bmit certified 
+copies of bank statements covering a period of at least six 
+months prior to the date of the tender document. The 
+copies should be certified by the Bank issuing the 
+statements. The certification should be original).
+ 
+6
+.
+ 
+3.16.2 Warranty 
+
+ 
+Peri
+od of
+ 
+This is not applicable in this tender
+ 
+ 
+7
+.
+ 
+3.17.1
+ 
+Tender Security
+ 
+The bidders shall provide 
+Tender Security amounting to 
+KShs.
+4
+00,000/
+-
+ 
+8
+. 
+ 
+3.3
+3
+.2 Mode of Award of 
+Contract  
+ 
+Award shall be made to the lowest evaluated bidder  
+ 
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION IV 
+-
+ 
+SCHED
+ULE OF REQUIREMENTS
+ 
+ 
+Part A 
+-
+ 
+Brief Schedule o
+f Services Required  
+ 
+ 
+TENDER N
+O.
+ 
+KP1/9A.2/OT/026/ICT/20
+-
+21 
+FOR PROVISION OF 
+ANNUAL SUPPORT 
+& MAINTENANCE SERVICES FOR ORACLE HARDWARE (TAPE LIBRARIES & 
+ASSOCIATED DEVICES)
+ 
+ 
+The 
+bidder will provide 
+Support & Ma
+intenance of the hardware devices and software items 
+with 
+the specification
+s
+ 
+listed below.
+ 
+The 
+s
+upport & 
+m
+aintenance will be provided for a period of 
+two 
+(2) 
+years.
+ 
+ 
+1.
+ 
+T
+a
+pe L
+i
+b
+rar
+ie
+s and Associated Devices
+ 
+ 
+I
+tem
+ 
+N
+o
+.
+ 
+Descr
+i
+p
+ti
+o
+n
+ 
+S
+erial
+ 
+N
+u
+m
+b
+er
+ 
+L
+o
+c
+a
+ti
+o
+n
+ 
+1
+.
+ 
+Ele
+ctronic Tape Library 
+
+ 
+(
+Sto
+r
+a
+g
+e
+T
+ek
+ 
+S
+L
+3000
+)
+ 
+C
+H
+A
+S
+S
+I
+S
+ 
+571
+0
+00
+2
+00
+7
+8
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+1
+ 
+574
+0
+00
+2
+24
+2
+0
+4
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+2
+ 
+574
+0
+00
+2
+24
+1
+9
+4
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+3
+ 
+574
+0
+00
+2
+24
+1
+9
+5
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+4
+ 
+574
+0
+00
+2
+24
+2
+0
+3
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+5
+ 
+574
+0
+00
+2
+24
+2
+0
+3
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+6
+ 
+574
+0
+00
+2
+24
+2
+0
+0
+ 
+St
+i
+m
+a
+ 
+P
+l
+aza
+ 
+2
+.
+ 
+Bro
+c
+ad
+e
+ 
+3
+0
+0 
+S
+w
+it
+c
+h
+ 
+ 
+ 
+ 
+ 
+074
+2
+02
+5
+-
+0950
+AL
+K
+00
+6
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+3
+.
+ 
+Bro
+c
+ad
+e
+ 
+3
+0
+0 
+S
+w
+it
+c
+h
+ 
+ 
+074
+2
+02
+5
+-
+0950
+AL
+K
+00
+K
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+4
+.
+ 
+ 
+B
+r
+o
+c
+a
+de
+ 
+30
+0
+ 
+switch
+ 
+ 
+074
+2
+02
+5
+-
+1508
+AL
+J
+00
+X
+ 
+Stima Plaza
+ 
+5
+.
+ 
+ 
+B
+r
+o
+c
+a
+de
+ 
+30
+0
+ 
+Switch
+ 
+ 
+074
+2
+02
+5
+-
+1
+508
+AL
+J
+02
+6
+ 
+Stima Plaza
+ 
+6
+.
+ 
+S
+u
+n
+ 
+Fire
+ 
+T5240
+ 
+ 
+TFL09510V3
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+7
+.
+ 
+S
+u
+n
+ 
+Fire
+ 
+T
+3
+-
+1
+ 
+112
+8
+B
+D
+R
+F
+F
+4
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+8
+.
+ 
+Sun Sp
+arc T5
+-
+2
+ 
+AK00294073
+ 
+St
+i
+m
+a
+ 
+P
+laza
+ 
+ 
+ 
+ 
+ 
+I
+tem
+ 
+N
+o
+.
+ 
+Descr
+i
+p
+ti
+o
+n
+ 
+S
+erial
+ 
+N
+u
+m
+b
+er
+ 
+L
+o
+c
+a
+ti
+o
+n
+ 
+1
+.
+ 
+Electronic Tape Library 
+
+ 
+(
+Sto
+r
+a
+g
+e
+T
+ek
+ 
+S
+L
+3000
+)
+ 
+C
+H
+A
+S
+S
+I
+S
+ 
+5
+71
+0
+00
+2
+01
+0
+9
+5
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+1
+ 
+578
+0
+00
+2
+03
+8
+2
+0
+ 
+Elect
+r
+ici
+t
+y H
+o
+use
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+2
+ 
+578
+0
+00
+2
+03
+9
+0
+1
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+3
+ 
+578
+0
+00
+2
+03
+8
+1
+9
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+4
+ 
+578
+0
+00
+2
+03
+8
+2
+3
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+Tender for Provision of Annual Support & Maintenance Services for Oracle Hardware (Tape Libraries & Associated Devices)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+5
+ 
+578
+0
+00
+2
+03
+8
+2
+1
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+6
+ 
+578
+0
+00
+2
+03
+9
+0
+0
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+2
+.
+ 
+S
+u
+n
+ 
+Ultra
+ 
+27 
+W
+or
+ks
+tati
+o
+n
+ 
+101
+9
+T
+F
+T
+0
+8
+U
+ 
+Elect
+r
+ici
+t
+y 
+H
+ou
+se
+ 
+3
+.
+ 
+S
+u
+n
+ 
+S
+p
+a
+r
+c
+ 
+T
+3
+-
+1 
+ 
+112
+8
+B
+D
+R
+F
+F
+3
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+4
+.
+ 
+S
+u
+n
+ 
+S
+p
+a
+r
+c
+ 
+T
+3
+-
+2
+ 
+112
+7
+B
+D
+R
+CC
+7
+ 
+Elect
+r
+ici
+t
+y House
+ 
+5
+.
+ 
+ 
+C
+i
+s
+co
+ 
+912
+4
+ 
+S
+w
+it
+c
+h
+ 
+J
+A
+F
+14223
+U
+2
+1
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+6.
+ 
+ 
+C
+i
+s
+co
+ 
+912
+4
+ 
+S
+w
+it
+c
+h
+ 
+J
+A
+F
+14223
+UX8
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+7.
+ 
+ 
+C
+i
+s
+co
+ 
+MDS
+ 
+914
+8
+ 
+Switch
+ 
+ 
+A
+M
+S
+19080
+9
+4
+4
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+8.
+ 
+ 
+C
+i
+s
+co
+ 
+MDS
+ 
+914
+8
+ 
+Switch
+ 
+ 
+ 
+A
+M
+S
+19070
+6
+7
+7
+ 
+Elect
+r
+ici
+t
+y H
+o
+us
+e
+ 
+ 
+ 
+2.
+ 
+V
+e
+ri
+t
+as
+ 
+N
+e
+t
+B
+a
+c
+k
+u
+p
+ 
+Software 
+ 
+ 
+ 
+It
+em
+ 
+ 
+S
+K
+U
+ 
+ 
+D
+e
+s
+c
+r
+i
+p
+t
+i
+on
+ 
+ 
+Q
+t
+y
+ 
+ 
+1
+ 
+EE
+C
+8
+X
+Z
+Z
+A
+-
+ 
+E
+R
+1
+ES
+ 
+V
+E
+R
+I
+T
+A
+S
+ 
+N
+E
+T
+B
+A
+C
+KUP
+ 
+P
+LA
+T
+FO
+R
+M
+ 
+B
+ASE
+ 
+C
+OM
+P
+LE
+T
+E ED
+I
+T
+I
+ON
+ 
+7
+.7
+ 
+X
+P
+LA
+T
+ 
+1 
+F
+R
+O
+NT
+ 
+END TB
+ 
+R
+EN
+EW
+AL
+ 
+ES
+S
+E
+N
+T
+I
+AL
+ 
+20
+ 
+ 
+2
+ 
+I
+S
+4
+YU
+Z
+Z
+0
+-
+ 
+B
+R
+1
+ES
+ 
+SYMC
+ 
+S
+T
+O
+R
+A
+GE
+ 
+FOUN
+D
+A
+T
+I
+ON
+ 
+S
+T
+A
+N
+D
+A
+R
+D
+ 
+6
+.2
+ 
+UNX
+ 
+1
+0
+ 
+S
+P
+VU 
+R
+EN
+EW
+AL
+ 
+B
+A
+S
+I
+C
+ 
+1
+2
+ 
+MON
+T
+HS EX
+P
+R
+ESS
+ 
+B
+A
+N
+D
+ 
+S
+ 
+204
+ 
+3
+ 
+I
+S
+4
+YU
+Z
+Z
+0
+-
+ 
+B
+R
+1
+ES
+ 
+SYMC
+ 
+S
+T
+O
+R
+A
+GE
+ 
+FOUN
+D
+A
+T
+I
+ON
+ 
+S
+T
+A
+N
+D
+A
+R
+D
+ 
+6
+.2
+ 
+UN
+X
+ 
+1
+0
+ 
+S
+P
+VU 
+R
+ENE
+W
+AL
+ 
+B
+A
+S
+I
+C
+ 
+1
+2
+ 
+MON
+T
+HS EX
+P
+R
+ESS
+ 
+B
+A
+N
+D
+ 
+S
+ 
+204
+ 
+4
+ 
+I
+S
+4
+YU
+Z
+Z
+0
+-
+ 
+B
+R
+1
+ES
+ 
+SYMC
+ 
+S
+T
+O
+R
+A
+GE
+ 
+FOUN
+D
+A
+T
+I
+ON
+ 
+S
+T
+A
+N
+D
+A
+R
+D
+ 
+6
+.2
+ 
+UNX
+ 
+1
+0
+ 
+S
+P
+VU 
+R
+EN
+EW
+AL
+ 
+B
+A
+S
+I
+C
+ 
+1
+2
+ 
+MON
+T
+HS EX
+P
+R
+ESS
+ 
+B
+A
+N
+D
+ 
+S
+ 
+272
+ 
+5
+ 
+EE
+C
+8
+X
+Z
+Z
+A
+-
+ 
+B
+R
+1
+ES
+ 
+V
+E
+R
+I
+T
+A
+S
+ 
+N
+E
+T
+B
+A
+C
+KUP
+ 
+P
+LA
+T
+FO
+R
+M
+ 
+B
+ASE
+ 
+C
+OM
+P
+LE
+T
+E ED
+I
+T
+I
+ON
+ 
+7
+.7
+ 
+X
+P
+LA
+T
+ 
+1 
+F
+R
+O
+NT
+ 
+END TB
+ 
+R
+EN
+EW
+AL
+ 
+B
+ASIC
+ 
+1
+2
+ 
+MON
+T
+HS EX
+P
+R
+ESS
+ 
+B
+A
+N
+D
+ 
+S
+ 
+4
+ 
+S
+ECTI
+O
+N V 
+-
+ 
+P
+RI
+C
+E 
+S
+CHED
+U
+LE 
+F
+OR 
+S
+ER
+V
+ICES
+ 
+ 
+1.
+ 
+T
+a
+pe L
+i
+b
+rar
+ie
+s and Associated Devices
+ 
+ 
+I
+tem
+ 
+N
+o
+.
+ 
+Descr
+i
+p
+ti
+o
+n
+ 
+S
+erial
+ 
+N
+u
+m
+b
+er
+ 
+U
+n
+it P
+r
+ice 
+ 
+VAT
+ 
+In
+c
+l.
+ 
+Total 
+P
+r
+ice 
+ 
+VAT
+ 
+In
+c
+l.
+ 
+ 
+STIMA PLAZA
+ 
+ 
+1
+ 
+Electronic Tape Library 
+
+ 
+(
+Sto
+r
+a
+g
+e
+T
+ek
+ 
+S
+L
+3000
+)
+ 
+C
+H
+A
+S
+S
+I
+S 
+ 
+571
+0
+00
+2
+00
+7
+8
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+1
+ 
+574
+0
+00
+2
+24
+2
+0
+4
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+2
+ 
+574
+0
+00
+2
+24
+1
+9
+4
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+3
+ 
+574
+0
+00
+2
+24
+1
+9
+5
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+4
+ 
+574
+0
+00
+2
+24
+2
+0
+3
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+5
+ 
+574
+0
+00
+2
+24
+2
+0
+3
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+6
+ 
+574
+0
+00
+2
+24
+2
+0
+0
+ 
+ 
+ 
+2
+ 
+ 
+Bro
+c
+ad
+e
+ 
+3
+0
+0 
+S
+w
+it
+c
+h
+ 
+ 
+074
+2
+02
+5
+-
+0950
+AL
+K
+00
+6
+ 
+ 
+ 
+3
+ 
+ 
+Bro
+c
+ad
+e
+ 
+3
+0
+0 
+S
+w
+it
+c
+h
+ 
+ 
+074
+2
+02
+5
+-
+0950
+AL
+K
+00
+K
+ 
+ 
+ 
+4
+ 
+ 
+B
+r
+o
+c
+a
+de
+ 
+30
+0
+ 
+switch
+ 
+ 
+074
+2
+02
+5
+-
+1508
+AL
+J
+00
+X
+ 
+ 
+ 
+5
+ 
+ 
+B
+r
+o
+c
+a
+de
+ 
+30
+0
+ 
+Switch
+ 
+ 
+074
+2
+02
+5
+-
+1508
+AL
+J
+02
+6
+ 
+ 
+ 
+6
+ 
+S
+u
+n
+ 
+Fire
+ 
+T5240
+ 
+ 
+TFL09510V3
+ 
+ 
+ 
+7
+ 
+S
+u
+n
+ 
+Fire
+ 
+T
+3
+-
+1
+ 
+112
+8
+B
+D
+R
+F
+F
+4
+ 
+ 
+ 
+8
+ 
+Sun Sp
+arc T5
+-
+2
+ 
+AK00294073
+ 
+ 
+ 
+ 
+TOTAL (1
+st 
+Year of S&M)
+ 
+ 
+ 
+ 
+ 
+ 
+I
+tem
+ 
+N
+o
+.
+ 
+Descr
+i
+p
+ti
+o
+n
+ 
+S
+erial
+ 
+N
+u
+m
+b
+er
+ 
+U
+n
+it P
+r
+ice 
+ 
+VAT
+ 
+In
+c
+l.
+ 
+Total P
+r
+ice
+ 
+ 
+VAT
+ 
+In
+c
+l.
+ 
+ 
+ELECT
+R
+ICI
+T
+Y H
+O
+US
+E
+ 
+1
+.
+ 
+Electronic Tape Library 
+
+ 
+(
+Sto
+r
+a
+g
+e
+T
+ek
+ 
+S
+L
+3000
+)
+ 
+C
+H
+A
+S
+S
+I
+S
+ 
+571
+0
+00
+2
+01
+0
+9
+5
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+1
+ 
+578
+0
+00
+2
+03
+8
+2
+0
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+2
+ 
+578
+0
+00
+2
+03
+9
+0
+1
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+3
+ 
+578
+0
+00
+2
+03
+8
+1
+9
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+4
+ 
+578
+0
+00
+2
+03
+8
+2
+3
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+5
+ 
+578
+0
+00
+2
+03
+8
+2
+1
+ 
+ 
+ 
+ 
+
+ 
+E
+T
+L
+ 
+D
+r
+i
+v
+e
+ 
+6
+ 
+578
+0
+00
+2
+03
+9
+0
+0
+ 
+ 
+ 
+2
+.
+ 
+S
+u
+n
+ 
+Ultra
+ 
+27 
+W
+or
+ks
+tati
+o
+n
+ 
+101
+9
+T
+F
+T
+0
+8
+U
+ 
+ 
+ 
+3
+.
+ 
+S
+u
+n
+ 
+S
+p
+a
+r
+c
+ 
+T
+3
+-
+1
+ 
+112
+8
+B
+D
+R
+F
+F
+3
+ 
+ 
+ 
+4
+.
+ 
+S
+u
+n
+ 
+S
+p
+a
+r
+c
+ 
+T
+3
+-
+2
+ 
+112
+7
+B
+D
+R
+CC
+7
+ 
+ 
+ 
+5
+.
+ 
+ 
+C
+i
+s
+co
+ 
+912
+4
+ 
+S
+w
+it
+c
+h
+ 
+J
+A
+F
+14223
+U
+2
+1
+ 
+ 
+ 
+6.
+ 
+ 
+C
+i
+s
+co
+ 
+912
+4
+ 
+S
+w
+it
+c
+h
+ 
+J
+A
+F
+14223
+UX8
+ 
+ 
+ 
+7.
+ 
+ 
+C
+i
+s
+co
+ 
+MDS
+ 
+914
+8
+ 
+Switch
+ 
+ 
+A
+M
+S
+19080
+9
+4
+4
+ 
+ 
+ 
+8.
+ 
+ 
+C
+i
+s
+co
+ 
+MDS
+ 
+914
+8
+ 
+Switch
+ 
+ 
+ 
+A
+M
+S
+19070
+6
+7
+7
+ 
+ 
+ 
+ 
+TOTAL (1
+st 
+Year 
+of 
+S
+&M
+)
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+28
+ 
+of 
+83
+ 
+ 
+ 
+ 
+2.
+ 
+V
+e
+ri
+t
+as
+ 
+N
+e
+t
+B
+a
+c
+k
+u
+p
+ 
+Software
+ 
+ 
+ 
+ 
+Item
+ 
+No.
+ 
+SKU
+ 
+Descr
+i
+p
+ti
+o
+n
+ 
+Qty
+ 
+U
+n
+it 
+P
+r
+ice 
+ 
+VAT 
+In
+c
+l
+.
+ 
+T
+o
+t
+a
+l 
+P
+r
+ice 
+VAT 
+In
+c
+l
+.
+ 
+ 
+1.
+ 
+EE
+C
+8
+X
+Z
+Z
+A
+-
+ 
+E
+R
+1
+ES
+ 
+V
+E
+R
+I
+T
+A
+S
+ 
+N
+E
+T
+B
+A
+C
+KUP
+ 
+P
+LA
+T
+FO
+R
+M
+ 
+B
+ASE
+ 
+C
+OM
+P
+LE
+T
+E ED
+I
+T
+I
+ON
+ 
+7
+.7
+ 
+X
+P
+LA
+T
+ 
+1 F
+R
+O
+NT END
+ 
+T
+B
+ 
+R
+EN
+EW
+AL 
+ES
+S
+EN
+T
+I
+A
+L
+ 
+1
+2
+ 
+MON
+T
+HS EX
+P
+R
+E
+SS
+ 
+B
+A
+N
+D
+ 
+S
+ 
+20
+ 
+ 
+ 
+ 
+2
+ 
+I
+S
+4
+YU
+Z
+Z
+0
+-
+ 
+B
+R
+1
+ES
+ 
+SYMC
+ 
+S
+T
+O
+R
+A
+GE FOUN
+D
+A
+T
+I
+ON
+ 
+S
+T
+A
+N
+D
+A
+R
+D
+ 
+6
+.2
+ 
+UNX
+ 
+1
+0
+ 
+S
+P
+VU
+ 
+R
+EN
+EW
+AL
+ 
+B
+A
+SIC
+ 
+1
+2
+ 
+MON
+T
+HS
+ 
+E
+X
+P
+R
+ESS 
+B
+A
+ND
+ 
+S
+ 
+204
+ 
+ 
+ 
+3
+ 
+I
+S
+4
+YU
+Z
+Z
+0
+-
+ 
+B
+R
+1
+ES
+ 
+SYMC
+ 
+S
+T
+O
+R
+A
+GE
+ 
+FOUN
+D
+A
+T
+I
+ON
+ 
+S
+T
+A
+N
+D
+A
+R
+D
+ 
+6
+.2
+ 
+UNX
+ 
+1
+0
+ 
+S
+P
+VU
+ 
+R
+EN
+EW
+AL 
+B
+A
+SIC
+ 
+1
+2
+ 
+MON
+T
+HS
+ 
+E
+X
+P
+R
+ESS 
+B
+A
+ND
+ 
+S
+ 
+204
+ 
+ 
+ 
+4
+ 
+I
+S
+4
+YU
+Z
+Z
+0
+-
+ 
+B
+R
+1
+ES
+ 
+SYMC
+ 
+S
+T
+O
+R
+A
+GE
+ 
+FOUN
+D
+A
+T
+I
+ON
+ 
+S
+T
+A
+N
+D
+A
+R
+D
+ 
+6
+.2
+ 
+UNX
+ 
+1
+0
+ 
+S
+P
+VU
+ 
+R
+EN
+EW
+AL 
+B
+A
+SIC
+ 
+1
+2
+ 
+MON
+T
+HS
+ 
+E
+X
+P
+R
+ESS 
+B
+A
+ND
+ 
+S
+ 
+272
+ 
+ 
+ 
+5
+ 
+EE
+C
+8
+X
+Z
+Z
+A
+-
+ 
+B
+R
+1
+ES
+ 
+V
+E
+R
+I
+T
+A
+S
+ 
+N
+E
+T
+B
+A
+C
+KUP
+ 
+P
+LA
+T
+FO
+R
+M
+ 
+B
+AS
+E
+ 
+C
+OM
+P
+LE
+T
+E ED
+I
+T
+I
+ON
+ 
+7
+.7
+ 
+X
+P
+LA
+T
+ 
+1 
+F
+R
+O
+NT END
+ 
+T
+B
+ 
+R
+EN
+EW
+AL
+ 
+B
+ASIC
+ 
+1
+2
+ 
+MON
+T
+HS
+ 
+E
+X
+P
+R
+ESS
+ 
+B
+A
+ND
+ 
+S
+ 
+4
+ 
+ 
+ 
+ 
+ 
+TOTAL (1
+st 
+Year of S&M)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+29
+ 
+of 
+83
+ 
+ 
+ 
+S
+U
+M
+M
+ARY
+ 
+OF
+ 
+P
+R
+ICE
+ 
+SC
+H
+E
+D
+U
+LE
+ 
+ 
+ 
+ 
+It
+em
+ 
+D
+escri
+pt
+i
+o
+n
+ 
+T
+ot
+a
+l Pri
+c
+e
+ 
+(
+V
+A
+T
+ 
+Inc
+l
+usi
+v
+e)
+ 
+1.
+ 
+T
+a
+pe L
+i
+b
+rar
+ie
+s and Associated Devices 
+
+ 
+Stima Plaza
+ 
+ 
+ 
+2.
+ 
+T
+a
+pe L
+i
+b
+rar
+ie
+s and Associated Devices 
+
+ 
+Electricity House
+ 
+ 
+ 
+3.
+ 
+V
+e
+rit
+a
+s N
+e
+t
+B
+a
+c
+kup
+ 
+S
+oft
+wa
+re
+ 
+ 
+ 
+T
+O
+T
+A
+L
+ 
+(
+1
+st
+ 
+Y
+ear 
+o
+f
+ 
+Support & Maintenance)
+ 
+ 
+ 
+T
+O
+T
+A
+L
+ 
+(
+2
+n
+d
+ 
+Y
+ear
+ 
+of Support & Maintenance)
+ 
+ 
+ 
+G
+RA
+N
+D
+ 
+T
+O
+T
+A
+L
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+30
+ 
+of 
+83
+ 
+ 
+ 
+Date:
+ 
+ 
+Tender Number and Name:  
+ 
+ 
+To:
+ 
+The Kenya Powe
+r & Lighting Company Limited, 
+ 
+Stima Plaza, 
+ 
+Kolobot Road, Parklands,
+ 
+P.O Box 30099 
+
+ 
+00100,
+ 
+Nairobi, Kenya.
+ 
+ 
+Dear Sirs and Madams,
+ 
+ 
+Having 
+read, examined and understood the Tender Document including all Addenda, 
+receipt of which we hereby acknowledge, we,
+ 
+the undersigned Tenderer, offer to provide 
+
+
+total 
+tender price in words and
+ 
+figures
+) or such other sums as may be ascertained in 
+accordance with the schedule of prices inserted by me/ us above.
+ 
+ 
+Name of Tenderer
+ 
+ 
+ 
+_____________________
+ 
+ 
+ 
+Name and 
+Designation
+ 
+of authorised person signing the Tender 
+ 
+ 
+ 
+___________________________________
+ 
+ 
+Signature of authorised person signing the Tender 
+ 
+ 
+ 
+__________________________________
+ 
+ 
+Stamp of Tenderer 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+31
+ 
+of 
+83
+ 
+ 
+ 
+SE
+CTION VI 
+-
+ 
+EVALUATION 
+CRITERIA
+ 
+ 
+Evaluation of duly submitted tenders will be conducted along the following stages: 
+-
+ 
+ 
+  
+ 
+6.1 
+ 
+Part 1 
+-
+ 
+Preliminary Evaluation Under Paragraph 3.2
+8
+ 
+of the 
+ICT
+. 
+These are 
+mandatory requirements.
+ 
+This shall include confirmation
+ 
+of the 
+following: 
+-
+ 
+ 
+ 
+ 
+6.
+1.1
+ 
+ 
+S
+ubmission of Tender Security 
+-
+ 
+Checking its validity, authenticity, sufficiency, 
+whether it is Original; whether it is issued by a local bank/institution; whether it 
+is strictly in the format required in accordance with the 
+sample Tender Security 
+Form(s)
+.
+ 
+ 
+6.1.2
+ 
+Submission of Declaration Form(s) duly completed and signed.
+ 
+6.1.3
+ 
+Submission and considering Tender Form duly completed and signed.
+ 
+6.1.4
+ 
+Submission and considering the 
+following: 
+-
+ 
+ 
+a) 
+ 
+
+n Certificate 
+ 
+b) 
+ 
+PIN Certificate.
+ 
+c)
+ 
+Valid Tax Compliance Certificate.  
+ 
+ 
+ 
+6.1.5
+ 
+That the Tender is valid for the period required.
+ 
+6.1.
+6
+ 
+Submission and considering the Confidential Business 
+Questionnaire: 
+-
+ 
+a)
+ 
+Is fully filled.
+ 
+ 
+b)
+ 
+That details correspond
+ 
+to the related information in the bid.
+ 
+c)
+ 
+That the Tenderer is not ineligible as per paragraph 3.2 of the 
+ICT
+. 
+ 
+ 
+6.1.
+7
+ 
+If required in the Tender Document, submission of the following
+-
+ 
+ 
+a
+) 
+ 
+Commentary of Compliance to the Details of Service 
+ 
+b
+) 
+ 
+Manufactur
+e
+
+ 
+6.1.
+8
+ 
+Submission of audited financial Statements. The audited financial statements 
+required must be those that are reported within eighteen (18) calendar months of 
+the date of the tender document. For bidding firms registere
+d in the last one year, 
+6 months signed and certified Bank statements will be accepted.
+ 
+6.1.
+9
+ 
+Record of unsatisfactory or default in performance obligations in any contract 
+shall be considered. This shall include any Tenderer with unresolved case(s) in its
+ 
+performance obligations for more than two (2) months in any contract. 
+ 
+6.1.1
+0
+ 
+Notwithstanding the above, considering any outstanding orders
+/Supplier 
+Performance Review Scheme (SPRS) 
+where applicable and the 
+performance 
+capacity
+ 
+indicated by the Tenderer.
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+32
+ 
+of 
+83
+ 
+ 
+ 
+Tenders will proceed to the Technical 
+Evaluation 
+Stage only if they qualify in 
+compliance with Part 1 above, Preliminary Evaluation under Paragraph 3.28.
+ 
+ 
+6.2 
+ 
+Part II 
+
+ 
+Technical 
+Evaluation and Comparison of Tenders Under 
+Paragraph 3.
+30
+ 
+of the 
+ICT
+. 
+Thes
+e are mandatory requirements.
+ 
+ 
+ 
+6.2.1 
+ 
+Verification of the following information:  
+ 
+ 
+a
+) 
+ 
+Relevant requested certificates and or documents.
+ 
+b
+) 
+ 
+Submitted 
+with the Tender 
+
+ 
+ 
+i) 
+Commentary of Compliance to the Details of Service. 
+ 
+ii) 
+Any other details requir
+ed of the Tender.
+ 
+6.2.2 
+Considering
+ 
+the 
+audited financial Statements. The audited financial statements 
+required must be those that are reported within eighteen (18) calendar months of 
+the date of the tender document. The statement must be stamped and signe
+d. 
+The 
+auditors must be valid ICPAK registered practitioner
+. For bidding firms 
+registered in the last one year, 6 months signed and certified Bank statements will 
+be accepted
+ 
+6.2.
+3
+ 
+ 
+Detailed Evaluation
+ 
+6.2.
+3
+.1
+ 
+Tenderers shall be expected to indicate full c
+ompliance to Details of 
+Service
+ 
+as follows.
+ 
+ 
+ 
+Criterion
+ 
+ 
+Minimum
+ 
+Requirements
+ 
+ 
+
+Remarks
+ 
+1.
+ 
+O
+R
+AC
+LE
+ 
+C
+orpo
+r
+a
+t
+i
+on
+ 
+Autho
+r
+i
+z
+a
+t
+i
+on
+ 
+T
+he
+ 
+t
+e
+nd
+e
+r
+er
+ 
+m
+ust
+ 
+be duly 
+authorized to provide local 
+Support & Maintenance of Oracle Hardware
+ 
+(i.e.
+ 
+E
+lectronic 
+Tape Lib
+raries
+-
+ 
+StorageTek SL
+3000
+ 
+and Sun SPARC 
+s
+e
+r
+v
+e
+r
+s
+)
+ 
+by 
+Messrs. Oracle 
+C
+orpor
+ati
+on
+.
+ 
+The tenderer must 
+have attained 
+Field Delivery Partner
+ 
+certification with 
+Messrs. Oracle Corporation
+.
+ 
+
+ 
+Attach a
+uthorization 
+from 
+Messrs. Oracle 
+Corporation
+.
+ 
+ 
+2.
+ 
+Veritas 
+Technol
+ogies
+ 
+Autho
+r
+i
+z
+a
+t
+i
+on
+ 
+T
+he
+ 
+t
+e
+nd
+e
+r
+er
+ 
+m
+ust
+ 
+be duly 
+authorized to provide local 
+Support & Maintenance of 
+NetBackup Software
+ 
+by 
+Messrs. 
+Veritas 
+Technologies
+ 
+
+ 
+Attach a
+uthorization 
+from 
+Messrs. 
+Veritas 
+Technologies
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+33
+ 
+of 
+83
+ 
+ 
+ 
+3
+.
+ 
+I
+ns
+t
+a
+l
+l
+ed 
+a
+nd
+/
+o
+r
+ 
+Su
+p
+po
+r
+t
+ 
+Base 
+f
+or 
+Or
+a
+c
+l
+e
+ 
+H
+ardw
+are
+ 
+T
+he
+ 
+t
+end
+e
+r
+e
+r
+ 
+m
+ust
+ 
+ha
+v
+e
+ 
+a
+n
+ 
+i
+ns
+t
+a
+l
+l
+ed
+ 
+an
+d/
+or
+ 
+s
+u
+ppo
+r
+t
+-
+ba
+s
+e
+ 
+of s
+i
+m
+il
+ar 
+O
+r
+a
+c
+l
+e 
+equipment
+ 
+i.e
+. 
+E
+lectronic Tape 
+Libraries 
+
+ 
+StorageTek 
+SL3000
+ 
+and Sun SPARC 
+s
+e
+r
+v
+e
+r
+s
+ 
+i
+n
+ 
+a
+t 
+l
+ea
+s
+t
+ 
+1 
+f
+i
+r
+m
+ 
+in Kenya within the 
+last five (5) years
+.
+ 
+ 
+
+ 
+Re
+f
+e
+r
+e
+n
+ce
+/
+R
+eco
+mm
+en
+d
+a
+t
+i
+on
+ 
+l
+e
+t
+t
+e
+r
+s
+ 
+m
+u
+s
+t
+ 
+be 
+p
+ro
+v
+i
+d
+e
+d.
+ 
+ 
+ 
+4
+.
+ 
+Tr
+a
+i
+n
+i
+n
+g 
+i
+n
+ 
+O
+ra
+cl
+e
+ 
+H
+ardwa
+r
+e
+ 
+A
+t
+ 
+l
+e
+a
+st
+ 
+one 
+m
+e
+m
+be
+r
+ 
+of
+ 
+t
+he
+ 
+local
+ 
+support
+ 
+t
+eam
+ 
+m
+ust
+ 
+ha
+v
+e technical 
+training
+ 
+i
+n
+ 
+s
+up
+p
+o
+r
+ti
+ng &
+ 
+m
+a
+i
+n
+t
+a
+i
+n
+i
+ng 
+O
+r
+ac
+l
+e ha
+r
+d
+w
+a
+r
+e
+ 
+i.e. 
+Electronic Tape Libraries
+ 
+-
+StorageTek
+ 
+SL3000 and 
+S
+un 
+SPARC
+ 
+s
+e
+r
+v
+e
+r
+s
+ 
+ 
+ 
+ 
+
+ 
+C
+op
+i
+e
+s of
+ 
+training 
+ce
+r
+t
+i
+f
+i
+c
+a
+ti
+o
+n
+s
+ 
+m
+ust
+ 
+be
+ 
+pro
+v
+i
+d
+e
+d
+ 
+ 
+ 
+ 
+5.
+ 
+Tr
+a
+i
+n
+i
+n
+g 
+i
+n
+ 
+N
+e
+t
+Bac
+k
+up
+ 
+ 
+Software
+ 
+A
+t
+ 
+l
+e
+a
+st
+ 
+one 
+m
+e
+m
+be
+r
+ 
+of
+ 
+t
+he
+ 
+local 
+t
+e
+c
+hn
+i
+cal
+ 
+t
+eam
+ 
+m
+ust
+ 
+ha
+v
+e 
+technical 
+t
+r
+a
+i
+n
+i
+ng 
+i
+n
+ 
+i
+n
+s
+t
+a
+l
+l
+i
+ng and
+/or
+ 
+suppo
+r
+t
+i
+ng 
+N
+e
+t
+Bac
+k
+up
+ 
+software
+ 
+with a least one
+-
+year 
+post
+-
+qualifica
+tion experience.
+ 
+ 
+
+ 
+C
+op
+i
+e
+s of
+ 
+training 
+ce
+r
+t
+i
+f
+i
+c
+a
+ti
+o
+n
+s
+ 
+m
+ust
+ 
+be
+ 
+pro
+v
+i
+d
+e
+d
+ 
+ 
+ 
+ 
+ 
+6.2.
+3
+.2
+ 
+Evaluation of Demonstration of ability of the offered service, to comply 
+with the Details of Service (where required).
+ 
+6.2.
+3
+.4
+ 
+Identifying and determining any deviation(s) 
+from the requirements; errors 
+and oversights.
+ 
+6.2.
+3
+.5
+ 
+Confirmation of compliance of previous contract(s) in accordance with its/ 
+their terms and conditions where applicable.
+ 
+ 
+6.3 
+ 
+Part III 
+
+ 
+Financial Evaluation Criteria Under Paragraph 3.31 of the 
+ICT
+. 
+Th
+ese are mandatory requirements. 
+ 
+ 
+6.3.1
+ 
+This will include the following: 
+-
+ 
+ 
+a) 
+ 
+Confirmation of and considering Price Schedule duly completed and 
+signed.
+ 
+b
+) 
+ 
+Checking that the Tenderer has quoted prices based on all co
+s
+ts including 
+duties and taxes
+ 
+c
+)
+ 
+ 
+C
+on
+ducting a financial comparison
+ 
+ 
+d)
+ 
+Confirming the currency of bid as per clause 3.12.
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+34
+ 
+of 
+83
+ 
+ 
+ 
+e
+)
+ 
+Taking into account the cost of any deviation(s) from the tender 
+requirements,
+ 
+f
+) 
+ 
+C
+onsidering information submitted in the Confidential Business 
+Questionnaire against
+ 
+other information in the bid 
+including: 
+-
+ 
+ 
+i
+)
+ 
+Declared maximum value of business
+ 
+ii
+) 
+ 
+Shareholding and citizenship for preferences where applicable.
+ 
+ 
+6.3.2 
+ 
+Confirming
+ 
+
+requirements. 
+ 
+ 
+6.4
+ 
+The Succe
+ssful Tenderer shall be the one with the lowest evaluated price.
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+35
+ 
+of 
+83
+ 
+ 
+ 
+ 
+*NOTES
+: 
+-
+ 
+1. 
+ 
+For purposes of evaluation, the exchange rate to be used for currency conversion 
+shall be the 
+selling exchange rate 
+prevailing
+ 
+on the date of tender closing provided 
+by the C
+entral Bank of Kenya. (Visit the Central Bank of Kenya website). 
+ 
+ 
+ 
+2. 
+ 
+
+Added Tax (V.A.T) for the 
+services 
+it offers to 
+provide
+.  
+ 
+ 
+3. 
+ 
+For companies or firms that are registered
+ 
+or incorporated within the last one 
+calendar year of the Date of the Tender Document, they should submit certified 
+copies of bank statements covering a period of at least six months prior to the date 
+of the tender document. The copies should be certified 
+by the Bank issuing the 
+statements. The certification should be original.
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+36
+ 
+of 
+83
+ 
+ 
+ 
+TABLE OF CLAUSES ON 
+GENERAL CONDITIONS OF CONTRACT
+ 
+ 
+Clause No. 
+ 
+Headings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page No. 
+ 
+ 
+7.1
+ 
+ 
+
+39
+ 
+7.2 
+ 
+ 
+
+4
+0
+ 
+7.3 
+ 
+ 
+
+.
+
+4
+0
+ 
+7.4
+ 
+ 
+Supplier Performance Rating Scheme
+ 
+
+...
+
+4
+0
+ 
+7.5 
+ 
+ 
+Use of Contract Documents and Information
+ 
+
+..
+
+
+
+4
+0
+ 
+7.6 
+ 
+ 
+Patent Rights
+ 
+
+
+
+..
+
+4
+1
+ 
+7.6
+ 
+ 
+
+ 
+7.7 
+ 
+ 
+Inspecti
+
+..
+
+4
+2
+ 
+7.8 
+ 
+ 
+
+4
+3
+ 
+7.9 
+ 
+ 
+
+43
+ 
+7.10 
+ 
+ 
+
+.
+
+43
+ 
+7.11 
+ 
+ 
+
+..
+
+44
+ 
+7.12 
+ 
+ 
+
+
+45
+ 
+7.1
+3
+ 
+ 
+
+45
+ 
+7.1
+4
+ 
+ 
+ 
+
+45
+ 
+7.1
+5
+ 
+ 
+ 
+
+45
+ 
+7.1
+6
+ 
+ 
+ 
+Sub
+-
+
+45
+ 
+7.1
+7
+ 
+ 
+ 
+
+46
+ 
+7.1
+8
+ 
+ 
+ 
+Liquidated Dam
+
+46
+ 
+7.
+19
+ 
+ 
+ 
+
+.
+
+47
+ 
+7.2
+0
+ 
+ 
+
+
+
+47
+ 
+7.2
+1
+ 
+ 
+ 
+
+47
+ 
+7.2
+2
+ 
+ 
+ 
+
+47
+ 
+7.2
+3
+ 
+ 
+ 
+
+48
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+37
+ 
+of 
+83
+ 
+ 
+ 
+SECTIO
+N VII 
+
+ 
+GENERAL CONDITIONS OF CONTRACT
+ 
+ 
+The General Conditions of Contract 
+hereinafter referred abbreviated as the GCC 
+shall 
+
+guidelines, practices, procedures and working circums
+tances. The provisions in the GCC 
+will apply unless an alternative solution or amendment is made under other parts of the 
+Contract including the Special Conditions of Contract.   
+ 
+ 
+7.1 
+ 
+Definitions 
+ 
+ 
+In this contract, the following terms shall be interpret
+ed as follows: 
+-
+ 
+ 
+a)
+ 
+
+ 
+b) 
+ 
+
+
+the 
+Contractor
+, as recorded in the Contract Form signed by the parties, 
+including all attachments and appe
+ndices thereto and all documents 
+incorporated by reference therein.
+ 
+c) 
+ 
+
+Contractor
+ 
+under 
+the contract for the full and proper performance of its contractual 
+obligations.
+ 
+d) 
+ 
+
+Services
+
+means services 
+or art thereof to be provided by the 
+Contractor and 
+includes all of the 
+materials and incidentals, 
+which the 
+Contractor
+ 
+is required to 
+perform and provide 
+to KPLC under the 
+contract.
+ 
+e) 
+ 
+
+Lim
+ited or its successor(s) and assign(s) where the context so admits 
+(hereinafter abbreviated as KPLC). 
+ 
+f) 
+ 
+
+Contractor
+
+providing the services 
+u
+nder this contract or his/ her/ its permitted heir(s), personal 
+representative(
+s), successor(s) or permitted assign(s) where the context so 
+admits. For the avoidance of doubt this shall mean the successful 
+Tenderer(s) pursuant to the tender.
+ 
+g) 
+ 
+
+performance
+
+deemed to be complet
+e, unless the circumstances indicate otherwise, when 
+the 
+services 
+have been 
+performed 
+in accordance with the Contract and 
+where KPLC does not signify its approval to the 
+Contractor
+, but 
+without 
+giving notice of dissatisfaction, 
+on the expiration of thirty 
+(30) days from 
+date of 
+documented completion of performance of the service. 
+ 
+h)
+ 
+Supplier Rating Perfo
+rmance Scheme (SPR
+S
+) means the continuous 
+
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+38
+ 
+of 
+83
+ 
+ 
+ 
+parameters of timely delivery, quality of 
+s
+ervice
+, frequency of 
+communication, timely response, innovation, dispute resolution.
+ 
+ 
+ 
+7.2 
+ 
+Application 
+ 
+These General Conditions shall apply 
+to the extent that provisions of other parts 
+ 
+of the contract do not supersede them.
+ 
+ 
+7.3 
+ 
+Standards 
+ 
+ 
+The Service
+s supplied under this contract shall conform to the standards 
+mentioned in the Details of Service.
+ 
+ 
+7.
+4
+ 
+ 
+Supplier
+ 
+Performance Rating Scheme
+ 
+7.
+4
+.1
+ 
+KPLC shall use a Supplier Performance Rating Scheme (S
+PRS
+) to measure the 
+
+ 
+obligations and its conduct of the contract. 
+ 
+7.
+4
+.2
+ 
+The Scheme will be updated 
+periodically
+ 
+commencing with the date of execution 
+of the contract by both parties. KPLC shall provide the Supplier with a copy of 
+the SP
+RS report
+. 
+ 
+7.
+4
+.3 
+ 
+KPLC shall consider 
+
+the 
+performance period.
+ 
+ 
+7.
+4
+.4 
+ 
+At the request of either party, the parties shall discuss and conclude deliberations 
+on the annual SP
+RS
+ 
+report. At any such meetings and/or for the purposes of the 
+deliberatio
+ns, KPLC
+ 
+Supply Chain 
+
+ 
+Procurement Department
+ 
+shall appoint the 
+Chairperson as well as the Secretariat.   
+ 
+7.
+4
+.5 
+ 
+The SP
+RS
+ 
+measures shall 
+be according to Supplier Performance Rating Form in 
+Section XXVI 
+ 
+7.
+4
+.6 
+ 
+A 
+KP1, KP2 & KP3
+ 
+assessment of the Supplier
+ 
+on the SP
+RS
+ 
+will be a 
+consideration for continued engagement between the parties in the subsequent 
+year. A 
+KP4
+ 
+assessment of the Supplier shall be a termination event. 
+ 
+ 
+7.
+5
+ 
+ 
+Use of Contract Documents and Information 
+ 
+7.
+5
+.1 
+ 
+The Contractor shall not, with
+
+contract, or any provision thereof or any specification, plan, drawing, pattern, 
+sample, or information furnished by or on behalf of KPLC in connection 
+therewith, to any person other than a person employed by 
+the Contractor in the 
+performance of the contract.
+ 
+7.
+5
+.2 
+ 
+
+document or information enumerated in clause 7.
+5
+.1 above.
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+39
+ 
+of 
+83
+ 
+ 
+ 
+7.
+5
+.3
+ 
+Any document, other than the contract itself, enumerat
+ed in clause 7.
+5
+.1 shall 
+remain the property of KPLC and shall be returned (including all copies) to KPLC 
+
+by KPLC.
+ 
+ 
+7.
+6
+ 
+ 
+Patent Rights 
+ 
+The Contractor shall indemnify KPLC agai
+nst all third party claims of 
+infringement of patent, trademark, or industrial design rights arising from 
+provision of the services or any part thereof.
+ 
+  
+ 
+7.
+7
+ 
+ 
+Performance Security 
+ 
+7.
+7
+.1
+ 
+Within 
+fourteen
+ 
+(
+14
+) days of the date of the notification of contra
+ct award, the 
+Contractor
+ 
+shall furnish to KPLC the Performance Security which shall be either 
+one or a combination of the 
+following: 
+-
+ 
+ 
+a)
+ 
+an original Bank Guarantee that is strictly in the form and content as 
+prescribed in the Performance Security Form (B
+ank Guarantee) in the 
+Tender Document. 
+ 
+b)
+ 
+Confirmed Standby Letters of Credit (LC). All costs, expenses and 
+charges levied by all banks party to the LC including confirmation charges 
+shall be prepaid by the successful Tenderer. Certain mandatory condition
+s 
+of the LC shall be as prescribed in the Performance Security Form (LC) in 
+the Tender Document.
+ 
+7.
+7
+.2 
+ 
+The Performance Security shall be issued by a commercial bank licensed by the 
+Central Bank of Kenya. The bank must be located in Kenya.
+ 
+7.
+7
+.3 
+ 
+The Perfo
+rmance Security shall be the sum of ten percent (10%) of the contract 
+price. It shall be in the currency of the contract price.   
+ 
+7.
+7
+.4 
+ 
+Failure of the 
+Contractor
+ 
+to furnish the Performance Security, the award shall be 
+annulled and the Tender Security for
+feited, in which event KPLC may notify the
+ 
+ 
+next lowest evaluated Tenderer that its Tender has been accepted.
+ 
+7.
+7
+.5 
+ 
+The proceeds of the Performance Security shall be payable to KPLC as 
+compensation for any loss resulting from the 
+
+failure to c
+omply with 
+its obligations in accordance with the contract without KPLC being required to 
+demonstrate the loss it has suffered. 
+ 
+7.
+7
+.6
+ 
+The Performance Security shall be valid for a minimum of sixty (60) days after 
+satisfactory delivery for both Foreign and
+ 
+Local 
+Contractors
+.
+ 
+7.
+7
+.7 
+ 
+KPLC shall seek authentication of the Performance Security from the issuing 
+bank. It is the responsibility of the 
+Contractor
+ 
+to sensitize its issuing bank on the 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+40
+ 
+of 
+83
+ 
+ 
+ 
+need to respond directly and expeditiously to queries from KPLC. Th
+e period for 
+response shall not exceed 
+three
+ 
+(
+3
+
+there be no conclusive response by the Bank within this period, such 
+
+Performance Security may be deemed as invalid and the Contract nullified, unless 
+i
+nformation to the contrary is received by KPLC two (2) days before the expiry of 
+the 
+Contractor
+
+ 
+7.
+7
+.8 
+ 
+Subject to the provisions of this contract, the Performance Security will be 
+discharged by KPLC and returned to the 
+Contractor
+ 
+not e
+arlier than thirty (30) 
+days following the date of completion of the 
+Contractor
+
+contract, including any warranty obligations, under the contract.
+ 
+ 
+7.
+8
+ 
+Inspection and Tests 
+ 
+7.
+8
+.1 
+ 
+KPLC or its representative(s) shall have the right t
+o inspect and/or to test the 
+services to confirm their conformity to the contract specifications. KPLC shall 
+notify the Contractor in writing in a timely manner, of the identity of any 
+representative(s) retained for these purposes. Such visit and or inspec
+tion/ test 
+
+ 
+7.
+8
+.2 
+ 
+In appropriate circumstances, Inspection/ Test Report(s) shall be completed upon 
+conclusion of the inspection/ tests. 
+ 
+7.
+8
+.3 
+ 
+The inspections and tests may be conducted in the premis
+es of the Contractor or 
+its subcontractor(s). If conducted on the premises of the Contractor or its 
+subcontractor(s), all reasonable facilities and assistance, including access to 
+drawings and production data, shall be furnished to the inspectors at no cha
+rge to 
+KPLC.     
+ 
+7.
+8
+.4 
+ 
+Should any inspected or tested services fail to conform to the specifications, 
+KPLC may reject the Service(s), and the Contractor shall either replace or remedy 
+the rejected services or make alterations necessary to meet specificat
+ion
+ 
+requirements free of cost to KPLC.
+ 
+7.
+8
+.5 
+ 
+
+provision shall in no way be limited or waived by reason of the services having 
+previously been inspected, tested and passed by KPLC 
+or its 
+representative(s) 
+ 
+ 
+prior to the services performance / delivery. 
+ 
+7.
+8
+.6 
+ 
+
+or sub
+-
+
+satisfactory performance 
+without duly authorized approval by KPLC.    
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+41
+ 
+of 
+83
+ 
+ 
+ 
+7.
+8
+.7 
+ 
+Nothing in this clause 7.7 shall in any way release the Contractor from any 
+warranty or other obligations under this Contract.
+ 
+ 
+ 
+7.
+9
+ 
+ 
+Packaging and Labelling
+ 
+7.
+9
+.1 
+ 
+Where applicable, t
+he Contractor shall
+ 
+provide such packaging of the material and 
+equipment as is required to prevent their damage or deterioration during transit to 
+their final destination, as indicated in the contract.
+ 
+7.
+9
+.2 
+ 
+The method of packaging, labeling and marking shall comply strictl
+y with such 
+special requirements as shall be specified and attached to the Contract and 
+particular Order. 
+ 
+7.
+9
+.3 
+ 
+The labelling, marking and documentation within and outside the packages shall 
+comply strictly with such special requirements as shall be expr
+essly provided for 
+in the contract.
+ 
+7.
+9
+.4 
+ 
+The materials and equipment shall be packed in good condition suitable for 
+sea/air/road/rail dispatch. Hazard in transit to the final destination shall include 
+rough handling and storage in tropical conditions. 
+ 
+7
+.
+9
+.5 
+ 
+The Contractor shall enclose a packing list in each package and all documents 
+relating to the Order shall show the Tender reference number and name against 
+the items or package 
+
+ 
+ 
+ 
+7.
+10
+ 
+ 
+Del
+ivery and Documents for Materials/ Equipment   
+ 
+7.
+10
+.1 
+ 
+Where applicable, d
+elivery of the materials/ equipment
+ 
+shall be made by the 
+Contractor to the place and in accordance with the terms specified by KPLC in its 
+Schedule of Requirements or as may be othe
+rwise indicated. 
+ 
+7.
+10
+.2
+ 
+The
+ 
+Contractor shall notify KPLC of the full details of the delivered materials/ 
+equipment by delivering the materials/ equipment with a full set of the following 
+documents: 
+-
+  
+ 
+ 
+a) 
+ 
+Contractor
+
+pment description, 
+quantity, unit price and total price
+ 
+b) 
+ 
+Delivery note
+ 
+c) 
+ 
+Packing list identifying contents of each package
+ 
+ 
+7.
+10
+.3 
+ 
+It is the responsibility of the Contractor to ensure that the delivery documents are 
+received by KPLC at the designated
+ 
+delivery point at the time of delivery. 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+42
+ 
+of 
+83
+ 
+ 
+ 
+ 
+7.1
+1
+ 
+Insurance
+ 
+7.1
+1
+.1 The Contractor shall be responsible for and keep in force current appropriate 
+insurance covers for its property and persons engaged in the performance and or 
+provision of the Services under t
+he contract. 
+ 
+ 
+7.1
+1
+.2 
+ 
+The Contractor shall 
+(except in respect to losses, injuries or damage resulting from 
+ 
+any act or neglect of KPLC)
+ 
+indemnify and keep indemnified KPLC against all 
+losses and claims for injuries or damage to any person or property what
+soever 
+which may arise out of or in consequence of the contract and against all claims, 
+demands, proceedings, damages, costs, charges, and expenses whatsoever in 
+respect thereof or in relation thereto.
+ 
+ 
+7.1
+2
+ 
+ 
+Payment 
+ 
+7.1
+2
+.1 
+ 
+Payments shall be made promptl
+y by KPLC and shall not be less than thirty (30) 
+days from 
+completion of satisfactory performance and submission of 
+invoice 
+together with other required and related documents or as otherwise prescribed in 
+the contract.
+ 
+7.1
+2
+1
+.2 
+ 
+Payment shall primarily be t
+
+Settlement 
+(RTGS)
+ 
+or telegraphic transfer. 
+Where applicable, a copy of a valid 
+Performance Security, stamped, certified as authentic by KPLC, shall form part of 
+the documents to be presented to KPLC before any paymen
+t is made. 
+ 
+7.1
+2
+.3 
+ 
+A Contractor
+ 
+who request
+s
+ 
+for a Letter of Credit 
+(hereinafter abbreviated as LC)
+
+ 
+ 
+a)
+ 
+S
+hall meet the LC bank charges levied by its bank while KPLC shall meet 
+the LC bank charges levied by its bank. 
+ 
+b)
+ 
+Any extension and or amendment cha
+rges and any other costs that may 
+result from the 
+Contractor
+
+howsoever by the 
+Contractor 
+
+ 
+c) 
+ 
+The maximum number of extensions and amendments shall be limited to 
+two (2).
+ 
+d) 
+ 
+Notwithstanding sub
+-
+clause 7.1
+1
+.3 (a), should the 
+Contractor
+ 
+require a 
+confirmed LC, then all confirmation and any other related charges levied 
+by both the 
+Contractor
+
+account.
+ 
+e) 
+ 
+The LC shall be opened only 
+for the specific Order within the validity 
+period of the contract.
+ 
+f) 
+ 
+LCs shall be partial for partial performance or full for whole performance 
+as per the contract.
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+43
+ 
+of 
+83
+ 
+ 
+ 
+g) 
+ 
+The 
+Contractor 
+shall be required to submit a proforma invoice for each lot 
+ 
+ 
+for use 
+in the placement of order and opening of the LC. The proforma 
+invoice shall be on total 
+all
+-
+inclusive 
+costs basis
+. 
+ 
+h) 
+ 
+A copy of the Performance Security, stamped and certified as authentic by 
+KPLC, whose expiry date should not be less than sixty (60) day
+s from the 
+LC expiry date, shall form part of the documents to be presented to the 
+Bank before any payment is effected.
+ 
+7.1
+2
+.4
+ 
+KPLC shall have the sole discretion to accept or decline any 
+Contractor
+
+payment request through Letters of Credit without givin
+g any reason for 
+any 
+decline.
+ 
+ 
+7.1
+3
+ 
+ 
+Interest
+ 
+Interest payment by KPLC is inapplicable in the contract.  
+ 
+ 
+7.1
+4
+ 
+ 
+Prices
+ 
+7.1
+4
+.1 
+ 
+S
+ubject to clause 7.1
+4
+ 
+herein below, prices charged by the Contractor for services 
+performed under the contract shall be fixed f
+or the period of the contract with no 
+variations.
+ 
+7.1
+4
+.2
+ 
+A price that is derived by a pre
+-
+disclosed incorporation or usage of an 
+internationally accepted standard formula shall not be deemed to be a price 
+variation within the meaning of this clause.    
+ 
+ 
+7
+.
+1
+5
+ 
+ 
+Variation of Contract
+ 
+ 
+KPLC and the Supplier may vary the contract only in accordance with the 
+following: 
+-
+ 
+a)
+ 
+the quantity variation 
+of services
+ 
+shall not exceed 
+twenty
+ 
+percent (
+20
+%) of the 
+original contract quantity.
+ 
+b)
+ 
+The cumulative value variation shal
+l not exceed 
+twenty
+-
+five
+ 
+percent (25%) of the 
+original contract value. 
+ 
+c
+) 
+ 
+the quantity variation must be executed within the period of the contract. 
+ 
+ 
+ 
+ 
+7.
+1
+6
+ 
+ 
+Assignment 
+ 
+The Contractor shall not assign in whole or in part its obligations to perform 
+unde
+
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+44
+ 
+of 
+83
+ 
+ 
+ 
+7.1
+7
+ 
+ 
+Subcontracts
+ 
+7.1
+7
+.1 
+ 
+The Contractor shall notify KPLC in writing of all subcontracts awards under this 
+contract if not already specified in the tender. Such notification, in the original 
+t
+ender or obligation under the Contract shall not relieve the Contractor from any 
+liability or obligation under the Contract.  
+ 
+7.1
+7
+.2 
+ 
+In the event that an award is given and the contract is sub
+-
+contracted, the 
+responsibility and onus over the contract sha
+ll rest on the Contractor who was 
+awarded.
+ 
+        
+ 
+7.1
+8
+ 
+ 
+Termination of Contract 
+ 
+7.1
+8
+.1 
+ 
+KPLC may, without prejudice to any other remedy for breach of contract, by 
+written notice sent to the Contractor, terminate this contract in whole or in part 
+due to 
+any of the following: 
+-
+ 
+ 
+a) 
+ 
+if the Contractor fails to perform any or all of the services within the 
+period(s) specified in the contract, or within any extension thereof granted 
+by KPLC.
+ 
+b) 
+ 
+if the Contractor fails to perform any other obligation(s) under
+ 
+the 
+contract.
+ 
+c) 
+ 
+if the Contractor, in the judgment of KPLC has engaged in corrupt or 
+fraudulent practices in competing for or in executing the contract.
+ 
+d) 
+ 
+by an act of force majeure. 
+ 
+e) 
+ 
+if the Contractor becomes insolvent or bankrupt 
+ 
+f) 
+ 
+if the Con
+tractor has a receiving order issued against it, compounds with 
+its creditors, or an order is made for its winding up (except for the 
+purposes of its amalgamation or reconstruction), or a receiver is 
+appointed over its or any part of its undertaking or ass
+ets, or if the 
+Contractor suffers any other analogous action in consequence of debt. 
+ 
+g) 
+ 
+if the Contractor abandons or repudiates the Contract.
+ 
+ 
+7.1
+8
+.
+2
+ 
+ 
+In the event that KPLC terminates the contract in whole or in part, it may procure, 
+upon such terms an
+d in such manner as it deems appropriate, services similar to 
+those undelivered or not rendered, and the Contractor shall be liable to KPLC for 
+any excess costs for such similar services and or any other loss PROVIDED that 
+the Contractor shall not be so li
+able where the termination is for convenience of 
+ 
+KPLC. 
+ 
+7.1
+8
+.
+3
+ 
+ 
+The Parties may terminate the Contract by reason of an act of 
+force majeure
+ 
+as
+ 
+provided for in the contract.
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+45
+ 
+of 
+83
+ 
+ 
+ 
+7.1
+8
+.
+4
+ 
+ 
+The Contract may automatically terminate by reason of an act of 
+force maje
+ure
+ 
+as 
+provided for in the Contract.   
+ 
+ 
+7.1
+9
+ 
+ 
+Liquidated Damages
+ 
+Notwithstanding and without prejudice to any other provisions of the contract, if 
+the Contractor fails to perform any or all of the services within the period 
+specified in the contract, KPLC
+ 
+shall, without prejudice to its other remedies 
+under the contract, deduct from the contract prices, liquidated damages sum 
+equivalent to 0.5% of the performance price per day of delay of the delayed due 
+services up to a maximum of ten percent (10%) of the
+ 
+performance price of the 
+delayed due services.
+ 
+ 
+7.
+20
+ 
+ 
+Warranty
+ 
+7.
+20
+.1
+ 
+Where applicable, the Contractor warrants that the Services provided under the 
+contract are of the highest quality or current specification and incorporate all 
+recent improvements unles
+s provided otherwise in the contract. The Contractor 
+further warrants that 
+any 
+materials/ equipment provided under this contract shall 
+have no defect arising from manufacture, materials or workmanship or from any 
+act or omission of the Contractor that may 
+develop under normal use of the 
+materials/ equipment provided under the conditions obtaining in Kenya.
+ 
+7.
+20
+.2 
+ 
+This warranty will remain valid for the period indicated in the special conditions 
+of contract after the goods, or any portion thereof as the cas
+e may be, have been 
+delivered to the final destination indicated in the contract.  
+ 
+ 
+7.
+20
+.3 
+ 
+KPLC shall promptly notify the Contractor in writing of any claims arising under 
+this Warranty.
+ 
+7.
+20
+.4 
+ 
+Upon receipt of such a notice, the Contractor shall, with a
+ll reasonable speed, 
+remedy the defective services without cost to KPLC.
+ 
+7.
+20
+.5 
+ 
+If the Contractor having been notified, fails to remedy the defect(s) within a 
+reasonable period, KPLC may proceed to take such remedial action as may be 
+necessary, at the Con
+
+rights which KPLC may have against the Contractor under the contract.
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+46
+ 
+of 
+83
+ 
+ 
+ 
+7.2
+1
+ 
+ 
+Resolution of Disputes
+ 
+7.2
+1
+.1 
+ 
+KPLC and the Contractor may make every effort to resolve amicably by direct 
+informal 
+negotiation any disagreement or dispute arising between them under or 
+in connection with the contract.
+ 
+7.2
+1
+.2
+ 
+If, after thirty (30) days from the commencement of such informal negotiations
+ 
+both parties have been unable to resolve amicably a contract disput
+e, either party 
+may resort to resolution before a recognized local forum for the resolution of 
+disputes.  
+ 
+ 
+7.2
+2
+ 
+ 
+Language and Law
+ 
+ 
+The language of the contract and the law governing the contract shall be the 
+English language and the laws of Kenya respecti
+vely unless otherwise stated.
+ 
+ 
+7.2
+3
+ 
+ 
+Waiver
+ 
+Any omission or failure by KPLC to exercise any of its rights or enforce any of 
+the penalties arising from the obligations imposed on the Contractor shall in no 
+way, manner or otherwise howsoever, alter, amend, p
+rejudice, vary, waive or be 
+deemed to alter, amend, prejudice, vary, waive or otherwise whatsoever any of 
+
+ 
+ 
+7.2
+4
+ 
+Force Majeure
+ 
+7.2
+4
+.1 
+ 
+Force majeure means any circumstances bey
+ond the control of the parties, 
+including but not limited to:
+ 
+a) 
+ 
+war and other hostilities (whether war be declared or not), invasion, act of 
+foreign enemies, mobilization, requisition or embargo;
+ 
+b) 
+ 
+ionizing radiation or contamination by radio
+-
+activity 
+from any nuclear 
+fuel or from any nuclear waste from the combustion of nuclear fuel, 
+radioactive toxic explosives or other hazardous properties of any 
+explosive nuclear assembly or nuclear components thereof;
+ 
+c) 
+ 
+rebellion, revolution, insurrectio
+n, milita
+ry or usurped power & 
+civil war;
+ 
+d) 
+ 
+riot, commotion or disorder except where
+ 
+solely restricted to employees, 
+servants or agents of the parties; 
+ 
+e) 
+ 
+un
+-
+navigable storm or tempest at sea. 
+ 
+7.2
+4
+.2 
+ 
+N
+otwithstanding the provisions of the contract, n
+either par
+ty shall be considered 
+to be in default or in breach of its obligations under the Contract to the extent that 
+performance of such obligations is prevented by any circumstances of 
+force 
+majeure
+ 
+which arise after the contract is entered into by the parties. 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+47
+ 
+of 
+83
+ 
+ 
+ 
+7.2
+4
+.3 
+ 
+If either party considers that any circumstances of 
+force majeure
+ 
+are occurring or 
+have occurred which may affect performance of its obligations it shall promptly 
+notify the other party and provide reasonable proof of such circumstances.   
+ 
+7.2
+4
+.4
+ 
+ 
+Upon the occurrence of any circumstances of 
+force majeure
+, the Contractor shall 
+endeavor
+ 
+to continue to perform its obligations under the contract so far as is 
+reasonably practicable. The Contractor shall notify KPLC of the steps it proposes 
+to take incl
+uding any reasonable alternative means for performance, which is not 
+prevented by 
+force majeure
+. The Contractor shall not take any such steps unless 
+directed so to do by KPLC.
+ 
+7.2
+4
+.5 
+ 
+
+tions 
+under sub clause 7.2
+3
+.4, then notwithstanding the provisions of the contract, the 
+amount thereof shall be agreed upon with KPLC and added to the contract price.
+ 
+7.2
+4
+.6 
+ 
+If circumstances of 
+force majeure
+ 
+have occurred and shall 
+continue for a period o
+f 
+twenty
+-
+one (21) days then, notwithstanding that the Contractor may by reason 
+thereof have been granted an extension of time for performance of the contract, 
+
+terminate the co
+ntract. If at the expiry of the period of twenty
+-
+eight (28) days, 
+force majeure
+ 
+shall still continue, the contract shall terminate.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+48
+ 
+of 
+83
+ 
+ 
+ 
+ 
+SECTION VIII 
+
+ 
+SPECIAL CONDITIONS OF CONTRACT
+ 
+ 
+The Special Conditions of Contract 
+hereinafter abbreviated
+ 
+as SCC
+ 
+shall form part of the 
+
+guidelines, practices, procedures and working circumstances. They shall amend, add to 
+and vary the GCC. The clauses in this section need not therefor
+e, be completed but must 
+be completed by KPLC if any changes to the GCC provisions are deemed necessary. 
+Whenever there is a conflict between the GCC and SCC, the provisions of the SCC shall 
+prevail over those in the GCC.
+ 
+ 
+ 
+No. 
+ 
+GCC Reference Clause
+ 
+Partic
+ulars of SCC
+ 
+ 
+ 
+1.
+ 
+ 
+7.11.1 
+Terms of 
+Payment  
+ 
+ 
+Payment shall be made 
+on annual basis after 
+30 days 
+on presentation of 
+invoices and relevant 
+documents 
+and upon providing evidence of having 
+renewed/regularized the 
+support & maintenance 
+services 
+of
+ 
+the 
+Oracle
+ 
+hardware
+ 
+(Tape Libraries and 
+Sun Servers),
+ 
+SAN switches
+ 
+and 
+NetBackup 
+Software.
+ 
+ 
+ 
+2. 
+ 
+ 
+7.
+19
+.2 Warranty 
+
+ 
+Period Of
+ 
+ 
+ 
+This is not applicable in this tender
+ 
+3.
+ 
+7.6 
+Performance
+ 
+Bond
+ 
+ 
+Successful bidder
+ 
+is 
+required to 
+provide a 
+Performance Security amounting
+ 
+to 1
+0% of the total 
+contract price
+.
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+49
+ 
+of 
+83
+ 
+ 
+ 
+ 
+SECTION IX 
+-
+ 
+TENDER FORM
+ 
+ 
+Date:
+ 
+Tender No.  
+ 
+To:
+ 
+The Kenya Power & Lighting Company Limited, 
+ 
+Stima Plaza, 
+ 
+Kolobot Road, Parklands,
+ 
+P.O Box 30099 
+
+ 
+00100,
+ 
+Nairobi, Kenya.
+ 
+ 
+Ladies and Gentlemen,
+ 
+ 
+1. 
+ 
+Having 
+read,
+ 
+examined and understood the Tender Document including all Addenda, 
+the receipt of which is hereby duly acknowledged, we, the undersigned Tenderer, 
+offer to perform, deliver, install and commission 
+(the latter two where applicable) 
+ 
+
+(i
+nser
+t services description
+)
+ 
+in accordance and 
+conformity with the said tender document 
+and in particular the 
+S
+chedule of Prices that 
+are made part of this Tender. 
+ 
+ 
+2. 
+ 
+We undertake, if our Tender is accepted, to perform and provide the services in 
+accordance 
+with the Schedule of Requirements.
+ 
+ 
+3. 
+ 
+If our Tender is accepted, we will obtain the guarantee of a bank in a sum of 
+equivalent to ten percent (10%) of the contract price for the due performance of the 
+contract, in the form
+(s)
+ 
+prescribed by The Kenya Powe
+r & Lighting Company 
+Limited.
+ 
+ 
+4. 
+ 
+We agree to abide by this Tender for a period of
+ 
+180 
+days
+ 
+from the date fixed for 
+tender opening as per the Tender Document, and it shall remain binding upon us and 
+may be accepted at any time before the expiration of tha
+t period.
+ 
+ 
+5. 
+ 
+This Tender, together with your written acceptance thereof and your notification of 
+award, shall not constitute a contract, between us. The contract shall be formed 
+between us when both parties duly sign the written contract.
+ 
+ 
+6. 
+ 
+We underst
+and that you are not bound to accept any Tender you may receive.
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+50
+ 
+of 
+83
+ 
+ 
+ 
+ 
+ 
+ 
+Yours sincerely,
+ 
+ 
+ 
+_____________________
+ 
+Name of Tenderer
+ 
+ 
+ 
+___________________________________
+ 
+Signature of duly authorised person signing the Tender
+ 
+ 
+ 
+__________________________________
+ 
+Name and 
+D
+esignation 
+of duly authorised person signing the Tender
+ 
+ 
+ 
+__________________________________
+ 
+Stamp or Seal of Tenderer  
+ 
+ 
+ 
+ 
+*NOTES:
+ 
+ 
+1. 
+ 
+KPLC requires a validity period of at least 
+one hundred eighty (18
+0) days.
+ 
+2.
+ 
+This form must be duly signed, 
+stamped and/or sealed.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+51
+ 
+of 
+83
+ 
+ 
+ 
+ 
+SECTION X 
+-
+ 
+CONFIDENTIAL BUSINESS QUESTIONNAIRE FORM
+ 
+ 
+All Tenderers are requested to give the particulars indicated in Part 1 and either Part 2 
+(a), 2 (b) or 2 (c), whichever applies to your type of business. You are advi
+sed that it is a 
+serious offence to give false information on this form.
+ 
+ 
+Part 1 
+
+ 
+General
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+E
+-
+
+ 
+ 
+
+ 
+
+ 
+ 
+Maximum value of busi
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+Address, Tel, Fax and E
+-
+
+
+ 
+
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+52
+ 
+of 
+83
+ 
+ 
+ 
+ 
+Part 2 (a) Sole Proprietor
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+Part 2 (b) Part
+nership
+ 
+Give details of partners as follows: 
+-
+ 
+Names                        Nationality             *Citizenship Details             Shares
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+              
+ 
+Part 2 (c) Registered Company
+ 
+
+ 
+State the nominal and issued capital of company
+-
+ 
+
+ 
+
+ 
+Give details of all 
+directors as follows
+ 
+Name                        Nationality                   *Citizenship Details           Shares
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+Name of duly authorized person to sign for and on behalf of the Tenderer 
+ 
+
+ 
+ 
+Designation
+ 
+
+ 
+ 
+
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+53
+ 
+of 
+83
+ 
+ 
+ 
+ 
+*NOTES TO THE TENDERERS 
+ON THE QUESTIONNAIRE 
+ 
+ 
+1. 
+ 
+The address and contact person of the Tenderer provided above shall at all times 
+be used for purposes of this tender.
+ 
+2. 
+ 
+
+naturalization or regist
+ration.
+ 
+3. 
+ 
+The details on this Form are essential and compulsory for all Tenderers.
+ 
+Failure 
+
+disqualification
+. 
+ 
+4. 
+ 
+For foreign Tenderers please give the details of nominal and issued sh
+are capital 
+in the currency of the country of origin of the Tenderer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+54
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XI A 
+-
+ 
+TENDER SECURITY FORM 
+
+ 
+(BANK GUARANTEE)
+ 
+ 
+ 
+(To Be Submitted 
+on
+ 
+
+Letterhead
+)
+ 
+ 
+ 
+ 
+ 
+ 
+Date:
+ 
+ 
+To:
+ 
+The Kenya Power & Lighting Company Limited, 
+ 
+Sti
+ma Plaza, 
+ 
+Kolobot Road, Parklands,
+ 
+P.O Box 30099 
+
+ 
+00100,
+ 
+Nairobi, Kenya.
+ 
+ 
+WHEREAS
+ 
+
+name of
+ 
+the Tenderer
+) (
+hereinafter 
+
+ 
+
+
+(p
+lease insert KPLC tender no.
+ 
+a
+nd 
+name
+) 
+
+ 
+ 
+KNOW ALL PEOPLE
+ 
+by these presents that 
+WE
+
+
+
+
+, are bound unto The Kenya Power 
+and L
+ighting Company Limited (
+
+which expression shall 
+where the context so admits include its successors
+-
+in
+-
+title and assigns
+) in the sum of 
+
+KPLC, the Bank binds its
+elf, its successors, and assignees by these presents.
+ 
+ 
+We undertake to pay you, upon your first written demand declaring the Tenderer to be in 
+breach of the tender requirements and without cavil or argument, the entire sum of this 
+
+. (
+amount of guarantee
+) as aforesaid, without you 
+needing to prove or to show grounds or reasons for your demand or the sum specified 
+therein.
+ 
+ 
+This tender guarantee will remain in force up to and including thirty (30) days after the 
+period of tender valid
+ity, and any demand in respect thereof should reach the Bank not 
+later than the date below.
+ 
+ 
+
+ 
+ 
+EITHER
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+55
+ 
+of 
+83
+ 
+ 
+ 
+SEALED
+ 
+with the 
+ 
+ 
+ 
+)
+ 
+COMMON SEAL
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+of the said 
+BANK 
+ 
+ 
+ 
+)
+ 
+_______________________________
+ 
+th
+
+ 
+ 
+)
+ 
+BANK SEAL 
+ 
+
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+in the presence of :
+-
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+____________________
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+and in the presence of:
+-
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+__________________
+ 
+            
+)                    
+ 
+ 
+OR
+ 
+ 
+SIGNED
+ 
+by the 
+DULY AUTHORISED 
+ 
+REPRESEN
+TATIVE(S)/ ATTORNEY(S)
+ 
+of 
+ 
+the 
+BANK 
+ 
+ 
+_____________________
+ 
+Name(s) and 
+Designation
+ 
+of duly authorised representative(s)/ attorney(s) of the Bank 
+ 
+ 
+___________________________________
+ 
+Signature(s) of the duly authorised person(s) 
+ 
+ 
+ 
+NOTES TO TENDERERS AND 
+BANKS 
+ 
+ 
+1. 
+ 
+Please note that no material additions, deletions or alterations regarding the 
+contents of this Form shall be made to the Tender Security to be furnished by the 
+Tenderer. If any are made, the Tender Security shall not be accepted and shall be 
+r
+ejected by KPLC. For the avoidance of doubt, such rejection will be treated as 
+non
+-
+submission of the Tender Security where such Security is required in the 
+tender. 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+56
+ 
+of 
+83
+ 
+ 
+ 
+2. 
+ 
+It is the responsibility of the Tenderer to sensitize its issuing bank on the need to 
+respond directly and expeditiously to queries from KPLC. The period for response 
+shall not exceed 
+three
+ 
+(
+3
+
+
+Security shall be 
+deemed as invalid and the bid rejected. 
+ 
+ 
+ 
+3. 
+ 
+The issuing bank should address its response or communication regarding the 
+bond to KPLC at the following e
+-
+mail address 
+
+ 
+
+   
+ 
+ 
+4.
+ 
+The Tender validity period is 
+one hundred eighty (18
+0)
+ 
+days as set out in the 
+Invitation to Tender (at Section I of the Tender document) or as otherwise may be 
+extended by KPLC. 
+Therefore,
+ 
+the Tender Security must at all times be valid for at 
+least 30 days beyond the tender validity period.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+57
+ 
+of 
+83
+ 
+ 
+ 
+ 
+SECTION XI B 
+-
+ 
+TENDER SECURITY FORM (SACCO SOCIETY, DEPOSIT 
+TAKING MICRO FINANCE INSTITUTIONS, WOMEN ENTERPRISE FUND & 
+YOUTH ENTERPRISE FUND)
+ 
+ 
+ 
+(To Be Submitted On Institutions Letterhead)
+ 
+ 
+ 
+ 
+ 
+Date:
+ 
+ 
+To:
+ 
+The Kenya Power & Lighting Company Limited, 
+ 
+S
+tima Plaza, 
+ 
+Kolobot Road, Parklands,
+ 
+P.O Box 30099 
+
+ 
+00100,
+ 
+Nairobi, Kenya.
+ 
+ 
+WHEREAS
+
+
+reference number of 
+the Tender)
+ 
+and its Tender dated 
+
+
+from the Tender Form)
+ 
+
+description of the Works
+) (hereinafter 
+
+ 
+ 
+AND WHEREAS
+ 
+it has been stipulated by you in the said Contract that the Contractor 
+shall furnish you with an Institut
+
+
+in accordance with the Contract; 
+ 
+ 
+AND WHEREAS
+ 
+we have agreed to give the Contractor a Guarantee; 
+ 
+ 
+THEREFORE
+ 
+WE HEREBY AFFIRM
+ 
+that we are Guarantors and responsible to you, 
+
+amount of
+ 
+the guarantee 
+in words and figures
+) and we undertake to pay you, upon your first written demand 
+declaring the Contractor to be
+ 
+in default under the Contract and without cavil or 
+
+ 
+(
+amount of guarantee
+) as aforesaid, without you needing to prove or to show grounds or 
+reasons for your demand or the sum specified therei
+n.
+ 
+ 
+
+ 
+ 
+EITHER
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+58
+ 
+of 
+83
+ 
+ 
+ 
+SEALED
+ 
+with the 
+ 
+ 
+ 
+)
+ 
+COMMON SEAL
+ 
+ 
+ 
+ 
+)
+ 
+ 
+of the said
+ 
+INSTITUTION
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+
+ 
+ 
+)
+ 
+_____________________________
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+INSTITUTION SEAL 
+ 
+
+ 
+)
+ 
+            
+                     
+ 
+in the presence of :
+-
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+____________________
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+and in the presence of:
+-
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+__________________
+ 
+           
+)                    
+ 
+ 
+OR
+ 
+ 
+SIGNED
+ 
+by the 
+DULY AUTHORISED 
+ 
+REPRESENTATIVE(S)/ ATTORNEY(S)
+ 
+of 
+ 
+the 
+INST
+ITUTION
+  
+ 
+ 
+_____________________
+ 
+Name(s) and 
+Designation
+ 
+of duly authorised representative(s)/ attorney(s) of the 
+Institution
+.
+ 
+ 
+___________________________________
+ 
+Signature(s) of the duly authorised person(s) 
+ 
+ 
+ 
+NOTES TO SUPPLIERS AND 
+INSTITUTIONS
+ 
+ 
+ 
+1. 
+ 
+P
+lease note that no material additions, deletions or alterations regarding the 
+contents of this Form shall be made to the Tender Security to be furnished by the 
+Tenderer. If any are made, the Tender Security shall not be accepted and shall be 
+rejected by KP
+LC. For the avoidance of doubt, such rejection will be treated as 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+59
+ 
+of 
+83
+ 
+ 
+ 
+non
+-
+submission of the Tender Security where such Security is required in the 
+tender. 
+ 
+ 
+2. 
+ 
+It is the responsibility of the Tenderer to sensitize its issuing institution on the 
+need to respon
+d directly and expeditiously to queries from KPLC. The period for 
+response shall not exceed 
+three
+ 
+(
+3
+
+there be no conclusive response by the institution within this period, such 
+
+ 
+deemed as invalid and the bid rejected. 
+ 
+ 
+ 
+3.
+ 
+The issuing institution should address its response or communication regarding 
+the Tender Security to KPLC at the following e
+-
+mail address 
+
+ 
+
+
+ 
+ 
+4.
+ 
+The Tender validity period is 
+one hu
+ndred eighty (18
+0) days as set out in the 
+Invitation to Tender (at Section I of the Tender document) or as otherwise may be 
+extended by KPLC. 
+Therefore,
+ 
+the Tender Security must at all times be valid for at 
+least 30 days beyond the tender validity period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+60
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XI C 
+-
+ 
+TENDER SECURITY 
+
+ 
+(LETTERS OF CREDIT)
+ 
+ 
+The Mandatory Conditions to be included in the Letters are in two parts, A and B.  
+ 
+ 
+Part A
+ 
+ 
+Form of Documentary credit 
+-
+ 
+
+ 
+ 
+Applicable rules 
+-
+ 
+
+
+Publication No. 600.
+ 
+ 
+Place of expiry 
+-
+ 
+At the counters of the advising bank.
+ 
+ 
+The SBLC should be available 
+
+ 
+
+ 
+ 
+Drafts should be payable at 
+-
+ 
+
+ 
+ 
+Documents required 
+-
+ 
+ 
+1. 
+ 
+
+d dated statement demanding for payment under the letter of 
+
+Insert LC No
+
+Name of 
+applicant
+
+
+ 
+has 
+defaulted in the obligations of the Tenderer as stated 
+by the Beneficiary.
+ 
+ 
+2. 
+ 
+The Original Letter of Credit and all amendments, if any.
+ 
+ 
+Additional 
+Conditions 
+-
+ 
+1.
+ 
+ 
+All charges levied by any bank that is party to this documentary credit are for the 
+account of the applicant.
+ 
+ 
+2. 
+ 
+There should be no conditions
+ 
+requiring compliance with the specific regulations or a 
+
+ 
+ 
+Charges 
+-
+ 
+All bank charges are for the account of the applicant.
+ 
+ 
+*
+Confirmation instructions 
+
+ 
+(See notes below)
+ 
+ 
+Part B
+ 
+The proceeds of these Letters are p
+ayable to KPLC 
+-
+ 
+ 
+a) 
+ 
+if the Tenderer withdraws its Tender after the deadline for submitting Tenders but 
+before the expiry of the period during which the Tenders must remain valid.
+ 
+b
+) 
+ 
+if the Tenderer fails to enter into a written contract in accordance wi
+th the Tender 
+Document
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+61
+ 
+of 
+83
+ 
+ 
+ 
+c
+) 
+ 
+if the successful Tenderer fails to furnish the performance security in accordance 
+with the Tender Document. 
+ 
+ 
+d
+) 
+ 
+if the Tenderer fails to extend the validity of the tender security where KPLC has 
+extended the tender validity pe
+riod in accordance with the Tender Document. 
+ 
+ 
+ 
+NOTES TO TENDERERS AND BANKS.
+ 
+ 
+1. 
+ 
+Please note that should the Tender Security (LC) omit any of the above conditions 
+the LC shall not be accepted and shall be rejected by KPLC. For the avoidance of 
+doubt, suc
+h rejection will be treated as non
+-
+submission of the LC where such LC 
+is required in the Tender.
+ 
+ 
+ 
+2. 
+ 
+It is the responsibility of the Tenderer to sensitize its issuing bank on the need to 
+respond directly and expeditiously to any queries from KPLC. The pe
+riod for 
+response shall not 
+three
+  
+(
+3
+
+
+Security shall be deemed as invalid and the bid rejected.
+ 
+ 
+3. 
+ 
+The issuing bank should 
+address its response or communication regarding the 
+bond to KPLC at the following e
+-
+mail address 
+
+ 
+
+  
+ 
+ 
+4.
+ 
+The Tender validity period is 
+one hundred eighty (18
+0) days as set out in the 
+Invitation to Tender (at Section I of the Tender
+ 
+document) or as otherwise may be 
+extended by KPLC. Therefore the Tender Security must at all times be valid for at 
+least 30 days beyond the tender validity period.
+ 
+ 
+5.
+ 
+All Guarantees issued by foreign banks must be confirmed by a local bank in 
+Kenya.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+62
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XII 
+-
+ 
+
+ 
+ 
+(To Be Submitted 
+on
+ 
+
+ 
+ 
+To:
+ 
+The Kenya Power & Lighting Company Limited, 
+ 
+Stima Plaza, 
+ 
+Kolobot Road, Parklands,
+ 
+P.O Box 30099 
+
+ 
+00100,
+ 
+Nairob
+i, Kenya.
+ 
+ 
+WHEREAS WE
+ 
+
+name of the
+ 
+manufacturer/ principal
+) who 
+
+ 
+(
+name and description of the services
+) having offices or factories at 
+
+address and physical location o
+f offices or factory(ies) 
+do hereby confirm that 
+
+ 
+(
+name and address of Contractor
+) is authorized by us to transact in the services required 
+
+insert reference number and name of 
+the Tender
+) in respect of the a
+bove services. 
+ 
+ 
+WE HEREBY 
+extend our full guarantee and warranty as per the Conditions of Contract 
+for the services offered for provision by the above firm against the Invitation to Tender.
+ 
+ 
+
+ 
+ 
+_____________________
+______________
+ 
+Signature of duly authorised person for and on behalf of the Manufacturer/ Principal. 
+ 
+ 
+__________________________________
+ 
+Name and 
+Designation
+ 
+of duly authorised person signing on behalf of the Manufacturer/ 
+Principal.
+ 
+ 
+NOTES TO TENDERERS &
+ 
+MANUFACTURERS/ PRINCIPALS/ PRODUCERS
+ 
+ 
+Only a competent person in the service of the Manufacturer/ Principal should sign this 
+letter of authority.
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+63
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XIII 
+-
+ 
+DECLARATION FORM
+ 
+Date 
+ 
+ 
+ 
+ 
+To:
+ 
+The 
+Kenya Power
+ 
+& Lighting Company Limited, 
+ 
+P.O Box 30099 
+
+ 
+00
+100,
+ 
+Stima Plaza, Kolobot Road, Parklands,
+ 
+Nairobi, 
+ 
+KENYA.
+ 
+ 
+Ladies and Gentlemen,
+ 
+ 
+The Tenderer i.e. (full name and complete physical and postal address)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+d
+eclare the following: 
+-
+ 
+ 
+a) 
+ 
+That I/ We have not been debarred from participating in public 
+procurement by 
+anybody, institution or person.
+ 
+b) 
+ 
+That I/ We have not been involved in and will not be involved in corrupt and 
+fraudulent practices regarding public procurement anywhere.
+ 
+c) 
+ 
+That I/We or any director of the firm or company is not a person
+ 
+within the 
+meaning of paragraph 3.2 of 
+ICT
+ 
+(Eligible Tenderers) of the Instruction to 
+Tenderers.
+ 
+d) 
+ 
+That I/ We are not insolvent, in receivership, bankrupt or in the process of being 
+wound up and is not the subject of legal proceedings relating to the fo
+regoing.
+ 
+e) 
+ 
+That I/We do hereby confirm that all the information given in this tender is 
+accurate, factual and true to the best of our knowledge. 
+ 
+f) 
+ 
+That I/ We are not associated with any other Tenderer participating in this tender.
+ 
+ 
+ 
+Yours sincerely,
+ 
+_
+____________________
+ 
+Name of Tenderer
+ 
+___________________________________
+ 
+Signature of duly authorised person signing the Tender
+ 
+__________________________________
+ 
+Name and 
+Designation
+ 
+of duly authorised person signing the Tender
+ 
+ 
+_________________________
+_________
+ 
+Stamp or Seal of Tenderer  
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+64
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XIV 
+
+ 
+DRAFT LETTER OF NOTIFICATION OF AWARD
+ 
+ 
+To: 
+ 
+
+ 
+ 
+Dear Sirs/ Madams,
+ 
+ 
+RE:
+ 
+
+ 
+ 
+
+and are pleased to inform you that 
+following evaluation, your Tender has been accepted as follows: 
+-
+ 
+ 
+
+ 
+
+ 
+ 
+This notification does not constitute a contract. The formal Contract Agreement
+, which is 
+enclosed herewith shall be entered into upon expiry of 
+fourteen
+ 
+(
+14
+) days from the date 
+hereof pursuant to the provisions of the Public Procurement and 
+Asset 
+Disposal Act, 20
+1
+5 
+(or as may be amended from time to time or replaced)
+.
+ 
+ 
+Kindly sign, 
+and seal the Contract Agreement. Further, initial and stamp on all pages of 
+the documents forming the Contract that are forwarded to you with this letter. Thereafter 
+return the signed and sealed Contract together with the documents to us within 
+fourteen
+ 
+(
+1
+4
+) days of the date hereof for our further action.
+ 
+ 
+We take this opportunity to remind you to again note and strictly comply with the 
+provisions as regards the Tender Security, Signing of Contract and Performance Security 
+as stated in the Instructions to T
+enderers.  
+ 
+ 
+We look forward to a cordial and mutually beneficial business relationship.
+ 
+ 
+Yours faithfully,
+ 
+FOR
+: THE KENYA POWER & LIGHTING COMPANY LIMITED
+ 
+ 
+ 
+GENERAL
+ 
+MANAGER, SUPPLY CHAIN
+ 
+ 
+ 
+Enclosures
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+65
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XV 
+
+ 
+DRAFT LETTER OF NOTIFICATION OF REGRET
+ 
+ 
+To
+: 
+
+ 
+ 
+Date:
+ 
+ 
+Dear Sirs/ Madams,
+ 
+ 
+RE
+:
+ 
+
+ 
+ 
+
+evaluation, your Tender is unsucce
+ssful. It is therefore not accepted. The brief reasons are 
+as 
+follows: 
+-
+ 
+1.
+ 
+
+ 
+2. 
+ 
+
+ 
+3. 
+ 
+
+ 
+ 
+The successful bidder was _______________________.
+ 
+ 
+However, this notification does not reduce the validity period of your Tender Securi
+ty. In 
+this regard, we request you to relook at the provisions regarding the Tender Security, 
+Signing of Contract and Performance Security as stated in the Instructions to Tenderers.
+ 
+ 
+You may collect the tender security from our 
+Legal Department (Guarantee
+s Section), on 
+the 2
+nd
+ 
+Floor, Stima Plaza, Kolobot Road, Parklands, Nairobi 
+only after expiry of 
+twenty 
+five
+ 
+(
+25
+) days from the date hereof
+ 
+on Mondays and Wednesdays ONLY between 9.00 
+a.m to 12.30 pm and 2.00p.m to 4.00p.m. 
+ 
+It is expected that by that tim
+e KPLC and the successful bidder will have entered into a 
+contract pursuant to the Public Procurement and 
+Asset 
+Disposal Act, 20
+1
+5 
+(or as may be 
+amended from time to time or replaced). 
+When collecting the Security, you will be 
+required to produce the origi
+nal or certified copy of this letter.
+ 
+ 
+ 
+We thank you for the interest shown in participating in this tender and wish you well in 
+all your future endeavours. 
+ 
+ 
+Yours faithfully,
+ 
+FOR
+: THE KENYA POWER & LIGHTING COMPANY LIMITED
+ 
+ 
+ 
+GENERAL
+ 
+MANAGER, SUPPLY CHAIN
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+66
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XV
+I
+ 
+-
+ 
+CONTRACT AGREEMENT FORM
+ 
+ 
+THIS AGREEMENT 
+made this
+
+day of
+
+ 
+BETWEEN
+ 
+THE KENYA POWER & LIGHTING COMPANY LIMITED
+, a limited liability 
+company duly incorporated under the Companies Act, Chapter 486 of the Laws of 
+Kenya, with its reg
+istered office situated at Stima Plaza, Kolobot Road, Parklands, 
+Nairobi in the Republic of Kenya and of Post Office Box Number 30099
+-
+00100, Nairobi 
+in the Republic aforesaid 
+
+of the one part,
+ 
+ 
+AND
+ 
+ 
+
+Co
+ntractor
+
+)
+ 
+a duly registered entity according to the laws of
+
+(state country)
+ 
+and of Post Office 
+Box Number
+/Physical Address 
+
+(full address physical and postal of 
+Contractor
+)
+ 
+in the Republic aforesaid, 
+(h
+
+ 
+of the 
+other part;
+ 
+ 
+WHEREAS
+ 
+KPLC invited tenders for certain services, that is to say for 
+
+  
+(
+KPLC
+ 
+Supply Chain 
+
+ 
+Procurement Department
+ 
+insert description of services
+)
+ 
+under 
+Tender Number
+
+KPLC
+ 
+Supply
+ 
+Chain 
+
+ 
+Procurement Department
+ 
+ 
+insert 
+tender number
+)
+ 
+ 
+ 
+AND 
+WHEREAS
+ 
+KPLC has accepted the Tender by the Contractor for the services in 
+the sum of 
+
+(
+ 
+KPLC
+ 
+Supply Chain 
+
+ 
+Procurement Department
+ 
+ 
+specify the total amount in words which should include 
+any payable taxes, duties and 
+insurance where applicable e.g. Value Added Tax)
+ 
+ 
+(
+
+
+).
+ 
+ 
+ 
+NOW THIS AGREEMENT WITNESSETH AS FOLLOWS: 
+-
+ 
+ 
+ 
+1. 
+ 
+In this Agreement words and expressions shall have the same meanings as are 
+respe
+ctively assigned to them in the Conditions of Contract and the Tender 
+Document.  
+ 
+ 
+2. 
+ 
+Unless the context or express provision otherwise requires: 
+-
+ 
+ 
+a) 
+ 
+
+documents mentioned hereunder a
+nd any reference to this Agreement or to 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+67
+ 
+of 
+83
+ 
+ 
+ 
+any other document includes a reference to the other document as varied 
+supplemented and or replaced in any manner from time to time.  
+ 
+ 
+b)
+ 
+any reference to any Act shall include any statutory extension, 
+amendment, 
+modification, re
+-
+amendment or replacement of such Act and 
+any rule, regulation or order made thereunder.
+ 
+ 
+c) 
+ 
+words importing the masculine gender only, include the feminine gender 
+ 
+ 
+ 
+ 
+or (as the case may be) the neutral gender.
+ 
+ 
+d) 
+ 
+words importing the si
+ngular number only include the plural number and 
+ 
+ 
+ 
+ 
+vice
+-
+versa and where there are two or more persons included in the 
+expression the 
+
+ 
+the covenants, agreements obligations 
+expressed to be made or performed by the Contractor shall be deemed to
+ 
+be made or performed by such persons jointly and severally.
+ 
+ 
+e) 
+ 
+where there are two or more persons included in the expression the
+ 
+
+ 
+any act default or omission by the Contractor shall be 
+deemed to be an act default or omission by any one or m
+ore of such 
+persons.
+ 
+   
+ 
+3. 
+ 
+In consideration of the payment to be made by KPLC to the Contractor as 
+hereinbefore mentioned, the Contractor hereby covenants with KPLC to perform 
+and provide the services and remedy any defects thereon in conformity in all 
+r
+espects with the provisions of the Contract.
+ 
+ 
+4.
+ 
+KPLC hereby covenants to pay the Contractor in consideration of the proper 
+performance and provision of the services and the remedying of defects therein, 
+the Contract Price or such other sum as may become p
+ayable under the provisions 
+of the Contract at the times and in the manner prescribed by the Contract.
+ 
+ 
+5.
+ 
+The following documents shall constitute the Contract between KPLC and the 
+Contractor and each shall be read and construed as an integral part of the
+ 
+Contract: 
+-
+ 
+ 
+ 
+a) 
+ 
+this Contract Agreement
+ 
+b) 
+ 
+the Special Conditions of Contract as per the Tender Document 
+ 
+c) 
+ 
+the General Conditions of Contract as per the Tender Document
+ 
+d) 
+ 
+the Price Schedules submitted by the Contractor and agreed upon with 
+KPLC.
+ 
+e
+) 
+ 
+
+ 
+f) 
+ 
+the Schedule of Requirements
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+68
+ 
+of 
+83
+ 
+ 
+ 
+g)
+ 
+ 
+
+ 
+h) 
+ 
+the Tender Form signed by the Contractor
+ 
+i) 
+ 
+the Declaration Form signed by the Contractor/ successful Tenderer
+ 
+j) 
+ 
+the
+ 
+Warranty
+ 
+h)
+ 
+project implementation schedule 
+ 
+ 
+6. 
+ 
+In the event of any ambiguity or conflict between the contract documents listed 
+above, the order of precedence shall be the order in which the contract documents 
+are listed in 5 above except where otherwis
+e mutually agreed in writing.  
+ 
+ 
+ 
+7.
+ 
+The Commencement Date shall be the working day immediately following the 
+fulfillment of all the following: 
+-
+  
+ 
+a) 
+ 
+Execution of this Contract Agreement by KPLC and the Contractor.
+ 
+b) 
+ 
+Issuance of the Performance Bond by
+ 
+the Contractor and confirmation of 
+its authenticity by KPLC.
+ 
+c) 
+ 
+Issuance of the Official Order by KPLC to the Contractor.
+ 
+d) 
+ 
+Where applicable, Opening of the Letter of Credit by KPLC.
+ 
+ 
+8. 
+ 
+The period of contract validity shall begin from the Commencemen
+t date and end 
+on either 
+-
+  
+ 
+a) 
+ 
+sixty (60) days after the last date of the agreed performance schedule, or,  
+ 
+b) 
+ 
+where a Letter of Credit is adopted as a method of payment, sixty (60) 
+days after the expiry date of the Letter of Credit or the expiry date 
+of the 
+last of any such opened Letter of Credit whichever is later. 
+ 
+Provided that the expiry period of the Warranty shall be as prescribed and further 
+provided that the Warranty shall survive the expiry of the contract.  
+ 
+ 
+9. 
+ 
+It shall be the responsibili
+ty of the Contractor to ensure that its Performance 
+Security is valid at all times during the period of contract validity and further is in 
+the full amount as contracted.  
+ 
+ 
+10. 
+ 
+Any amendment, change, addition, deletion or variation howsoever to this 
+Cont
+ract shall only be valid and effective where expressed in writing and signed 
+by both parties.   
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+69
+ 
+of 
+83
+ 
+ 
+ 
+11. 
+ 
+No failure or delay to exercise any power, right or remedy by KPLC shall operate 
+as a waiver of that right, power or remedy and no single or partial exer
+cise of any 
+other right, power or remedy.
+ 
+ 
+12. 
+ 
+Notwithstanding proper completion of performance or parts thereof, all the 
+provisions of this Contract shall continue in full force and effect to the extent that 
+ 
+ 
+ 
+any of them remain to be implemented or per
+formed unless otherwise expressly 
+agreed upon
+ 
+by both parties
+. 
+ 
+ 
+ 
+13.
+ 
+Any notice required to be given in writing to any Party herein shall be deemed to 
+have been sufficiently served, if where delivered personally, one day after such 
+delivery; notices by el
+ectronic mail shall be deemed to be served one day after the 
+date of such transmission and delivery respectively, notices sent by post shall be 
+deemed served seven (7) days after posting by registered post (
+and proof of 
+posting shall be proof of service
+), 
+notices sent by courier shall be 
+ 
+ 
+deemed served two (2) days after such receipt by the courier service for Local 
+Suppliers and five (5) days for Foreign Suppliers.  
+ 
+ 
+14. 
+ 
+For the purposes of Notices, the address of KPLC shall be 
+Company Secretary, 
+The Ke
+nya Power & Lighting Company Limited, 7
+th
+ 
+Floor, Stima Plaza, Kolobot 
+Road, Post Office Box Num
+ber 30099
+
+00100, Nairobi, Kenya
+. The address for 
+
+Business Questionnaire prov
+ided in the Tender Document.  
+ 
+ 
+IN WITNESS 
+whereof the parties hereto have caused this Agreement to be executed in 
+accordance with the laws of Kenya the day and year first above written.
+ 
+ 
+SIGNED 
+for and on behalf 
+ 
+of 
+KPLC
+ 
+ 
+ 
+_____________
+______________
+_____
+_
+ 
+MANAGING DIRECTOR  & CEO
+ 
+ 
+and in the presence of:
+-
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+70
+ 
+of 
+83
+ 
+ 
+ 
+ 
+______________________
+ 
+COMPANY SECRETARY
+ 
+ 
+ 
+SEALED 
+with the 
+COMMON SEAL
+ 
+ 
+of the 
+CONTRACTOR
+ 
+in the presence of:
+-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________
+ 
+ 
+ 
+ 
+______________________
+ 
+ 
+DIRECTOR
+ 
+ 
+ 
+ 
+ 
+ 
+
+al here
+ 
+ 
+ 
+________________________
+ 
+
+ 
+ 
+ 
+and in the presence 
+of: 
+-
+ 
+ 
+ 
+________________________
+ 
+DIRECTOR/ COMPANY SECRETARY
+ 
+ 
+________________________________________________
+ 
+
+ 
+ 
+DRAWN BY: 
+-
+ 
+Imelda Bore,
+ 
+Advocate, 
+ 
+C/o The Kenya Power & Lighting Company Limited, 
+ 
+7
+th
+ 
+Floor, Stima Plaza, 
+ 
+Kolobot Road, Parklands,
+ 
+Post Office Box Number 30099
+
+00100, 
+ 
+NAIROBI, KENYA
+, 
+ 
+ 
+Telephones: 
+ 
++ 254
+-
+20
+-
+3201000/ 
+731
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+71
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XVI
+I 
+A 
+-
+ 
+PERFORMANCE SECURITY FORM (BANK GUA
+RANTEE)
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+Date:
+ 
+ 
+To:
+ 
+The Kenya Power & Lighting Company Limited, 
+ 
+Stima Plaza, 
+ 
+Kolobot Road, Parklands,
+ 
+P.O Box 30099 
+
+ 
+00100,
+ 
+Nairobi, Kenya.
+ 
+ 
+WHEREAS
+
+
+reference number of the Tender)
+ 
+and its Tender dated 
+
+Form)
+ 
+
+description of the goods
+
+ 
+ 
+AND WHEREAS
+ 
+it has been stipulated by you in the said Contract that the Supplier 
+shall furnish you with a bank guarantee by an acceptable bank for the sum specified 
+
+accordance with the Con
+tract; 
+ 
+ 
+AND WHEREAS
+ 
+we have agreed to give the Supplier a guarantee; 
+ 
+ 
+THEREFORE WE HEREBY AFFIRM
+ 
+that we are Guarantors and responsible to you, 
+on behalf of the Supplier, up to a total
+ 
+sum
+ 
+
+amount of
+ 
+the 
+guarantee in words and figures
+) and we
+ 
+undertake to pay you, upon your first written 
+demand declaring the Supplier to be in default under the Contract and without cavil or 
+
+ 
+(
+amount of guarantee
+) as aforesaid, without you needing 
+to prove or to show grounds or 
+reasons for your demand or the sum specified therein.
+ 
+ 
+
+ 
+ 
+EITHER
+ 
+ 
+SEALED
+ 
+with the 
+ 
+ 
+ 
+)
+ 
+COMMON SEAL
+ 
+ 
+ 
+ 
+)
+ 
+ 
+of the said 
+BANK 
+ 
+ 
+ 
+)
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+72
+ 
+of 
+83
+ 
+ 
+ 
+
+ 
+ 
+)
+ 
+___________________
+__________
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+BANK SEAL 
+ 
+
+ 
+)
+ 
+                                 
+ 
+in the presence of :
+-
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+____________________
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+and in the presence of:
+-
+ 
+ 
+ 
+)
+ 
+ 
+ 
+ 
+ 
+ 
+)
+ 
+__________________
+ 
+ 
+)                    
+ 
+OR
+ 
+SIGNED
+ 
+by the 
+DULY AUTHO
+RISED 
+ 
+REPRESENTATIVE(S)/ ATTORNEY(S)
+ 
+of 
+ 
+the 
+BANK 
+ 
+ 
+_____________________
+ 
+Name(s) and 
+Designation
+ 
+of duly authorised representative(s)/ attorney(s) of the Bank 
+ 
+___________________________________
+ 
+Signature(s) of the duly authorised person(s) 
+ 
+ 
+NOTES TO S
+UPPLIERS AND BANKS
+ 
+ 
+1. 
+ 
+Please note that no material additions, deletions or alterations regarding the 
+contents of this Form shall be made to the Performance Security Bond (the Bond) to be 
+furnished by the successful Tenderer/ Supplier. If any are made, th
+e Bond may not be 
+accepted and shall be rejected by KPLC. For the avoidance of doubt, such rejection will 
+be treated as non
+-
+submission of the Bond where such Bond is required in the tender and 
+Contract.
+ 
+ 
+2. 
+ 
+KPLC shall seek authentication of the Performanc
+e Security from the issuing 
+bank. It is the responsibility of the Supplier to sensitize its issuing bank on the 
+need to respond directly and expeditiously to queries from KPLC. The period for 
+
+query. Should 
+
+Performance Security may be deemed as invalid and the Contract nullified. 
+ 
+ 
+3. 
+ 
+The issuing Bank should address its response or communication regarding the 
+bond t
+o KPLC at the following e
+-
+mail address 
+
+ 
+
+  
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+73
+ 
+of 
+83
+ 
+ 
+ 
+ 
+SECTION XVII B 
+-
+ 
+PERFORMANCE SECURITY (LC)
+ 
+ 
+Mandatory Conditions that should appear on the Performance Security (LC). 
+ 
+ 
+Form of Documentary credit 
+-
+ 
+
+ 
+ 
+Applicable ru
+les 
+-
+ 
+
+Publication No. 600.
+ 
+ 
+Place of expiry 
+-
+ 
+At the counters of the advising bank.
+ 
+ 
+The SBLC should be available 
+
+ 
+
+ 
+ 
+Drafts should be payable at 
+-
+ 
+
+ 
+ 
+Documents required 
+-
+ 
+ 
+1. 
+ 
+
+
+Insert LC No
+
+Name of 
+Applicant
+
+defaulted in the performance an
+d adherence to and performance of the contract 
+between the Beneficiary and the Supplier. 
+ 
+ 
+2. 
+ 
+The Original Letter of Credit and all amendments, if any.
+ 
+ 
+Additional 
+Conditions 
+-
+ 
+1.
+ 
+ 
+All charges levied by any bank that is party to this documentary credit ar
+e for the 
+account of the Applicant.
+ 
+ 
+2. 
+ 
+(Include) that there should be no conditions requiring compliance with the specific 
+
+ 
+ 
+Charges 
+-
+ 
+All bank charges are for the account of the Applicant.
+ 
+ 
+Conf
+irmation instructions 
+
+ 
+(See notes below)
+ 
+ 
+NOTES TO SUPPLIERS AND BANKS
+ 
+ 
+ 
+1. 
+ 
+Please note that should the Performance Security (LC) omit any of the above 
+conditions the LC shall not be accepted and shall be rejected by KPLC. For the 
+avoidance of doubt, suc
+h rejection will be treated as non
+-
+submission of the LC 
+where such LC is required in the tender and Contract.
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+74
+ 
+of 
+83
+ 
+ 
+ 
+2. 
+ 
+KPLC may seek authentication of the Performance Security (LC) from the issuing 
+bank. It is the responsibility of the Supplier to sensitize i
+ts issuing bank on the 
+need to respond directly and expeditiously to queries from KPLC. The period for 
+ 
+ 
+response shall not exceed 
+three
+ 
+(
+3
+
+there be no conclusive response by the Bank within this period, such Sup
+
+Performance Security (LC) may be deemed as invalid and the Contract nullified.
+ 
+ 
+3. 
+ 
+The issuing bank should address its response or communication regarding the 
+bond to KPLC at the following e
+-
+mail address 
+
+ 
+
+  
+ 
+ 
+4.
+ 
+ 
+All Guara
+ntees issued by foreign banks must be confirmed by a local bank in 
+Kenya.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+75
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XVIII 
+
+ 
+SUBCONTRACTORS
+ 
+ 
+(INFORMATION TO BE PROVIDED BY THE TENDERER)
+ 
+ 
+ 
+As per the requirements of Clause 7.23 of General Conditions of Contract, follo
+wing is a 
+list of subcontractors and the portions of the Work to be subcontracted:
+ 
+ 
+No.
+ 
+Subcontractor
+ 
+Address
+ 
+Brief Description of the 
+Works to be 
+Subcontracted
+ 
+% works 
+subcontracted
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+76
+ 
+of 
+83
+ 
+ 
+ 
+SECTION XIX 
+-
+ 
+P
+REVIOUS EXPERIENCE WITH SIMILAR WORK
+ 
+ 
+(INFORMATION TO BE PROVIDED BY THE TENDERER)
+ 
+ 
+ 
+As required by Section 3.13.3(d) of the 
+Instructions To Tenderers
+, following is a list of 
+work that the Tenderer has previously performed which is similar to that describe
+d in the 
+Request for Proposal:
+ 
+ 
+ 
+No.
+ 
+Description
+ 
+Customer Name & Contacts
+ 
+Date of Supply
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+77
+ 
+of 
+83
+ 
+ 
+ 
+SECTION X
+X
+ 
+-
+ 
+SUPPLIER EVALUATION FORM
+ 
+ 
+(This form is for information only and 
+not
+ 
+to be filled in by any b
+idder. It is for 
+official use by KPLC to evaluate performance of Suppliers during the contract 
+period)
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+1. COST 
+OF 
+SERVICE/PRO
+DUCT
+ 
+Rating guidelines
+ 
+Sup
+plie
+r 
+Sco
+re
+ 
+Procurem
+ent Score
+ 
+Use
+r 
+Sco
+re
+ 
+Comme
+nts
+ 
+Totals
+ 
+ 
+ 
+Did the vendor assist in or 
+advice on ways of reducing 
+the costs?
+ 
+YES:4
+ 
+PARTI
+ALLY:2
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+ 
+How closely did your final 
+costs correspond to your 
+e
+xpectation at the 
+beginning of the 
+project/tender?
+ 
+YES:2
+ 
+PARTI
+ALLY:1
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.00%
+ 
+Did the company stick to 
+the agreed 
+transaction/contract rates?
+ 
+YES:4
+ 
+PARTI
+ALLY:2
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.ON TIME 
+DELIVERY OF 
+PRODUCT OR 
+SERVICE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+Did th
+e vendor perform 
+work in compliance with 
+contract terms and 
+agreements?
+ 
+YES:6
+ 
+PARTI
+ALLY:3
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+ 
+ 
+ 
+Was the vendor prompt and 
+effective in correction of 
+situations and conditions?
+ 
+YES:2
+ 
+PARTI
+ALLY:1
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.00%
+ 
+Are you able to track 
+ser
+vice level agreements 
+and determine duration of 
+incidents from the vendor?
+ 
+YES:2
+ 
+PARTI
+ALLY:1
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. 
+FLEXIBILITY 
+TO RESPOND 
+TO 
+UNEXPECTED 
+DEMAND OF 
+SERVICE
+ 
+Rating guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+Was the vendor willing to 
+change their 
+product/servic
+e on special 
+needs?
+ 
+YES:6
+ 
+PARTI
+ALLY:3
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.00%
+ 
+4. QUALITY
+ 
+Rating guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+When performing their 
+duties, was there 
+-
+ 
+rework 
+or returns caused by non
+-
+conformance to quality?
+ 
+NO:6
+ 
+PARTI
+ALLY:3
+ 
+YES: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14
+ 
+Was the quality of service 
+delivered equal to KPLC 
+minimum requirements?
+ 
+YES:8
+ 
+PARTI
+ALLY:4
+ 
+NO:0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.00%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.RESPONSIVE
+NESS
+ 
+Rating guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+Was the vendor well 
+YES:2
+ 
+PARTI
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+78
+ 
+of 
+83
+ 
+ 
+ 
+responsive to information 
+requests, issues, o
+r 
+problems that arose in the 
+course of service?
+ 
+ALLY:1
+ 
+Was the vendor open to 
+feedback on low quality of 
+service levels and willing 
+to act on this?
+ 
+YES:6
+ 
+PARTI
+ALLY:3
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.00%
+ 
+Is it easy to reach staff 
+members of 
+suppliers in 
+case of a request or query? 
+(are communication 
+channels clear?)
+ 
+YES:6
+ 
+PARTI
+ALLY:3
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. CUSTOMER 
+SUPPORT
+ 
+Rating guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+Did the vendor offer 
+effective customer support?
+ 
+YES:1
+0
+ 
+PARTI
+ALLY:4
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18
+ 
+I
+n case of reported 
+problems/issues, were there 
+follow ups by the vendor to 
+ensure the problem is fully 
+resolved during support?
+ 
+YES:8
+ 
+PARTI
+ALLY:4
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18.00%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7. 
+COMMUNICAT
+ION SKILLS
+ 
+Rating guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+Are you 
+satisfied with the 
+attitude, courtesy, and 
+professionalism of this 
+vendor's staff? Written or 
+spoken?
+ 
+YES:2
+ 
+PARTI
+ALLY:1
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+ 
+Are the vendor's staff well 
+equipped and skilled in 
+handling requests / issues? 
+Are you rotated too much 
+among staff o
+n an issue?
+ 
+YES:4
+ 
+PARTI
+ALLY:2
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.00%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. 
+DOCUMENTAT
+ION AND 
+ACCOUNTING
+ 
+Rating guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+Are you satisfied with how 
+the Vendor presents 
+documentation (invoices & 
+licenses etc) when required 
+to do so, to nec
+essitate 
+finalization of contract 
+renewals and payments? 
+ 
+YES:6
+ 
+PARTI
+ALLY:3
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+ 
+Was problem 
+documentation (incident 
+reports) presented promptly 
+by the vendor and was it 
+complete?
+ 
+YES:4
+ 
+PARTI
+ALLY:2
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10.00%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.
+ 
+VALUE ADD
+ 
+Rating guidelines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+Did the vendor go over and 
+above in optimizing service 
+delivery process for 
+effective services delivery?
+ 
+YES:6
+ 
+PARTI
+ALLY:3
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12
+ 
+ 
+ 
+Did the vendor go over and 
+above and offer training or 
+knowledge t
+o assist with 
+better systems support?
+ 
+YES:6
+ 
+PARTI
+ALLY:3
+ 
+NO: 0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12.00%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Score: 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+79
+ 
+of 
+83
+ 
+ 
+ 
+Totals
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100.0
+ 
+Maximum Score
+ 
+ 
+ 
+ 
+ 
+100.
+0
+ 
+100.00%
+ 
+VENDOR'S TOTAL SCORE
+ 
+ 
+ 
+VENDOR'S PERCENTAGE SCO
+RE
+ 
+ 
+ 
+ISSUES FOR FOLLOW UP 
+-
+ 
+Evaluation 
+Done by:
+ 
+Name 
+ 
+ 
+Depar
+tment
+ 
+ 
+ 
+ 
+ 
+Date
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Checked/V
+alidated by 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+PERFORMANCE LEVEL DEFINATION;
+ 
+
+75% 
+-
+ 
+KP1 GREEN
+ 
+50%   
+-
+ 
+KP2 AMBER
+ 
+25%   
+-
+ 
+KP3 YELLOW
+ 
+
+25% 
+-
+ 
+KP4 RED
+ 
+ 
+ 
+RATING:
+    
+75%
+ 
+-
+ 
+V
+ 
+Good,
+ 
+50%
+ 
+-
+ 
+Good,
+ 
+25%
+ 
+-
+ 
+Fair,
+ 
+Below
+ 
+25%
+ 
+-
+ 
+Poor
+ 
+ 
+ 
+RECOMMENDATION
+ 
+ 
+ 
+ 
+Status
+ 
+Tick as appropriate
+ 
+1
+ 
+Grant supplier preferred status
+ 
+KP1
+ 
+ 
+2
+ 
+Work with supplier or develop
+ 
+and 
+improve supplier
+ 
+KP2 & KP3
+ 
+ 
+3
+ 
+Abandon / switch suppliers
+ 
+KP4
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+80
+ 
+of 
+83
+ 
+ 
+ 
+SECTION X
+I
+ 
+-
+ 
+THE DETAILS OF SERVICES
+ 
+ 
+The Detail
+s of Services describe the basic requirements for services. In addition to the 
+information and documentation in the Tender Document regarding the technical aspects 
+of this tender, all Tenderers shall comply with the following 
+-
+  
+ 
+ 
+PART A 
+-
+ 
+GENERAL REQUIREM
+ENTS
+ 
+ 
+1. 
+ 
+Technical documentation shall be in English language. The specific services on offer 
+shall be marked clearly for the services they intend to provide.
+ 
+2. 
+ 
+Deviations from the basic requirements, if any, shall be explained in detail in writing 
+with
+ 
+the offer, with supporting data including calculation sheets, detailed drawings 
+and certified test reports. KPLC reserves the right to reject the services if such 
+deviations shall be found critical to the use and operation of the services.
+ 
+3.
+ 
+The Contractor 
+shall submit a Commentary on the Details of Service as well as 
+Commentary of Compliance to the Details of Service
+.  In submitting the 
+Commentaries the Contractors and or Manufacturers/ Principals should provide cross
+-
+references to the documents submitted.
+ 
+4. 
+ 
+The Commentaries shall be in table form, and shall cover in detail, all clauses of the 
+Detail(s).
+ 
+5. 
+ 
+Detailed contact information including title, e
+-
+mail, facsimile, telephone or any other 
+form of acceptable communication of the certification or recog
+nition and standards 
+body used shall be provided. 
+ 
+6.
+ 
+Where Certificates and their Reports are translated into English, all pages of the 
+translations must be signed and stamped by the certifying authority.
+ 
+7. 
+ 
+
+ 
+Conformity to reference standards and 
+copies of quality management certifications including valid and current ISO 
+certifications shall be submitted for evaluation. 
+ 
+8.
+ 
+In all cases where the level of galvanizing and painting is not specifically stated in 
+the Details, the general requirement shall be for a uniform coating of thickness not 
+less than 80 microns.
+ 
+9.
+ 
+Contractors are required to provide information on proper representative(s) and or 
+workshop for backup service and
+/
+or repair and maintenance inclu
+ding their names, 
+telephone, facsimile, e
+-
+mail, physical and postal addresses, along with their offers. 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+81
+ 
+of 
+83
+ 
+ 
+ 
+PART B 
+
+ 
+SPECIFIC DETAILS OF SERVICE (SDS)
+ 
+ 
+ 
+These are to be filled and signed by the supplier for all requirements and submitted 
+alongside other req
+uested documents. 
+The 
+b
+idder
+ 
+is
+ 
+required to indicate against each 
+
+
+thus indicating their confirmation to meeting the 
+service on award.
+ 
+ 
+a) Details of Services for 
+Electronic Tape Libraries and Sun S
+PARC
+ 
+Servers
+ 
+ 
+ 
+The 
+Details of Service Specifications
+ 
+
+ 
+i.
+ 
+Preventive Maintenance of 
+Electronic Tape Libraries
+ 
+(SL3000) 
+and Sun 
+S
+PARC
+ 
+Servers
+ 
+The vendor will carry out 
+preventive maintenance 
+of 
+the 
+Electronic 
+Tape Libraries
+, 
+Sun 
+Sparc 
+Servers
+ 
+and SAN switches
+ 
+on 
+quarterly
+ 
+basis.
+ 
+ 
+ 
+ii.
+ 
+Curative
+/Remedial
+ 
+Maintenance
+ 
+ 
+Remedial maintenance will be required to reinstate the 
+Tape Libraries 
+and Sun 
+SPARC
+ 
+Servers
+ 
+to working order. This will entail 
+troubleshooting, diagnosis
+,
+ 
+replacement 
+of parts 
+and other activities 
+required to reinstate the equipment to proper working condition. 
+ 
+ 
+ 
+iii.
+ 
+Software Patches
+, 
+Bug Fixes
+ 
+and Firmware
+ 
+Whenever a bug
+ 
+or malfunction 
+is detected in the 
+Tape Libraries and 
+Sun 
+SPARC
+ 
+Servers,
+ 
+the vendor shall 
+obtain and apply 
+the necessary 
+patch
+e
+s, 
+bug fixes
+ 
+and/or firmware.
+ 
+ 
+ 
+ 
+iv.
+ 
+Problem Escalation 
+ 
+The bidder and manufacturer (
+Messrs. 
+Oracle Corp
+) must have a back
+-
+to
+-
+back support arrangement to facilitate problem escalation. The 
+bidder will be required to escalate any problems they are not abl
+e to 
+resolve to the manufacturer to ensure quick resolution time.
+ 
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+82
+ 
+of 
+83
+ 
+ 
+ 
+b) Details of Services for 
+NetBackup
+ 
+Software
+ 
+ 
+ 
+The Details of Service Specifications
+ 
+
+ 
+i.
+ 
+Preventive Maintenance of 
+NetBackup 
+Software
+ 
+The vendor will carry out 
+preve
+ntive maintenance (
+NetBackup
+ 
+Health 
+checks) 
+on 
+quarterly basis.
+ 
+ 
+ii.
+ 
+Curative Maintenance
+ 
+ 
+On
+site support may be requested to resolve any 
+NetBackup
+ 
+Software
+ 
+and 
+related issues. The vendor is expected to respond to such a call 
+within 
+acceptable time lines 
+as will be specified in an SLA
+ 
+ 
+iii.
+ 
+Provision of Software Patches and Bug Fixes
+ 
+Whenever a bug 
+or malfunction 
+is detected in the 
+NetBackup
+ 
+software 
+the vendor shall 
+obtain and apply 
+the necessary software patches and 
+bug fixes
+ 
+ 
+iv.
+ 
+Support and upgrade o
+f software
+ 
+The vendor will provide support and software upgrade
+s
+ 
+when deemed 
+necessary
+ 
+to keep the software in the latest level.
+ 
+ 
+ 
+ 
+v.
+ 
+Problem Escalation 
+ 
+The bidder and manufacturer (
+Messrs. Veritas Technologies
+) must have 
+a back
+-
+to
+-
+back support arrangem
+ent to facilitate problem escalation. The 
+bidder will be required to escalate any problems they are not able to 
+resolve to the manufacturer to ensure quick resolution time.
+ 
+ 
+ 
+ 
+c)
+ 
+Details of Services for 
+Incidence Management
+ 
+ 
+ 
+The Details of Service Specifica
+tions
+ 
+
+ 
+i.
+ 
+Incidence Resolution 
+ 
+The vendor will 
+be required to resolve all the incidences occurring and 
+affecting 
+the Oracle hardware and NetBackup Software 
+within 
+acceptable time lines as will be specified in an SLA.  
+ 
+ 
+ii.
+ 
+Service/Supp
+ort Desk
+ 
+The vendor will have Service/Support Desk System in their premises 
+through which KPLC will submit service requests electronically. The 
+vendor will log all service requests and record the lifecycle of 
+resolution for the requests.
+ 
+ 
+iii.
+ 
+Incidence Reports
+ 
+The vendor will be required to provide regular reports on major 
+incidences as well as historical management of incidences.
+ 
+ 
+ 
+ 
+Provision of Annual Support & Maintenance Services fo
+r IBM System 
+z
+, Software Licenses, BI/EDW System and Cooling Equipment
+ 
+ 
+ 
+ 
+ 
+Page 
+83
+ 
+of 
+83
+ 
+ 
+ 
+ 
+d)
+ 
+Service Level Agreement (SLA ) 
+ 
+ 
+ 
+The Details of Service Specifications
+ 
+
+ 
+i.
+ 
+The bidder will
+ 
+provide a detailed SLA covering the above details of 
+service.
+ 
+ 
+ 
+ 
+ 
+ 
+Bidder's Signature 
+-
+----------------------------------------
+ 
+Official Stamp: 
+-
+---------------------------
+ 
+ 

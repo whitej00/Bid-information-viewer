@@ -1,0 +1,7930 @@
+ 
+ 
+Page 
+1
+ 
+of 
+1
+ 
+ 
+ 
+ISSUANCE DATE: 
+ 
+ 
+January 22
+, 2021
+ 
+ 
+RFP
+ 
+NO.:
+ 
+RFP No. 
+ASPA21.016 HDPE Pipe Upgrade & Replacement Project 
+
+ 
+Phase 
+II 
+Tualauta 
+(Design)
+ 
+ 
+ 
+SUBJECT:
+ 
+ 
+ 
+Addendum No. 
+1
+ 
+ 
+The American Samoa Power Authority hereby issu
+es Addendum No. 
+1
+ 
+to amend Request for 
+Proposal
+s
+ 
+(
+RFP
+) 
+req
+uirements.  This addendum is issued pursuant to the conditions of the 
+RFP
+ 
+documents and is hereby made part of 
+the 
+RFP
+.  The addendum serves to clarify, revise, and supersede information contained in the 
+RFP
+.  The Offeror 
+must acknowledge receipt of this a
+ddendum in the appropriate space provided in the Addendum Form.  Failure to do 
+so may subject the Offeror to disqualification. 
+ 
+ 
+1.
+ 
+The closing date for this tender has been extended as follows:
+ 
+ 
+Closing Date:
+ 
+Wednesday, January 27, 2021
+ 
+ 
+ 
+Bids receive
+d prior to this date will not be opened until the bid has officially c
+losed on the date 
+listed above.  
+ 
+ 
+2.
+ 
+Responses to inquiries received regarding this tender are listed on the following page.
+ 
+ 
+Should you ha
+ve any questions or need clarifica
+tion, please call me at (684) 699
+-
+3057 or 
+procurement@aspower.com
+.
+ 
+ 
+Sincerely,
+ 
+ 
+
+ 
+Procurement Manager
+ 
+ 
+Please sign and date below to acknowledge 
+receiving Addendum 
+1
+.
+  
+You may return this document via email at 
+bids@aspower.com
+ 
+or 
+procurement@aspower.com
+, 
+or the ASPA Procurement Office.
+ 
+ 
+ACKNOWLEDGEMENT OF RECEIV
+ING ADDENDUM 
+1
+ 
+Received by 
+ 
+ 
+ 
+ 
+ 
+ 
+, this 
+ 
+ 
+day of 
+_______________________ 
+2021
+.
+ 
+Company 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title 
+ 
+ 
+ 
+ 
+ 
+ 
+Fax No. 
+ 
+ 
+ 
+ 
+   
+Email Address 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+American Samoa Power Authority
+ 
+P.O. Box PPB
+ 
+Pago Pago, American Samoa 96799
+ 
+Telephone: (684) 
+699
+-
+3057
+ 
+Email: 
+bids@aspower.com
+ 
+ 
+Website: 
+www.aspower.com
+ 
+ 
+ 
+ 
+ 
+ 
+         
+ 
+             
+ 
+ 
+             
+American Samoa Power Authority
+ 
+            
+P.O. Box PPB, AS 
+96799
+ 
+                  
+Email: 
+procurement@aspower.com
+; Website: 
+www.aspower.com
+ 
+ 
+                  
+Tel. (684) 699
+-
+3057
+ 
+ 
+ 
+REQUEST FOR PROPOSAL (RFP)
+ 
+A&E 
+DESIGN
+ 
+ 
+FOR THE DESIGN OF
+ 
+
+THE HDPE 
+PIPE 
+UPGRADE & 
+REPLACEMENT PROJECT
+ 
+
+ 
+PHASE II TUALAUTA
+
+ 
+ 
+ 
+ 
+ 
+December 23, 2020
+ 
+ 
+ 
+ 
+RFP NO.:  
+ASPA21.016
+.ESD
+-
+ 
+WTR
+ 
+ 
+ 
+ 
+ 
+ 
+APPROVED FOR ISSUANCE BY:
+ 
+ 
+ 
+ 
+WALLON YOUNG
+ 
+EXECUTIVE DIRECTOR
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21.
+016.ESD
+-
+WTR
+ 
+Page 
+1
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project 
+
+ 
+Phase II Tualauta Design
+ 
+TABLE OF CONTENTS
+ 
+ 
+TABLE OF CONTENTS
+ 
+................................
+................................
+................................
+................................
+...................
+ 
+1
+ 
+NOTICE TO OFFERORS
+ 
+................................
+................................
+................................
+................................
+..................
+ 
+2
+ 
+PROPOSAL INVITATION
+................................
+................................
+................................
+................................
+................
+ 
+3
+ 
+SPECIAL REMIND
+ER TO PROSPECTIVE OFFERORS
+ 
+................................
+................................
+................................
+ 
+4
+ 
+SIGNIFICANT DATES
+ 
+................................
+................................
+................................
+................................
+.....................
+ 
+6
+ 
+GENERAL TERMS AND CONDITIONS
+ 
+................................
+................................
+................................
+........................
+ 
+7
+ 
+
+-
+ 
+PROPOSAL TRANSMITTAL FORM
+ 
+................................
+................................
+.......................
+ 
+15
+ 
+
+-
+ 
+SCOPE OF WORK
+ 
+................................
+................................
+................................
+......................
+ 
+16
+ 
+ATTA
+
+-
+ 
+OFFEROR QUALIFICATION FORM
+ 
+................................
+................................
+.......................
+ 
+19
+ 
+
+-
+ 
+DISCLOSURE STATEMENTS
+ 
+................................
+................................
+................................
+..
+ 
+22
+ 
+
+-
+ 
+NO
+N
+-
+C
+O
+LL
+U
+S
+I
+ON
+ 
+AFF
+I
+DAV
+I
+T OF
+ 
+P
+RIME
+ 
+OFFEROR
+ 
+................................
+.........................
+ 
+23
+ 
+
+-
+ 
+BID
+ 
+BOND
+ 
+S
+E
+C
+URI
+T
+Y
+ 
+I
+NS
+T
+RU
+C
+T
+I
+ONS
+ 
+................................
+................................
+.................
+ 
+24
+ 
+
+-
+ 
+BID
+ 
+BOND
+ 
+S
+E
+C
+URI
+T
+Y
+ 
+FORM
+ 
+................................
+................................
+................................
+.
+ 
+25
+ 
+ATTACHMENT "H" 
+-
+ 
+SITE LOCA
+TIONS
+ 
+
+27
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21.
+016.ESD
+-
+WTR
+ 
+Page 
+2
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project 
+
+ 
+Phase II Tualauta Design
+ 
+NOTICE TO OFFERORS
+ 
+REQUEST FOR PROPOSAL (RFP)
+ 
+ 
+ISSUANCE DATE:
+ 
+ 
+December 23, 2020
+ 
+RFP No.:
+ 
+ 
+ 
+ASPA21.016
+.ESD
+-
+WTR
+ 
+PROJECT:
+ 
+HDPE
+ 
+Pipe 
+Upgrade & 
+Replacement Project
+ 
+
+ 
+Phase II Tualauta
+ 
+CLOSING DATE/TIME:
+ 
+January 24, 2021
+,
+ 
+@ 2:00 p.m. American Samoa time
+ 
+
+you to submit a proposal for the construction of the 
+HDPE
+ 
+Pipe 
+Upgrade & 
+Replacement Project
+ 
+
+ 
+Phase II 
+in the Village
+s
+ 
+of 
+Tafuna, Iliiili,
+ 
+Malaeimi
+, Vaitogi
+ 
+
+,
+ 
+Tualauta County,
+ 
+American Samoa. This project is part of ASPA's effort 
+to improve its service to the people of American Samoa. This project is fully funded
+ 
+by the US
+-
+EPA
+. The selected Offeror 
+must provide a proposal that spe
+cifically and completely addresses a plan for the completion of the tasks which are 
+detailed in the Request for Proposal (RFP) Packet Attachment B, Scope of Work (SOW).
+ 
+A complete RFP package may be picked up from the ASPA Procurement Office located inside
+ 
+the New Operations 
+
+www.aspower.com
+. 
+For more information about this RFP, please contact the following person(s):
+ 
+ 
+
+utia
+ 
+Procurement Manager
+ 
+Procurement Office
+ 
+PH:  
+684
+-
+699
+-
+3057
+ 
+bids@aspower.com
+ 
+ 
+The American Samoa Power Authority reserves the right to:
+ 
+1.
+ 
+Reject all proposals and reissue a new or amended RFP;
+ 
+2.
+ 
+Request additional info
+rmation from any Offeror;
+ 
+3.
+ 
+Select a firm for awa
+rd based on other criteria
+ 
+
+fashion or proven technical capabilities);
+ 
+4.
+ 
+Negotiate a contract with the Offeror that is selected for award;
+ 
+5.
+ 
+Waive any
+ 
+non
+-
+material violations of rules set up in this RFP at its sole discretion; 
+ 
+6.
+ 
+Require the Offeror to provide payment and performance bonds;
+ 
+and
+ 
+7.
+ 
+Assign all of its rights and obligations, including the assignment of the RFP or any contracts awarded pursuant 
+to this RFP and assignment of its ownership and/or management of the project.
+ 
+ 
+ 
+ 
+ 
+ 
+Wallon Young
+, Executive Director
+ 
+Date
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+3
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+PROPOSAL INVITATION
+ 
+ 
+ 
+RENEE MATAUTIA
+, PROCUREMENT MANAGER
+ 
+AMERICAN SAMOA POWER AUTHORITY
+ 
+Procurement Office
+ 
+P.O. BOX PPB
+ 
+PAGO 
+PAGO, AS 96799
+ 
+(684) 
+699
+-
+3057
+ 
+bids@aspower.com
+ 
+DATED ISSUED
+:
+ 
+December 23, 2020
+ 
+ 
+PROPOSAL INVITATION NO
+:  
+RFP No.
+ASPA21.016
+-
+ESD
+-
+WTR
+ 
+INSTRUCTIONS:
+ 
+1)
+ 
+This REQUEST FOR PROPOSAL shall require a 
+Cost Proposal
+ 
+to be submitted in a separate sealed envelope, 
+box, or other enclosure
+ 
+2)
+ 
+All required submittals, including the Cost Proposal must be addressed to the ASPA Procurement Manager at the 
+above listed address.
+ 
+3)
+ 
+Five
+ 
+(
+5
+)
+ 
+original copies and one (1) PDF of the comp
+lete proposal must be received at the ASPA Procurement 
+Office no later than 
+ 
+January 24, 2021
+ 
+@ 2:00pm American Samoa Time
+.
+ 
+4)
+ 
+
+RFP No
+. 
+ASPA21.016
+.ESD
+-
+
+HDPE
+ 
+Pipe
+s Upgrade & 
+ 
+Replacement Project
+ 
+
+ 
+Phase II Tualauta
+
+ 
+5)
+ 
+Late
+ 
+submittals will not be opened or considered and will be determined as non
+-
+responsive.
+ 
+6)
+ 
+A pre
+-
+proposal meeting will be held on 
+Wednesday, 
+December 31, 2020
+, 
+at 10:00 a.m
+. at ASPA Materials 
+Management Conference Room. 
+ 
+7)
+ 
+Any and all 
+pre
+-
+proposal questions
+ 
+and/
+or clarifications shall be submitted to 
+RENEE MATAUTIA
+ 
+by email 
+at bids
+@aspower.com or by hard copy no later than 
+January 8, 2021
+ 
+a
+t 2:00 pm.
+ 
+8)
+ 
+ASPA shall issue addenda to address questions and/or clarifications as necessary 
+on 
+January 15, 2021
+ 
+or soonest 
+available
+.
+ 
+NOTE TO OFFERORS:
+ 
+This proposal is subject to the attached General Terms and Conditions of 
+
+No. 
+ASPA21.016
+.ESD
+-
+WTR 
+
+HDPE
+ 
+Pipe
+s Upgrade & 
+Replacement Project
+ 
+
+ 
+Phase II Tualauta
+
+ 
+The undersigned offers and agrees
+ 
+to furnish within the time specified, the articles and services at the price stated 
+opposite the respective terms listed on the schedule of the cost proposal.  In consideration of the expense to the 
+American Samoa Power Authority in opening, tabulating, a
+nd evaluating this and other proposals, and other 
+considerations such as the schedule, the undersigned agrees that this proposal shall remain firm and irrevocable 
+within 
+Sixty (60
+)
+ 
+calendar days from the closing date to supply any or all of the items for w
+hich prices are quoted.
+ 
+ 
+Signed:_______________________                          Date:________________
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+4
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+American Samoa Power Authority
+ 
+SPECIAL REMINDER TO PROSPECTIVE OFFERORS
+ 
+ 
+OFFERORS are reminded to read the Proposal Invitation Instructions and 
+General Terms and Conditions attached to the 
+RFP and to verify that each submittal requirement (see boxes to be checked below) of the RFP is enclosed in the submittal 
+envelope prior to the date and time of proposal opening.
+ 
+ 
+[X]
+ 
+ 
+1.
+ 
+PROPOSAL FORMS
+ 
+a.
+ 
+Propo
+sal Invitation Form (Page 4)
+ 
+b.
+ 
+Proposal Transmittal Form (Attachment A)
+ 
+c.
+ 
+OFFERORS Qualification Sheet (Attachment C)
+ 
+d.
+ 
+Disclosure Statement (Attachment D)
+ 
+e.
+ 
+Non
+-
+Collusion Statement (Attachment E)
+ 
+f.
+ 
+Bid Bond Security Instructions (Attachment F)
+ 
+ 
+[X]
+ 
+ 
+2.
+ 
+BOND FORMS
+ 
+ 
+ 
+ 
+a.
+ 
+Bid Bond Security Instructions (Attachment F)
+ 
+ 
+ 
+ 
+b.
+ 
+
+ 
+i.
+ 
+All Bid Bonds must be in the form included in the contract Documents.  The Bid Bond and all 
+other surety
+ 
+bonds required by ASPA, to be valid, must be accompanied by:
+ 
+a)
+ 
+Current certificate of Authority issued by the insurance commissioner of the State where 
+the surety has its primary place of business together with evidence acceptable to ASPA 
+that applicable bo
+nds will be valid in American Samoa.
+ 
+b)
+ 
+Power of Attorney issued by the Surety to the Resident General Agent.
+ 
+c)
+ 
+Power of Attorney issued by two (2) major officers of the Surety to whoever is signing 
+on their behalf.
+ 
+ 
+NOTICE TO ALL INSURANCE AND BONDING 
+INSTITUTIONS:
+ 
+ 
+All bonds must be accompanied by or include, as applicable, the signatures of the Offeror, two (2) Major Officers of the 
+Surety and the Resident General Agent, if the Surety is a foreign or alien surety.
+ 
+ 
+When the form is submitted to the 
+Am
+erican Samoa Power Authority
+, it should be accompanied with copies of the 
+following:
+ 
+ 
+A.
+ 
+Current Certificate of Authority to do business in American Samoa issued by the Department of Treasury
+-
+Revenue and Taxation.
+ 
+B.
+ 
+Power of Attorney issued by the Surety to the
+ 
+Resident General Agent.
+ 
+C.
+ 
+Power of Attorney issued by two (2) Major Officers of the Surety to whoever is signing on their behalf.
+ 
+ 
+The Bid Bond must be effective no later than the bid opening date.   
+ 
+ 
+[X]
+ 
+ 
+3.
+ 
+BUSINESS LICENSE
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+5
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+Per 
+Section XV
+ 
+of this documen
+t, the Offeror shall submit a current American Samoa business license, or 
+must be able to obtain an American Samoa business license prior to the execution of a contract under this 
+RFP.
+ 
+ 
+[X]
+ 
+ 
+4.
+ 
+TECHNICAL PROPOSAL
+ 
+The Technical Proposal shall follow the Sco
+pe of Work as outlined in Attachment B of this document.
+ 
+ 
+[X]
+ 
+ 
+5.
+ 
+CONTRACT COST PROPOSAL
+ 
+The Offeror shall submit a separately sealed cost proposal for the proposal.
+ 
+ 
+[X]
+ 
+ 
+6.
+ 
+SPECIAL REMINDER FORM
+ 
+This form must be completed and submitted.
+ 
+All required 
+forms must be signed and returned with the proposal envelope.  Failure to comply with these 
+requirements may result in disqualification or rejection of the proposal.
+ 
+ 
+I, 
+ 
+ 
+the duly authorized representative
+ 
+ 
+of 
+ 
+, acknowledge receipt of this special remind
+er 
+
+RFP No. 
+ASPA21.016
+.E
+SD
+-
+
+ 
+Pipe
+s
+ 
+Upgrade & 
+Replacement 
+Project
+ 
+
+ 
+Phase II Tualauta
+
+ 
+as of this date, 
+ 
+ 
+ 
+ 
+ 
+20__
+.
+ 
+ 
+ 
+ 
+
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+6
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+SIGNIFICANT DATES
+ 
+ 
+The following are significant 
+anticipated Scheduling and Contract Dates for this RFP:
+ 
+ 
+December 23, 2020
+ 
+ 
+ 
+ 
+Proposal advertisement
+ 
+December 31, 2020
+ 
+ 
+ 
+ 
+Pre
+-
+proposal meeting (10am at the MM Conference Room)
+ 
+January 8, 2021
+ 
+ 
+Deadline for submitting questions and or clarifications
+ 
+January
+ 
+15, 2021
+ 
+ 
+Issue addenda to address questions and or clarifications as necessary.
+ 
+January 24, 2021
+ 
+ 
+Proposal submittal closing date (2:00 pm American Samoa Time) 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+7
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+AMERICAN SAMOA POWER AUTHORITY
+ 
+ 
+GENERAL TERMS AND CONDITIONS
+ 
+FOR
+ 
+HDPE 
+Pipe
+s Upgrade & 
+Replacement Project
+ 
+
+ 
+Phase II Tualauta
+ 
+ 
+ 
+I.
+ 
+INTRODUCTION
+ 
+
+.  The 2010 and 2013 US
+-
+EPA/AS
+-
+EPA Sanitary 
+Survey of the ASPA Public Water System identified several significant deficiencies in the system with the high Non
+-
+Revenue Water being a major one. The majority of leaks detected on the water mains were found at 
+the ACP joints 
+and HDPE pipes.  
+ 
+The total length of HDPE pipes in the Tualauta area system is more than 80,000 LF. This project will upgrade and 
+replace approximately 
+16
+
+-
+O water lines. All proposed work will 
+occur within the footprint of existing ASPA facilities or existing road right
+-
+of
+-
+way
+.
+ 
+ 
+II.
+ 
+PROJECT BACKGROUND INFORMATION
+ 
+This project will benefit residents in the Village
+s
+ 
+of Pavaiai
+, Iliili, Malaeimi and Tafuna
+ 
+on the Island of Tutuila in 
+the Territory of A
+merican Samoa. The project will focus on the improvements to the ASPA
+-
+ 
+owned water supply, 
+water quality improvement as stipulated by the United States Environmental
+ 
+Protection Agency.
+ 
+ 
+ 
+A.
+ 
+The intent of this RFP is to have an agreement based on the successfu
+l completion of the SOW (Attachment 
+B).
+ 
+III.
+ 
+AUTHORITY
+ 
+A.
+ 
+ASPA was formally established through legislative action by the American Samoa Government (ASG) in 
+1981.
+ 
+B.
+ 
+ASPA generates and distributes electrical power and provides water, wastewater, and solid waste 
+services for 
+the islands of American Samoa:
+ 
+1.
+ 
+ 
+As a separate and semi
+-
+autonomous authority, ASPA was established to afford better accountability for 
+
+ 
+2.
+ 
+ 
+ASPA is governed by a five
+-
+member Board of Directors which are appointed by the Governor of 
+American Samoa and confirmed by the legislature.
+ 
+3.
+ 
+ 
+
+Act (ASCA 
+§ 4.1001 et. seq.) and specific guidelines within the Public Utility Regulatory Policies Act 
+
+ 
+4.
+ 
+ASPA has authority to contract for the procurement of supplies, equipment, materials, personal services, 
+and construction with any pu
+blic or private entity upon terms and conditions it finds necessary to the 
+full and convenient exercise of its purposes and powers (ASCA § 15.0102). 
+ 
+IV.
+ 
+DATE/TIME/PLACE OF PROPOSAL SUBMITTAL
+ 
+A.
+ 
+Each Offeror must submit its proposal in a sealed envelope addressed
+ 
+to:
+ 
+ 
+ 
+
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+8
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+Procurement Manager
+ 
+P.O. Box PPB
+ 
+Pago Pago, AS 96799
+ 
+ 
+B.
+ 
+Five
+ 
+(
+5
+) original hard copies
+ 
+and one (1) PDF copy of the proposal must be received in the Office of 
+Procurement on or before 
+January 24, 2021
+ 
+at 2:00 p.m. American Samoa time
+.
+ 
+ 
+C.
+ 
+Late submittals will not be opened or considered and will be determined as non
+-
+responsive.
+ 
+ 
+D. 
+ 
+All Offerors shall provide sufficient written and verifiable information that responds to the requirements of 
+the RFP and in accordance with the SOW.
+ 
+V.
+ 
+PRE
+-
+P
+ROPOSAL MEETING
+ 
+ 
+A. 
+ 
+A non
+-
+mandatory Pre
+-
+Proposal Meeting will be held on 
+Thursday
+, 
+December 31, 2020
+ 
+at 10:00 AM
+ 
+at 
+Material Management conference room. All Offerors are encourage to attend this meeting.
+ 
+VI.
+ 
+PRE
+-
+PROPOSAL QUESTIONS
+ 
+A.
+ 
+Any pre
+-
+proposal questions and/or clarifications shall be submitted in writing to 
+
+ 
+by email at 
+bids@aspower.com or in hard copy to the address listed above in 
+Section IV
+ 
+of this document.
+ 
+B.
+ 
+Pre
+-
+proposal questions must be received no later than
+ 
+Friday
+, 
+January 8, 2021
+ 
+@ 2pm American Samoa 
+Time. ASPA will then issue addenda to address any questions and/or clarifications as may be
+ 
+necessary.
+ 
+VII.
+ 
+  
+ADDENDA
+ 
+1.
+ 
+ASPA reserves the right to issue addenda for any changes to this RFP.
+ 
+2.
+ 
+OFFERORS will be requested 
+
+be issued.
+ 
+VIII.
+ 
+PROPOSAL PREPARATION INSTRUCTIONS
+ 
+The response to this RFP shall include, but need not be limited to, the information described below.  All information 
+submitted shall pert
+ain to the legal entity, subsidiary, or affiliate which will execute the ultimate construction contract.
+ 
+A.
+ 
+ 
+Contractor Qualifications and Experience:
+ 
+The Offeror
+ 
+shall describe the qualifications of the Contractor and each principal subcontractor, including 
+examples of ongoing or recent construction contracts that are similar in scope, size and complexity to the one 
+described herein.
+ 
+B.
+ 
+Confirmation of Subcontractors
+:
+ 
+The Offeror shall provide letters of intent from each of the nominated sub
+-
+contractors including and a clear 
+description of the services proposed including any limitations. All sub
+-
+contractors shall agree, that upon request 
+by ASPA they will sign any for
+ms, documents or agreements reasonably requested by ASPA relating to the 
+assignment of this RFP or any contracts awarded pursuant to this RFP.
+ 
+C.
+ 
+   
+Work plan and Schedule
+ 
+The Offeror shall provide a brief summary of a construction program and shall nominate 
+any further 
+documentation that is deemed necessary prior to providing final pricing.  
+ 
+D.
+ 
+Price
+ 
+
+ 
+The proposed price breakdown should identify all SOW costs including:
+ 
+ 
+ 
+ 
+1.
+  
+ 
+Professional 
+services;
+ 
+ 
+ 
+ 
+2.
+  
+ 
+All required and applicable materials, labor
+, and equipment for design
+;
+ 
+ 
+3.
+  
+ 
+Incident materials,
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+9
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+ 
+4.
+  
+ 
+Miscellaneous/Incidental items.
+ 
+Offerors shall prepare their proposals in detail accordingly.
+ 
+ASPA reserves the right to reject any pr
+oposal when, in its opinion, the Offeror has insufficient experience, responsibility, 
+skill, financial standing or business standing to perform the proposed service in strict compliance with the specifications, 
+or when the information provided by the Offer
+or is deemed by the SEB (as defined in Section XI below) as insufficient 
+for making a judgment.
+ 
+ASPA also reserves the right to check on references and to request additional information from any Offeror to assist 
+ASPA in its considerations of the proposals
+.
+ 
+IX.
+ 
+CONTRACT AND PAYMENT TERM
+ 
+A.
+ 
+The term for this contract is 
+60
+ 
+calendar days.
+ 
+B.
+ 
+The contract term shall be initiated by the issuance of a Notice to Proceed by ASPA at which time a 
+contract completion date will be established.
+ 
+C.
+ 
+ASPA will retain the sole option t
+o renew or extend the contract after its initial term.
+ 
+D.
+ 
+Successful Offeror shall either (i) agree to have ASPA retain 20% of the Contract amount, which will be 
+retained by ASPA from each monthly invoice/pay application submitted by the contractor for approv
+al of 
+payment, for a period of 30 days after the successful completion of the project or (ii) provide payment and 
+performance bonds in the event that the requirement set forth in (i) hereunder is unable to be satisfied 
+and/or if the financial condition if 
+the Offeror is deemed by the SEB or ASPA as insufficient.
+ 
+X.
+ 
+TYPE OF CONTRACT
+ 
+A.
+ 
+The 
+successful Offeror will provide services to ASPA under a 
+firm fixed
+-
+price, itemized contract 
+agreement.
+  
+ 
+B.
+ 
+The successful Offeror
+ 
+shall be an independent contractor and not an agent or employee of the American 
+Samoa Power Authority.
+ 
+C.
+ 
+The successful Offeror shall furnish the necessary personnel, materials, insurance, licenses, permits, 
+equipment, ground transportation to and from work
+ 
+areas, and otherwise do all things necessary to 
+
+ 
+ 
+ 
+1.
+ 
+
+disease, occupational health and safety laws, statues, and regulations to the full extent applicable.
+ 
+ 
+ 
+2.
+ 
+ASPA will not be held responsible in any way for claims filed by the successful Offeror or its employees 
+for services employed under the terms of thi
+s RFP or the contract.
+ 
+D.
+ 
+Payment will be made in percentages commensurate with 10%, 30%, 60%, 90% draft and Final 
+Submittals for each deliverable.  
+ 
+ 
+DESCRIPTION
+ 
+PERCENTAGE (%)
+ 
+Mobilization
+ 
+10
+ 
+Conceptual Design 
+ 
+30
+ 
+Preliminary Design
+ 
+60
+ 
+Pre
+-
+Final Design 
+& specs
+ 
+90
+ 
+Final Design & specs
+ 
+100
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+10
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+ 
+XI.
+ 
+BASIS FOR SELECTION
+ 
+P
+r
+o
+p
+o
+s
+a
+l
+s
+ 
+wi
+l
+l
+ 
+be
+ 
+e
+v
+a
+l
+u
+a
+t
+e
+d
+ 
+b
+y
+ 
+a
+ 
+S
+o
+u
+r
+c
+e
+ 
+E
+v
+a
+l
+u
+a
+ti
+on
+ 
+B
+o
+ar
+d
+ 
+(
+
+S
+E
+B
+
+)
+. 
+S
+EB
+ 
+m
+e
+m
+b
+e
+r
+s
+ 
+s
+h
+a
+l
+l
+ 
+b
+e
+ 
+appointed 
+b
+y
+ 
+t
+he
+ 
+P
+r
+o
+c
+u
+r
+e
+m
+e
+nt
+ 
+M
+a
+n
+a
+g
+e
+r approved by the Executive Director
+. 
+ 
+S
+ub
+m
+i
+ss
+i
+on
+ 
+o
+f
+ 
+a
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+ 
+s
+h
+a
+l
+l
+ 
+c
+o
+n
+s
+t
+i
+t
+u
+t
+e a
+ 
+w
+a
+i
+v
+e
+r
+ 
+o
+f
+ 
+a
+ny
+ 
+c
+h
+a
+ll
+e
+nge
+ 
+o
+r
+ 
+d
+i
+spu
+t
+e
+ 
+o
+f
+ 
+t
+he 
+S
+EB
+ 
+m
+e
+m
+b
+e
+r
+s,
+ 
+a
+s
+ 
+w
+e
+l
+l
+ 
+a
+s
+ 
+t
+he 
+c
+ho
+i
+c
+e
+ 
+o
+f
+ 
+m
+e
+t
+hodo
+l
+ogy
+ 
+s
+e
+t
+ 
+f
+o
+r
+t
+h on
+ 
+t
+he 
+S
+EB
+ 
+s
+c
+o
+r
+e sh
+e
+e
+t
+s. 
+ 
+T
+h
+e 
+a
+w
+ar
+d
+ 
+w
+il
+l
+ 
+be
+ 
+m
+a
+de 
+b
+y
+ 
+A
+SP
+A
+ 
+i
+n
+ 
+a
+cc
+o
+r
+d
+a
+n
+c
+e
+ 
+w
+i
+t
+h
+ 
+t
+he
+ 
+e
+v
+a
+l
+u
+a
+ti
+on
+ 
+c
+r
+i
+t
+e
+r
+i
+a
+ 
+s
+e
+t 
+f
+o
+r
+t
+h
+ 
+h
+e
+r
+e
+i
+n
+ 
+a
+nd
+ 
+w
+i
+t
+h
+ 
+A
+SP
+A
+
+s
+ 
+P
+r
+o
+c
+u
+r
+e
+m
+e
+nt
+ 
+R
+u
+l
+e
+s.
+ 
+A
+ 
+d
+e
+t
+e
+r
+m
+i
+n
+a
+ti
+on
+ 
+s
+h
+a
+l
+l
+ 
+b
+e 
+m
+a
+de by
+ 
+t
+he 
+S
+EB
+ 
+o
+f
+ 
+t
+ho
+s
+e 
+r
+e
+s
+po
+n
+s
+i
+b
+l
+e O
+f
+f
+e
+r
+o
+r
+s
+ 
+wh
+o
+s
+e p
+r
+o
+p
+o
+s
+a
+l
+s
+ 
+a
+r
+e susc
+e
+p
+t
+i
+b
+l
+e 
+o
+f
+ 
+b
+e
+i
+ng
+ 
+s
+e
+l
+ec
+t
+e
+d
+ 
+f
+o
+r
+ 
+a
+w
+ar
+d
+. 
+T
+he d
+e
+t
+e
+r
+m
+i
+n
+a
+t
+i
+on
+ 
+s
+h
+a
+l
+l
+ 
+be 
+i
+n
+c
+l
+u
+d
+e
+d
+ 
+i
+n
+ 
+t
+he 
+c
+o
+n
+t
+ra
+c
+t
+ 
+f
+i
+l
+e
+. 
+ 
+D
+i
+s
+c
+uss
+i
+o
+n
+s
+ 
+m
+a
+y
+ 
+b
+e 
+c
+on
+d
+u
+c
+t
+e
+d
+ 
+b
+y
+ 
+t
+he
+ 
+S
+EB
+ 
+w
+i
+t
+h
+ 
+t
+h
+o
+s
+e 
+r
+e
+s
+p
+o
+n
+s
+i
+b
+l
+e O
+ff
+e
+r
+o
+r
+s
+ 
+w
+ho
+s
+e p
+r
+o
+p
+o
+s
+a
+l
+s
+ 
+ar
+e d
+e
+t
+e
+r
+m
+i
+n
+e
+d
+ 
+t
+o
+ 
+b
+e 
+r
+e
+s
+p
+o
+n
+s
+i
+v
+e 
+a
+n
+d
+ 
+r
+e
+s
+p
+o
+n
+s
+i
+b
+l
+e 
+t
+o
+ 
+t
+he
+ 
+RF
+P
+. 
+T
+h
+e
+s
+e 
+d
+i
+s
+c
+uss
+i
+o
+n
+s
+ 
+s
+h
+a
+l
+l
+ 
+o
+n
+l
+y
+ 
+be
+ 
+c
+on
+d
+u
+c
+t
+e
+d
+ 
+f
+o
+r
+ 
+t
+h
+e pu
+r
+p
+o
+s
+e 
+o
+f
+ 
+o
+b
+t
+a
+i
+n
+i
+ng 
+c
+l
+ar
+i
+f
+i
+c
+a
+t
+i
+on
+ 
+f
+r
+om
+ 
+t
+he
+ 
+O
+ff
+e
+r
+o
+r
+ 
+on
+ 
+i
+t
+s
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+ 
+t
+o
+ 
+e
+n
+su
+r
+e
+ 
+f
+u
+l
+l
+ 
+u
+nd
+e
+r
+s
+t
+a
+n
+d
+i
+ng
+ 
+o
+f
+ 
+a
+nd
+ 
+r
+e
+s
+p
+o
+n
+s
+i
+v
+e
+n
+e
+ss
+ 
+t
+o
+ 
+t
+he
+ 
+RF
+P 
+r
+e
+q
+u
+i
+r
+e
+m
+e
+n
+t
+s. D
+i
+s
+c
+uss
+i
+o
+n
+s
+ 
+s
+h
+a
+l
+l
+ 
+be
+ 
+c
+on
+d
+u
+c
+t
+e
+d
+ 
+i
+nd
+i
+v
+i
+d
+u
+a
+l
+l
+y
+ 
+w
+i
+t
+h
+ 
+e
+a
+c
+h
+ 
+o
+f
+f
+e
+r
+o
+r
+ 
+a
+n
+d
+ 
+c
+ar
+e
+ 
+s
+h
+a
+l
+l
+ 
+be
+ 
+e
+x
+e
+rc
+i
+s
+e
+d
+ 
+t
+o 
+e
+n
+su
+r
+e
+ 
+t
+h
+a
+t
+ 
+no
+ 
+i
+n
+f
+o
+r
+m
+a
+ti
+on
+ 
+d
+e
+r
+i
+v
+e
+d
+ 
+f
+r
+om
+ 
+c
+o
+m
+p
+e
+t
+i
+ng
+ 
+o
+f
+f
+e
+r
+o
+r
+
+s
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+s
+ 
+i
+s
+ 
+d
+i
+s
+c
+l
+o
+s
+e
+d
+. A
+l
+l
+ 
+O
+ff
+e
+r
+o
+r
+s
+ 
+w
+i
+t
+h whom
+ 
+d
+i
+s
+c
+us
+s
+i
+on
+s
+ 
+ar
+e 
+c
+on
+d
+u
+c
+t
+e
+d
+ 
+s
+h
+a
+l
+l
+ 
+b
+e 
+a
+c
+c
+o
+r
+d
+e
+d
+ 
+a
+n
+ 
+o
+p
+p
+o
+r
+t
+u
+ni
+t
+y
+ 
+t
+o
+ 
+r
+e
+v
+i
+s
+e 
+t
+h
+e
+i
+r
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+s
+ 
+i
+n
+ 
+r
+e
+s
+p
+o
+n
+s
+e 
+t
+o sp
+e
+c
+i
+f
+i
+c
+ 
+c
+l
+ar
+i
+f
+i
+c
+a
+ti
+o
+n
+s
+ 
+b
+a
+s
+e
+d
+ 
+on
+ 
+t
+he
+ 
+d
+i
+s
+c
+uss
+i
+o
+n
+s. 
+U
+n
+l
+e
+ss
+ 
+t
+he
+ 
+M
+a
+t
+e
+r
+i
+a
+l
+s
+/
+P
+r
+o
+c
+u
+r
+e
+m
+e
+nt
+ 
+M
+a
+n
+a
+g
+e
+r
+ 
+d
+e
+t
+e
+r
+m
+i
+n
+e
+s 
+t
+h
+a
+t
+ 
+s
+a
+t
+i
+s
+f
+a
+c
+t
+o
+r
+y
+ 
+e
+v
+i
+d
+e
+n
+c
+e
+ 
+e
+x
+i
+s
+t
+s
+ 
+t
+h
+a
+t
+ 
+a
+ 
+
+m
+i
+s
+t
+a
+k
+e
+
+ 
+h
+a
+s
+ 
+b
+ee
+n
+ 
+m
+a
+d
+e
+,
+ 
+a
+s
+ 
+s
+e
+t
+ 
+f
+o
+r
+t
+h
+ 
+i
+n
+ 
+P
+r
+o
+c
+u
+r
+e
+m
+e
+nt
+ 
+R
+u
+l
+e
+s
+ 
+§3
+-
+114, O
+f
+f
+e
+r
+o
+r
+s
+ 
+w
+i
+l
+l
+ 
+n
+o
+t
+ 
+b
+e
+ 
+p
+e
+r
+m
+i
+t
+t
+e
+d
+ 
+t
+o
+ 
+r
+e
+v
+i
+s
+e
+ 
+t
+h
+e
+i
+r
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+s
+ 
+a
+f
+t
+e
+r
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+ 
+o
+p
+e
+n
+i
+n
+g
+.
+ 
+T
+h
+e 
+r
+e
+s
+u
+l
+t
+s
+ 
+o
+f
+ 
+t
+he
+ 
+e
+v
+a
+l
+u
+a
+t
+i
+on
+ 
+w
+i
+l
+l
+ 
+b
+e d
+o
+c
+u
+m
+e
+n
+t
+e
+d
+,
+ 
+a
+n
+d
+ 
+w
+r
+i
+t
+t
+e
+n
+ 
+r
+e
+c
+o
+m
+m
+e
+n
+d
+a
+ti
+on
+ 
+by
+ 
+t
+he 
+S
+EB
+ 
+wi
+l
+l
+ 
+be 
+s
+e
+n
+t
+ 
+t
+o 
+t
+he
+ 
+M
+a
+t
+e
+r
+i
+a
+l
+s
+/P
+r
+o
+c
+u
+r
+e
+m
+e
+n
+t
+ 
+M
+a
+n
+a
+g
+e
+r
+. 
+R
+e
+c
+o
+mm
+e
+nd
+a
+ti
+on
+ 
+f
+o
+r
+ 
+a
+w
+ar
+d
+ 
+i
+s
+ 
+s
+e
+n
+t
+ 
+t
+o
+ 
+t
+he
+ 
+E
+x
+e
+c
+u
+t
+i
+ve
+ 
+D
+i
+r
+e
+c
+t
+o
+r
+ 
+f
+o
+r 
+a
+p
+p
+r
+ov
+a
+l
+.
+ 
+A
+SP
+A
+ 
+r
+e
+s
+e
+r
+v
+e
+s
+ 
+t
+he
+ 
+r
+i
+g
+h
+t
+ 
+t
+o
+ 
+m
+a
+ke
+ 
+t
+he
+ 
+a
+w
+ar
+d
+ 
+t
+o
+ 
+t
+he
+ 
+O
+ff
+e
+r
+o
+r
+ 
+t
+h
+a
+t
+ 
+sub
+m
+i
+t
+s
+ 
+t
+h
+e
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+,
+ 
+wh
+i
+c
+h
+ 
+m
+e
+e
+t
+s
+ 
+t
+he 
+r
+e
+q
+u
+i
+r
+e
+m
+e
+n
+t
+s
+ 
+s
+e
+t
+ 
+f
+o
+r
+t
+h
+ 
+h
+e
+r
+e
+i
+n
+ 
+a
+nd
+ 
+i
+s
+ 
+i
+n
+ 
+t
+he
+ 
+b
+e
+st
+ 
+i
+n
+t
+e
+r
+e
+s
+t
+s
+ 
+o
+f
+ 
+A
+SP
+A
+ 
+a
+f
+t
+e
+r
+ 
+t
+a
+k
+i
+ng
+ 
+i
+n
+t
+o
+ 
+c
+o
+n
+s
+i
+d
+e
+ra
+t
+i
+on
+ 
+t
+he 
+af
+o
+r
+e
+m
+e
+n
+ti
+on
+e
+d
+ 
+f
+a
+c
+t
+o
+r
+s. 
+A
+SP
+A
+ 
+a
+l
+so
+ 
+r
+e
+s
+e
+r
+v
+e
+s
+ 
+t
+he
+ 
+r
+i
+g
+h
+t
+ 
+t
+o
+ 
+s
+e
+l
+ec
+t
+ 
+p
+o
+r
+t
+i
+o
+n
+s
+ 
+o
+f
+ 
+a
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+,
+ 
+o
+r
+ 
+t
+o
+ 
+r
+e
+j
+e
+c
+t
+ 
+a
+n
+y
+ 
+a
+nd 
+a
+l
+l
+ 
+p
+r
+o
+p
+o
+s
+a
+l
+s.
+ 
+XII.
+ 
+    
+EVALUATION CRITERIA
+ 
+A. The proposal must contain responses to Proposal Requirements.  Points indicated are the number 
+that can be 
+achieved for each respective component:
+ 
+ 
+1.  Firm experience and qualifications
+ 
+ 
+ 
+0 
+-
+ 
+35
+ 
+points 
+ 
+ 
+2.  Work plan/Schedule
+ 
+ 
+ 
+ 
+ 
+0 
+-
+ 
+25
+ 
+points
+ 
+4.  Price
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 
+-
+ 
+40 points
+ 
+ 
+ 
+ 
+ 
+            
+Total points
+: 
+ 
+100 points
+ 
+ 
+Individual SEB member 
+evaluations will remain confidential.
+ 
+B. ASPA reserves the right to make the contract award to the Offeror that submits the proposal which best meets the 
+requirements set forth herein and which is in the best interest of ASPA after taking into consideratio
+n the 
+
+required; accordingly, Offerors may provide pricing under which such bonds are and are not required.
+ 
+XIII.
+ 
+ATTACHMENTS
+ 
+A.
+ 
+Attachment A is the Propo
+sal Transmittal Form
+ 
+B.
+ 
+Attachment B is the Scope of Work
+ 
+C.
+ 
+
+ 
+D.
+ 
+Attachment D is the Disclosure Statements
+ 
+E.
+ 
+Attachment E is the Non
+-
+Collusion Affidavit of Prime Offeror
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+11
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+F.
+ 
+Attachment F is the Bid Bond Security Instructio
+ns
+ 
+G.
+ 
+Attachment G is the Bid Bond Security Form
+ 
+H.
+ 
+Performance and Payment Bond Requirements
+ 
+I.
+ 
+Bid Form
+ 
+J.
+ 
+Technical Specifications
+ 
+K.
+ 
+Drawings
+ 
+XIV.
+ 
+QUALIFICATION OF OFFERORS
+ 
+A.
+ 
+
+(
+Attachment C) and section XXIV.
+ 
+B.
+ 
+ASPA may make such investigations as it deems necessary to determine the ability of the Offeror to 
+perform the work.
+ 
+C.
+ 
+The Offeror shall furnish to ASPA such additional information and data for this purpose as ASPA may 
+request
+, or the proposal may be deemed non
+-
+responsive.
+ 
+XV.
+ 
+   
+MULTIPLE PROPOSALS
+
+COLLUSION
+ 
+A.
+ 
+If more than one Proposal is submitted by any one party or in the name of its clerk, partner, or other 
+person, all Proposals submitted by said party may be rejected by ASPA.
+ 
+B.
+ 
+If requested by ASPA to do so, an Offeror may submit an alternate Proposal.
+ 
+C.
+ 
+If ASPA believes that collusions exists amongst any Offerors, the participants in such collusion will be 
+disqualified from contract award consideration.
+ 
+D.
+ 
+Proposals in which the prop
+osed costs and fees are unreasonably high or unrealistically low may be 
+
+ 
+XVI.
+ 
+BUSINESS LICENSE
+ 
+A.
+ 
+An Offeror from elsewhere other than American Samoa shall be appropriately licensed in accordance with 
+the state and/or country of 
+
+type and size of work called for under this RFP.
+ 
+B.
+ 
+The successful Offeror shall possess a currently valid American Samoa Business License prior to the 
+execution of this contract.
+ 
+XVII.
+ 
+CONTRACT DOCUMENTS
+ 
+A.
+ 
+The Contract Documents which govern all work set forth by this RFP consist of the following:
+ 
+ 
+ 
+ 
+1.
+ 
+This RFP;
+ 
+ 
+ 
+ 
+2.
+ 
+All addenda to this RFP;
+ 
+ 
+ 
+ 
+3.
+ 
+Any submissions pursuant to any issued addenda;
+ 
+ 
+ 
+ 
+4.
+ 
+Any clarifications as may result from
+ 
+Proposal evaluations;
+ 
+5.
+ 
+The Contract (or the Agreement) and any assignment of the same.
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+12
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+XVIII.
+ 
+
+ 
+A.
+ 
+Each Offeror must inform itself of the conditions relating to the execution of the work.
+ 
+B.
+ 
+The Offeror
+ 
+will make itself thoroughly familiar with all the Contract Documents prior to execution of the 
+Agreement.
+ 
+C.
+ 
+The Offeror agrees to execute all necessary documents, forms, and agreements reasonably requested by 
+ASPA relating to the assignment of the RFP or an
+y contracts awarded pursuant to this RFP.  
+ 
+D.
+ 
+Each Offeror shall inform itself of, and the Offeror awarded the Contract shall comply with, federal and 
+territorial statues and ordinances relative to the execution of the work, including but not limited to, 
+app
+licable regulations which concern the following:
+ 
+ 
+ 
+ 
+1.
+ 
+ 
+Wage rates;
+ 
+ 
+ 
+ 
+2.
+ 
+ 
+Non
+-
+discrimination in the employment of labor;
+ 
+ 
+ 
+ 
+3.
+ 
+ 
+Protection of public and employee safety and health;
+ 
+ 
+ 
+ 
+4.
+ 
+ 
+Environmental protection;
+ 
+ 
+ 
+ 
+5.
+ 
+ 
+Historic preservation;
+ 
+ 
+ 
+ 
+6.
+ 
+ 
+Protection of natural resources;
+ 
+ 
+ 
+ 
+7.
+ 
+ 
+Fire protection;
+ 
+ 
+ 
+ 
+8.
+ 
+ 
+Burning and non
+-
+burning requirements;
+ 
+ 
+ 
+ 
+9.
+ 
+ 
+Permits and fees;
+ 
+10.
+ 
+Similar subjects.
+ 
+E.
+ 
+The Offeror agrees to a proposal by the requirements under Executive Order No. 11246, as amended, 
+including spe
+cifically the provisions of the equal opportunity clause.
+ 
+ 
+XIX.
+ 
+
+ 
+SURPLUS AREA FIRMS.
+ 
+ 
+
+prises, and labor 
+surplus area firms are used when possible. Affirmative steps include: 
+ 
+A.
+ 
+
+ 
+B.
+ 
+
+ess enterprises are solicited whenever 
+they are potential sources;
+ 
+C.
+ 
+Dividing total requirements, when economically feasible, into smaller tasks or quantities to permit 
+
+ 
+D.
+ 
+Establishing delivery schedules, where the requirement permits, which encourage participation by small 
+
+ 
+E.
+ 
+Using the services and assistance of the Small Business Administration, and the Minority Bu
+siness 
+Development Agency of the Department of Commerce.
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+13
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+XX.
+ 
+COMPLIANCE WITH FEDERAL REGULATIONS
+ 
+ 
+All bidders must agree to comply with applicable federal laws and regulations, including, but not limited to (i
+) Executive 
+
+of October 13, 1967, and as supplemented in Department of Labor Regulations (41 CFR chapter 60); (ii) the Copeland 
+
+-
+
+ct (18 U.S.C. 874) as supplemented in Department of Labor regulations (29 CFR part 3); (iii) the 
+Davis
+-
+Bacon Act (40 U.S.C. 276a to 276a
+-
+7) as supplemented by Department of Labor regulations (29 CFR part 5); (iv) 
+Sections 103 and 107 of the Contract Work H
+ours and Safety Standards Act (40 U.S.C. 327
+-
+330) as supplemented by 
+Department of Labor regulations (29 CFR part 5); and (v) applicable standards, orders, or requirements issued under 
+section 306 of the Clean Air Act (42 U.S. C. 1857(h)), section 508 of t
+he Clean Water Act (33 U.S.C. 1368), Executive 
+Order 11738, and Environmental Protection Agency Regulations (40 CFR part 15). 
+ 
+XXI.
+ 
+WITHDRAWAL OF PROPOSAL
+ 
+A.
+ 
+Any proposal may be withdrawn prior to the scheduled time for the opening of Proposals by notifying 
+ASPA i
+n a written request.
+ 
+B.
+ 
+No Proposal may be withdrawn after the time scheduled for opening of Proposals.
+ 
+XXII.
+ 
+OPENING AND EVALUATION OF PROPOSALS
+ 
+A.
+ 
+In accordance with Procurement Rule § 3
+-
+110, Proposals will be opened and recorded as part of the RFP 
+record on the dat
+e and at the time indicated in 
+Section IV, Part B
+ 
+of this document.
+ 
+B.
+ 
+All Proposals will be opened at the ASPA Procurement Conference Room in Tafuna, American Samoa or 
+in another location as designated by the ASPA Procurement Manager in Writing.
+ 
+XXIII.
+ 
+EXECUTION OF
+ 
+CONTRACT
+ 
+
+with any other documents as may be required by ASPA.
+ 
+XXIV.
+ 
+RFP CONDITIONS
+ 
+A.
+ 
+This RFP does not commit ASPA to award a contract or to pay any
+ 
+cost incurred in the preparation of this 
+proposal.
+ 
+B.
+ 
+The American Samoa Power Authority reserves the right to do the following:
+ 
+1.
+ 
+Reject any Offeror for being non
+-
+responsive to the Proposal requirements which are contained in 
+this RFP;
+ 
+2.
+ 
+Reject all proposals an
+d reissue an amended RFP;
+ 
+3.
+ 
+Request additional information from any Offeror submitting a proposal;
+ 
+4.
+ 
+
+work in a timely fashion or substantive and relevant work ex
+perience);
+ 
+5.
+ 
+Negotiate a contract with the Offeror selected for award;
+ 
+6.
+ 
+Freely assign its rights under the RPF or award contract to any affiliate; and
+ 
+7.
+ 
+Waive any non
+-
+material violations of rules in this RFP.
+ 
+C.
+ 
+ASPA reserves the right to issue any addendum to thi
+s RFP, after which the following steps will be 
+followed:
+ 
+1.
+ 
+OFFERORS shall send ASPA a signed Receipt of Addenda from confirming the receipt of any 
+Addendum;
+ 
+2.
+ 
+OFFERORS shall submit any additional information as is required by any Addendum;
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+14
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+3.
+ 
+If any Offeror
+ 
+
+
+ 
+4.
+ 
+
+ 
+Supplementary 
+Proposal may be submitted in order to revise the original Proposal;
+ 
+5.
+ 
+Supplementary Proposals must be received by ASPA prior to the scheduled time for the opening of 
+Proposals.
+ 
+XXV.
+ 
+
+ 
+A.
+ 
+It is the intention of ASPA to award 
+the contract only to an Offeror who is able to furnish satisfactory 
+evidence that the Offeror has the requisite experience and ability, including sufficient capital, facilities, 
+and employees, which are necessary to prosecute the work successfully and prom
+ptly and to complete it 
+within the term set forth in the contract.
+ 
+1.
+ 
+Please provide past project experience on similar projects to the 
+RFP HDPE 
+Pipe Upgrade &
+ 
+ 
+Replacement Project Phase 
+I
+I 
+
+ 
+Tualauta 
+laid out in this RFP.
+ 
+2.
+ 
+ 
+Please list experience in Ame
+rican Samoa and/or in similar remote locations with limited infrastructure.
+ 
+3.
+ 
+ 
+Please list any sources/suppliers/manufacturers of materials and prefab elements.
+ 
+4.
+ 
+ 
+Please provide recommendations that might help improve the project overall in terms of mai
+ntenance 
+and operations.
+ 
+B.
+ 
+
+total proposal package.
+ 
+ 
+RFP NO. 
+ASPA21.
+016.ESD
+-
+WTR
+ 
+Page 
+15
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project 
+
+ 
+Phase II Tualauta Design
+ 
+
+-
+ 
+PROPOSAL TRANSMITTAL FORM
+ 
+ 
+ 
+ 
+Date: 
+ 
+_______________
+ 
+ 
+AMERICAN SAMOA P
+OWER AUTHORITY
+ 
+ 
+American Samoa Government
+ 
+ 
+ 
+To Whom It Concerns:
+ 
+ 
+The undersigned (hereafter referred to as the Offeror) hereby proposes and agrees to furnish all of the requested 
+submittal and proposal information pertaining to
+ 
+ 
+ 
+RFP NO. 
+ASPA21.016
+.
+ESD
+-
+WTR
+ 
+HDPE Pipe Upgrade & 
+Replacement Project
+ 
+Phase II 
+-
+ 
+Tualauta
+ 
+ 
+In accordance with the Scope of Work (Attachment B), General Terms and Conditions, and other procurement 
+requirements specified in this document for the prices stated in the itemized 
+proposal form(s) attached hereto, plus any 
+and all sums to be added and/or deducted resulting from all extra and/or omitted work in accordance with the unit 
+and/or lump sum prices stated in the itemized proposal form attached hereto.
+ 
+The undersigned has re
+ad and understands the proposal requirements, and is familiar with and knowledgeable of the 
+local conditions at location(s) where the work is to be performed. The Offeror has read the Request for Proposal 
+Instructions and General Terms and Conditions attac
+hed to ascertain that all of the requirements (see check boxes) of 
+the cost proposal are submitted in the proposal envelope, with five copies, at the date and time for proposal opening.  
+
+SPECIAL REMINDERS TO
+ 
+PROSPECTIVE OF
+
+ 
+to verify that all four 
+submittal requirement boxes have been checked.)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signed
+ 
+Seal
+ 
+ 
+ 
+ 
+ 
+ 
+Date
+ 
+ 
+RFP NO. 
+ASPA21.
+016.ESD
+-
+WTR
+ 
+Page 
+16
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project 
+
+ 
+Phase II Tualauta Design
+ 
+
+-
+ 
+SCOPE OF WORK 
+ 
+ 
+HDPE Pipe Upgrade & 
+Replacement Project
+ 
+Phase II 
+-
+ 
+Tualauta
+ 
+ 
+I.
+ 
+Scope
+ 
+In accordance with the terms and conditions of the Contract, the 
+A&E 
+Design Contractor
+ 
+(
+DC
+) shall perform the 
+work of this Request for Proposal (RFP) for the American Samoa Power Authority its successors or assigns as 
+described below.
+ 
+This work shall be de
+signed by a single 
+DC
+. The 
+DC
+ 
+may be a single firm or a team of firms that includes 
+registered Architects and Engineers either employed by or subcontracted to the 
+DC
+. Licensing jurisdiction of 
+Architects and Engineers of record shall be verifiable. The 
+DC
+ 
+shall be the Architect/Engineer
+-
+of
+-
+Record, 
+whether the 
+DC
+ 
+utilizes services of licensed architects and engineers employed by its firm or subcontracts with 
+independent architectural and/or engineering firm(s). The 
+DC
+ 
+shall be solely liable for design errors
+ 
+and/or 
+omissions and should be insured as the A
+-
+E firm against design errors and omissions.
+ 
+All Architect
+-
+Engineer (A
+-
+E) Services required in this RFP shall be performed by licensed Architects and 
+Engineers registered in any state of the United States of America. 
+ 
+The work of this RFP shall be performed in accordance with the most recent edition 
+of the AWWA Standards, 
+the 10 States Standards for Water Projects, and the American Samoa Power Authority Water Specifications. 
+ 
+ 
+II.
+ 
+Location
+ 
+
+, Vaitogi
+ 
+and 
+Taf
+una
+ 
+area
+s
+. 
+ 
+III.
+ 
+Background
+ 
+This project will serve and benefit all residents 
+
+-
+EPA/AS
+-
+EPA 
+Sanitary Survey of the ASPA Public Water System identified several significant deficiencies in the system with 
+the high Non
+-
+Revenue Water being a major one. The majority of leaks detected on the water mai
+ns were found 
+at the ACP joints and HDPE pipes.  
+ 
+The total length of HDPE pipes in the Tualauta area system is more than 80,000 LF. This project will upgrade 
+and replace approximately 
+16
+
+-
+O water lines. All pr
+oposed 
+work will occur within the footprint of existing ASPA facilities or existing road right
+-
+of
+-
+way
+ 
+This project will serve and benefit all residents of Pavaiai
+, Iliili, Malaeimi
+, Vaitogi
+ 
+and Tafuna and
+ 
+surrounding 
+villages that are within this District 
+Metered Area (DMA). The 2010 and 2013 US
+-
+EPA/AS
+-
+EPA Sanitary 
+Survey of the ASPA Public Water System identified several significant deficiencies in the system with the major 
+one being the high Non
+-
+Revenue Water in the system. The majority of leaks detected 
+on the water mains are 
+found at the
+ 
+AC pipe joints and HDPE pipes.
+ 
+ 
+IV.
+ 
+Schedule
+ 
+The work in this 
+ 
+Design (D) RFP shall be completed in accordance with the following schedule:
+ 
+A.
+ 
+Preliminary Design Documents:
+ 
+Design Development Documents submitted no later than 
+3
+0
+ 
+calendar days after project Notice To Proceed 
+(NTP).
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+17
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+ASPA Review completed no later than 
+15
+ 
+cal
+endar days after submission of
+ 
+Preliminary Design Documents.
+ 
+B.
+ 
+Complete Stamped and Signed D
+esign
+ 
+Documents:
+ 
+Complete Stamped and Signed D
+esign
+ 
+Documents and written responses to the ASPA 100% D
+esign
+ 
+Document 
+review comments submitted no later than 
+15
+ 
+calendar days after receipt of ASPA 100% D
+esign
+ 
+Document review 
+comments.
+ 
+All 
+Design Development 
+Drawings shall be submitted to the ASPA Project Ma
+nager and assigned upon request 
+of ASPA.
+ 
+V.
+ 
+Data and materials to be provided by the ASPA
+ 
+The following data and materials will be provided to the DC and are included in Section 5 of this RFP:
+ 
+
+ 
+Project Program
+ 
+
+ 
+Existing Drawings if available
+ 
+
+ 
+ASPA Water 
+Specifications
+ 
+
+ 
+Other available data and materials as requested by Contractor if available
+ 
+ 
+VI.
+ 
+Project Requirements
+ 
+The project will include, but not be limited to, the following:  
+  
+ 
+
+ 
+The D Contractor shall furnish or ar
+range for the architectural and
+ 
+engineering services set forth herein 
+and required for completion of the Project.
+ 
+
+ 
+The D Contractor shall be responsible for the quality, completeness, accuracy, and coordination of 
+Design Documents.
+ 
+
+ 
+The D Contractor shall provide Design Services that meet
+ 
+all environmental and regulatory 
+requirements.
+ 
+
+ 
+The D Contractor shall provide ASPA with a preliminary overall Project schedule
+ 
+covering the planning 
+and design 
+of the Project.
+ 
+
+ 
+The D Contractor shall participate in, and cooperate with, design
+-
+phase and pos
+t
+-
+operation 
+commissioning, validation, and other third party quality assurance and quality control processes that 
+ASPA implements, if any.
+ 
+
+ 
+The D Contractor shall provide technical specifications for all items to be constructed under this scope 
+that are not
+ 
+already covered under the ASPA Water Specifications for approval by ASPA. 
+Specifications shall be prepared according to the most recent Construction Standards Institute (CSI) 
+format.
+ 
+
+ 
+
+e prepared for all facilities 
+proposed to be built under this scope. RS Means Estimating Manuals and Guidelines or equal industry 
+standards shall be utilized.
+ 
+
+ 
+The D Contractor shall provide ASPA a project schedule to include all task under this scope and t
+o be 
+presented in Gantt Chart format.
+ 
+
+ 
+All work provided in this scope shall be first approved by ASPA.
+ 
+
+ 
+All designs, drawings, specifications, notes, and other works developed in the performance of this 
+contract shall become the sole property of ASPA and it
+s successors or assigns and may be used on any 
+other design without additional compensation to the Contractor.
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+18
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+Permits:
+ 
+The D Contractor shall be responsible for obtaining all necessary permits and other governmental 
+approvals necessary for the development
+ 
+of the Project and shall obtain the same at the times necessary to meet 
+the Project Schedule. ASPA can assist with this process if required. 
+ 
+Archaeological Monitoring:
+ 
+The Contractor and ASPA will coordinate with ASHPO to insure that compliance 
+with appl
+icable laws are adhered to.
+ 
+VII.
+ 
+Deliverables
+ 
+The following deliverables are required (refer to Section IV for schedule):
+ 
+Design Development
+ 
+Draft
+ 
+Preliminary Design Documents:
+ 
+ 
+
+ 
+Documents for ASPA Review:
+ 
+ 
+
+ 
+Submit  
+  
+3  
+ 
+paper copies of the 
+Preliminary Design 
+Documents for review 
+ 
+ 
+
+ 
+Sub
+mit one electronic copy of the
+ 
+Preliminary Design Drawings 
+ 
+ 
+ 
+Complete Stamped and Signed D
+esign
+ 
+Documents
+ 
+ 
+Address and incorporate 100% Draft D
+esign
+ 
+Documents comments into the Complete Stamped and 
+Signed D
+esign
+ 
+Documents and sub
+mit, for approval, per the following table, the record set of Complete 
+Stamped and Signed D
+esign
+ 
+Document
+s
+, ASPA archiving and general use.
+ 
+ 
+COMPLETE STAMPED AND SIGNED DB 
+CONSTRUCTION DOCUMENTS
+ 
+ELECTRONIC 
+FORMATS *
+ 
+HARDCOPY 
+FORMATs
+ 
+D
+esign
+-
+Construction 
+Drawings
+ 
+AutoCAD & PDF
+ 
+Full
+-
+Size Paper 
+(ANSI D)
+ 
+Construction Specifications
+ 
+PDF & MS
+-
+Word
+ 
+N/A
+ 
+Product File
+ 
+PDF & MS
+-
+Word
+ 
+N/A
+ 
+Design Calculations
+ 
+PDF & MS
+-
+Excel
+ 
+N/A
+ 
+Written responses to the 100% Draft D
+esign
+ 
+Construction 
+Documents review comments
+ 
+PDF & 
+MS
+-
+Excel
+ 
+N/A
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* The recipient of the electronic files is ASPA
+-
+ESD Engineering.
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+19
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+
+-
+ 
+OFFEROR QUALIFICATION FORM
+ 
+ 
+1.
+ 
+N
+ame of Organization
+:
+ 
+ 
+ 
+2.
+ 
+Business Address:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.
+ 
+Telephone: (Home Office) 
+ 
+ 
+ 
+Business Telephone:
+ 
+ 
+ 
+Email 
+Address:
+ 
+ 
+ 
+Fax Number: 
+ 
+ 
+ 
+Tax Identification Number:
+ 
+ 
+ 
+4.
+ 
+Contact Person:
+ 
+ 
+ 
+5.
+ 
+Type of Business (please check one):
+ 
+Corporation
+ 
+ 
+ 
+Partnership
+ 
+ 
+ 
+Proprietorship
+ 
+ 
+ 
+Joint Venture
+ 
+ 
+Note:  For Corporations 
+
+ 
+Articles of Incorporation Certification must be on rec
+ord with the Treasurer 
+of American Samoa.  Copies of partnership agreements and articles of incorporation must be submitted 
+to the revenue branch with application form and relevant documents.  Aliens cannot operate sole 
+ownership enterprises and partnershi
+ps with aliens are subject to immigration board review. 
+ 
+ 
+6.
+ 
+Place of Organization or State of Incorporation:
+ 
+ 
+ 
+7.
+ 
+
+ 
+ 
+ 
+ 
+ 
+8.
+ 
+For Corporations: Names and Addresses of Directors, Officers, and Stockholders 
+with 20% or greater interest in 
+the company.
+ 
+ 
+ 
+__________________________________________________________________
+ 
+ 
+9.
+ 
+List US States and Territories where company is registered as a foreign corporation.
+ 
+ 
+ 
+ 
+ 
+10.
+ 
+List all projects of similar scope and extent
+ 
+which the Offeror has conducted within the past five
+-
+years; provide 
+the dollar value contract amount for each project. And list project owner contact information for reference inquiries.
+ 
+Location and Date of Project
+:
+ 
+ 
+ 
+Nature and scope of contract (provid
+e a brief project description): 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+20
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+Name and address of awarding agency or owner for which work was performed:
+ 
+ 
+ 
+Name, address, and phone number of Contact Person for the agency
+ 
+ 
+ 
+Contract Amount
+ 
+ 
+ 
+Date of Completion
+ 
+ 
+ 
+If not completed, why?
+ 
+ 
+ 
+ 
+ 
+Was 
+contract performed under joint venture, if so with whom and under what arrangement?
+ 
+ 
+ 
+Location and Date of Project
+:
+ 
+ 
+ 
+Nature and scope of contract (provide a brief project description): 
+ 
+ 
+ 
+ 
+Name and address of awarding agency or owner for which work was pe
+rformed:
+ 
+ 
+ 
+ 
+ 
+Name, address, and phone number of Contact Person for the agency
+ 
+ 
+ 
+Contract Amount
+ 
+ 
+ 
+Date of Completion
+ 
+ 
+ 
+If not completed, why?
+ 
+ 
+ 
+ 
+ 
+Was contract performed under joint venture, if so with whom and under what arrangement?
+ 
+ 
+ 
+11.
+ 
+List the name or names of supervisory personnel proposed to be employed on the work under this Contract, 
+including the qualifications and experience record for each.  Personnel resumes may be included within the 
+
+ 
+ 
+Name
+ 
+Qualific
+ations/Experience
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+21
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+ 
+ 
+12.
+ 
+List the names and addresses of at least three (3) references, one of which should be a bank or other lending 
+institution, governmental agency, or bonding company.
+ 
+Name of Reference
+ 
+Address and Contact Information
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21.
+016.ESD
+-
+WTR
+ 
+Page 
+22
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project 
+
+ 
+Phase II Tualauta Design
+ 
+
+-
+ 
+DISCLOSURE STATEMENTS
+ 
+ 
+T
+h
+i
+s
+ 
+form
+ 
+must
+ 
+be
+ 
+c
+omp
+l
+e
+t
+ed
+ 
+by
+ 
+a
+l
+l
+ 
+offerors
+ 
+and
+ 
+subm
+i
+tt
+ed
+ 
+w
+i
+t
+h
+ 
+t
+he
+ 
+proposal.
+ 
+ 
+I 
+ 
+ 
+ 
+ 
+, 
+ 
+ 
+ 
+    
+(
+N
+ame
+ 
+of
+ 
+owner
+ 
+or
+ 
+par
+t
+ner
+-
+ 
+a
+l
+l
+ 
+par
+t
+ners
+ 
+must
+ 
+c
+omp
+l
+e
+t
+e
+ 
+a
+ 
+form)
+ 
+ 
+ 
+o
+f 
+ 
+ 
+ 
+ 
+t
+he
+ 
+Offeror,
+ 
+t
+h
+a
+t
+ 
+has
+ 
+subm
+i
+tt
+ed
+ 
+ 
+ 
+           
+(Name of Company)
+ 
+ 
+ 
+ 
+the 
+a
+tt
+a
+c
+hed proposal:         
+ 
+ 
+           
+ 
+ 
+(
+C
+omp
+l
+e
+t
+e
+ 
+one
+ 
+of
+ 
+t
+he
+ 
+t
+wo
+ 
+following s
+t
+a
+t
+emen
+t
+s)
+ 
+ 
+1
+.
+ 
+I
+ 
+ha
+v
+e
+ 
+n
+o
+ 
+i
+m
+m
+ed
+i
+a
+t
+e
+ 
+re
+l
+a
+t
+i
+v
+es
+ 
+(paren
+t
+s,
+ 
+c
+h
+il
+dren
+ 
+or
+ 
+s
+i
+b
+li
+n
+g
+s
+)
+ 
+who
+ 
+are
+ 
+c
+urren
+t
+l
+y
+ 
+emp
+l
+o
+yed
+ 
+by
+ 
+t
+he
+ 
+A
+me
+r
+i
+c
+an
+ 
+Samoa
+ 
+P
+ower
+ 
+A
+u
+t
+hor
+i
+t
+y
+ 
+(
+A
+S
+P
+A
+)
+ 
+or
+ 
+t
+he
+ 
+A
+meri
+c
+an
+ 
+Samoa
+ 
+Government
+ 
+(
+A
+SG)
+ 
+ 
+ 
+ 
+(S
+ig
+ned)
+ 
+(
+T
+i
+t
+l
+e)
+ 
+ 
+2
+.
+ 
+I 
+ha
+v
+e
+ 
+i
+m
+med
+i
+a
+t
+e
+ 
+re
+l
+a
+t
+i
+v
+es
+ 
+(paren
+t
+s,
+ 
+c
+h
+il
+dren
+ 
+or
+ 
+s
+i
+b
+li
+n
+g
+s)
+ 
+who
+ 
+are
+ 
+c
+urren
+t
+l
+y
+ 
+emp
+l
+oyed
+ 
+by
+ 
+A
+S
+P
+A or 
+t
+he
+ 
+A
+SG.
+ 
+ 
+T
+he
+i
+r
+ 
+names and
+ 
+pos
+i
+t
+i
+ons
+ 
+i
+n
+ 
+are
+ 
+as
+ 
+fo
+l
+l
+ows.
+ 
+ 
+N
+ame
+ 
+Re
+l
+a
+t
+i
+onship
+ 
+t
+o
+ 
+Offeror
+ 
+P
+os
+i
+t
+i
+on
+ 
+i
+n
+ 
+A
+S
+P
+A
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(S
+ig
+ned)
+ 
+(
+T
+i
+t
+l
+e)
+ 
+ 
+N
+o
+t
+e:
+ 
+I
+t
+ 
+i
+s
+ 
+not
+ 
+a
+g
+a
+i
+nst
+ 
+A
+S
+P
+A
+ 
+pro
+c
+urement
+ 
+ru
+l
+es
+ 
+for
+ 
+t
+he
+ 
+re
+l
+a
+t
+i
+v
+es
+ 
+of
+ 
+g
+overnment
+ 
+emp
+l
+oyees
+ 
+t
+o
+ 
+b
+i
+d
+ 
+on
+ 
+and re
+c
+e
+i
+v
+e
+ 
+g
+over
+n
+ment
+ 
+c
+on
+t
+ra
+ct
+s
+ 
+prov
+i
+ded
+ 
+t
+hey
+ 
+d
+i
+s
+c
+l
+ose
+ 
+su
+c
+h
+ 
+re
+l
+a
+t
+i
+on
+s
+h
+i
+ps
+ 
+at
+ 
+t
+he
+ 
+t
+i
+me
+ 
+of
+ 
+b
+i
+dd
+i
+n
+g
+.
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+23
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+ATTACHMENT
+ 
+
+-
+ 
+NO
+N
+-
+C
+O
+LL
+U
+S
+I
+ON
+ 
+AFF
+I
+DAV
+I
+T OF
+ 
+P
+RIME
+ 
+OFFEROR
+ 
+ 
+ 
+I, 
+ 
+ 
+ 
+, b
+e
+i
+ng f
+i
+rst
+ 
+d
+u
+l
+y
+ 
+sworn
+ 
+deposes
+ 
+and
+ 
+says 
+t
+ha
+t
+:
+ 
+ 
+1
+.
+ 
+H
+e
+/
+She
+ 
+i
+s
+ 
+ 
+ 
+ 
+ 
+(
+O
+wner,
+ 
+P
+ar
+t
+ner,
+ 
+Representa
+t
+i
+v
+e
+ 
+or
+ 
+Ag
+en
+t
+)
+ 
+of
+ 
+ 
+ 
+             
+(Company Name)
+ 
+ 
+of Offeror
+ 
+t
+hat
+ 
+has
+ 
+subm
+i
+tt
+ed
+ 
+t
+he
+ 
+a
+tt
+a
+c
+hed
+ 
+b
+i
+d.
+ 
+ 
+2
+.
+ 
+H
+e
+ 
+i
+s
+ 
+fu
+l
+l
+y
+ 
+i
+nformed
+ 
+re
+g
+ar
+d
+i
+ng 
+t
+he
+ 
+prepara
+t
+i
+on
+ 
+and
+ 
+c
+o
+n
+t
+en
+t
+s
+ 
+of
+ 
+t
+he
+ 
+a
+t
+t
+a
+c
+hed
+ 
+b
+i
+d
+ 
+and
+ 
+of
+ 
+a
+l
+l per
+t
+i
+nent
+ 
+c
+i
+r
+c
+ums
+t
+an
+c
+es
+ 
+re
+g
+ard
+i
+ng su
+c
+h
+ 
+b
+i
+d.
+ 
+ 
+3
+.          
+ 
+Su
+c
+h
+ 
+b
+i
+d
+ 
+i
+s
+ 
+g
+enu
+i
+ne
+ 
+and
+ 
+i
+s
+ 
+not
+ 
+a
+ 
+c
+o
+l
+l
+us
+i
+v
+e
+ 
+or
+ 
+fa
+l
+se
+ 
+b
+i
+d.
+ 
+ 
+4
+.           
+N
+e
+i
+t
+her 
+ 
+t
+he 
+ 
+sa
+i
+d 
+ 
+Offeror 
+ 
+nor 
+ 
+any 
+ 
+of 
+ 
+i
+t
+s 
+ 
+off
+i
+c
+ers, 
+ 
+p
+ar
+t
+ners, 
+ 
+owne
+r
+, 
+ 
+a
+g
+en
+t
+s, 
+ 
+represen
+t
+a
+t
+i
+v
+es, emp
+l
+oye
+e
+s
+ 
+or
+ 
+par
+t
+i
+es
+ 
+i
+n
+ 
+i
+n
+t
+erest, 
+i
+n
+c
+l
+ud
+i
+ng
+ 
+t
+h
+i
+s
+ 
+aff
+i
+an
+t
+, h
+a
+s
+ 
+i
+n
+ 
+any
+ 
+way
+ 
+c
+o
+l
+l
+uded, 
+c
+o
+nsp
+i
+red,
+ 
+c
+onni
+v
+ed
+ 
+or a
+g
+reed,
+ 
+d
+i
+re
+c
+t
+l
+y
+ 
+or
+ 
+i
+n
+d
+i
+re
+c
+t
+l
+y
+ 
+w
+i
+t
+h
+ 
+any
+ 
+o
+t
+her
+ 
+Offeror,
+ 
+f
+i
+rm
+ 
+or
+ 
+person
+ 
+t
+o
+ 
+subm
+i
+t
+ 
+a
+ 
+c
+o
+l
+l
+us
+i
+v
+e
+ 
+or
+ 
+f
+a
+l
+se
+ 
+b
+i
+d 
+i
+n 
+c
+onne
+c
+t
+i
+on
+ 
+w
+i
+t
+h
+ 
+t
+he
+ 
+C
+on
+t
+ra
+c
+t
+ 
+for
+ 
+wh
+i
+c
+h
+ 
+t
+he
+ 
+a
+tt
+a
+c
+hed
+ 
+b
+i
+d
+ 
+has
+ 
+been
+ 
+subm
+i
+tt
+ed
+ 
+or
+ 
+t
+o
+ 
+refra
+i
+n
+ 
+fr
+o
+m b
+i
+d
+d
+i
+ng
+ 
+i
+n 
+c
+onne
+c
+t
+i
+on
+ 
+w
+i
+t
+h
+ 
+su
+c
+h
+ 
+C
+on
+t
+ra
+c
+t
+, or
+ 
+has
+ 
+i
+n
+ 
+any
+ 
+manner,
+ 
+d
+i
+re
+c
+t
+l
+y
+ 
+or
+ 
+i
+nd
+i
+re
+c
+t
+l
+y,
+ 
+sought
+ 
+by
+ 
+a
+g
+reement
+ 
+or 
+c
+o
+l
+l
+us
+i
+on
+ 
+or
+ 
+c
+ommun
+i
+c
+a
+t
+i
+on
+ 
+or
+ 
+c
+onferen
+c
+e
+ 
+w
+i
+t
+h
+ 
+any
+ 
+o
+t
+her
+ 
+Offeror,
+ 
+or
+ 
+t
+o
+ 
+se
+c
+ure
+ 
+t
+hrough
+ 
+any
+ 
+c
+o
+l
+l
+us
+i
+on, 
+c
+onspira
+c
+y,
+ 
+c
+onni
+v
+an
+c
+e
+ 
+or
+ 
+un
+l
+awful
+ 
+a
+g
+reement
+ 
+any
+ 
+a
+d
+v
+a
+n
+t
+a
+g
+e
+ 
+a
+g
+a
+i
+nst 
+A
+mer
+i
+c
+an
+ 
+Samoa
+ 
+P
+ower
+ 
+A
+u
+t
+hor
+i
+t
+y or
+ 
+any
+ 
+person
+ 
+i
+n
+t
+erested
+ 
+i
+n
+ 
+t
+he
+ 
+proposed
+ 
+C
+on
+t
+r
+a
+ct
+;
+ 
+a
+n
+d
+ 
+ 
+5
+.           
+T
+he
+ 
+pr
+i
+c
+e
+ 
+or
+ 
+pr
+i
+c
+es
+ 
+quo
+t
+ed
+ 
+i
+n
+ 
+t
+he
+ 
+a
+tt
+a
+c
+hed
+ 
+b
+i
+d
+ 
+are
+ 
+fa
+i
+r
+ 
+and
+ 
+proper,
+ 
+and
+ 
+are
+ 
+not
+ 
+t
+a
+i
+n
+t
+ed
+ 
+by
+ 
+any 
+c
+o
+l
+l
+us
+i
+on, 
+c
+onspira
+c
+y,
+ 
+c
+o
+n
+n
+i
+v
+an
+c
+e
+ 
+or
+ 
+un
+l
+awful
+ 
+a
+g
+re
+em
+ent
+ 
+on
+ 
+t
+he
+ 
+pa
+r
+t
+ 
+of
+ 
+t
+he
+ 
+Offeror
+ 
+or
+ 
+any
+ 
+of
+ 
+i
+t
+s
+ 
+a
+g
+en
+
+s represen
+t
+a
+t
+i
+v
+es,
+ 
+owners,
+ 
+emp
+l
+oyees,
+ 
+or
+ 
+par
+t
+i
+es
+ 
+i
+n
+ 
+i
+n
+t
+erest,
+ 
+i
+n
+c
+l
+ud
+i
+ng 
+t
+h
+i
+s
+ 
+aff
+i
+an
+t
+.
+ 
+ 
+ 
+ 
+(S
+ig
+ned)
+ 
+ 
+(
+T
+i
+t
+l
+e)
+ 
+ 
+Subs
+c
+r
+i
+bed
+ 
+and
+ 
+sworn
+ 
+t
+o
+ 
+before
+ 
+me 
+t
+h
+i
+s 
+ 
+ 
+day
+ 
+of 
+ 
+ 
+ 
+ 
+ 
+,
+ 
+20
+__
+ 
+ 
+ 
+ 
+(S
+ig
+ned)
+ 
+(
+T
+i
+t
+l
+e)
+ 
+ 
+ 
+My
+ 
+C
+omm
+i
+s
+s
+i
+on
+ 
+exp
+i
+res 
+ 
+ 
+,
+ 
+20
+2
+___
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+R
+FP NO. ASPA21
+.
+016
+.ESD
+-
+ 
+WTR
+ 
+ 
+Page 
+24
+ 
+ 
+HDPE Pipe Upgrade & 
+Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+
+-
+ 
+BID
+ 
+BOND
+ 
+S
+E
+C
+URI
+T
+Y
+ 
+I
+NS
+T
+RU
+C
+T
+I
+ONS
+ 
+ 
+T
+he
+ 
+B
+i
+d
+ 
+Bond
+ 
+Se
+c
+ur
+i
+t
+y
+ 
+i
+n
+ 
+t
+he
+ 
+sum
+ 
+of
+ 
+10
+%
+ 
+of
+ 
+t
+he
+ 
+t
+o
+t
+al
+ 
+b
+i
+d
+ 
+amount
+ 
+must
+ 
+a
+cc
+ompany
+ 
+ea
+c
+h
+ 
+B
+i
+d
+ 
+and
+ 
+sha
+l
+l
+ 
+be 
+furn
+i
+shed
+ 
+t
+o
+ 
+t
+he
+ 
+A
+mer
+i
+c
+an
+ 
+Samoa
+ 
+P
+ower
+ 
+A
+u
+t
+hor
+i
+t
+y
+ 
+as
+ 
+a
+ 
+g
+uaran
+t
+ee and
+ 
+w
+i
+l
+l
+ 
+be
+ 
+re
+t
+a
+i
+ned
+ 
+un
+t
+i
+l
+ 
+t
+he
+ 
+wr
+i
+tt
+en 
+c
+on
+t
+ra
+c
+t
+ 
+be
+t
+ween 
+t
+he
+ 
+C
+on
+t
+ra
+ct
+or
+ 
+and
+ 
+A
+S
+P
+A 
+i
+s
+ 
+execu
+t
+ed
+ 
+and
+ 
+t
+he
+ 
+performan
+c
+e
+ 
+and
+ 
+l
+abor
+ 
+and
+ 
+mater
+i
+a
+l
+s payment
+ 
+bonds
+ 
+are
+ 
+furn
+i
+shed
+ 
+by
+ 
+t
+he
+ 
+C
+on
+t
+r
+a
+ct
+or.
+ 
+I
+f
+ 
+t
+he
+ 
+C
+on
+t
+ra
+ct
+or
+ 
+fa
+il
+s
+ 
+t
+o
+ 
+en
+t
+er
+ 
+i
+n
+t
+o
+ 
+a
+ 
+wr
+i
+tt
+en
+ 
+c
+on
+t
+ra
+c
+t
+, 
+A
+S
+P
+A 
+w
+i
+l
+l
+ 
+re
+t
+a
+i
+n
+ 
+t
+he
+ 
+C
+on
+t
+ra
+ct
+o
+r
+
+s
+ 
+B
+i
+d
+ 
+bond as
+ 
+li
+qu
+i
+da
+t
+ed
+ 
+dama
+g
+es,
+ 
+but
+ 
+n
+o
+t
+ 
+as
+ 
+a
+ 
+pena
+l
+t
+y.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+R
+FP NO. ASPA21
+.
+016
+.ESD
+-
+ 
+WTR
+ 
+ 
+Page 
+25
+ 
+ 
+HDPE Pipe Upgrade & 
+Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+
+-
+ 
+BID
+ 
+BOND
+ 
+S
+E
+C
+URI
+T
+Y
+ 
+FORM
+ 
+ 
+ 
+KNOW A
+L
+L 
+PE
+R
+S
+ONS BY 
+T
+HO
+S
+E 
+P
+R
+E
+S
+E
+NT 
+t
+hat 
+ 
+                                                              
+ 
+, as 
+P
+r
+i
+n
+c
+i
+pa
+l
+, 
+hereaf
+t
+er
+ 
+c
+a
+ll
+ed
+ 
+t
+he
+ 
+
+P
+r
+i
+n
+c
+i
+pa
+l
+,
+
+ 
+and 
+                                                 
+ 
+,
+ 
+a
+ 
+du
+l
+y
+ 
+adm
+i
+tt
+ed
+ 
+i
+nsurer
+ 
+under
+ 
+t
+he
+ 
+l
+aws of
+ 
+t
+he
+ 
+T
+err
+i
+t
+ory
+ 
+of
+ 
+A
+mer
+i
+c
+an
+ 
+Samoa,
+ 
+as
+ 
+Sure
+t
+y
+,
+ 
+here
+i
+naf
+t
+er
+ 
+c
+a
+ll
+ed
+ 
+t
+he
+ 
+
+Sure
+t
+y
+
+,
+ 
+are
+ 
+he
+l
+d
+ 
+f
+i
+rm
+l
+y
+ 
+bound
+ 
+un
+t
+o 
+t
+he 
+A
+mer
+i
+c
+an 
+Samoa 
+P
+ower 
+A
+u
+t
+h
+o
+r
+i
+t
+y (
+A
+S
+P
+A
+) for 
+t
+he sum of
+ 
+                                                                                   
+ 
+ 
+do
+l
+l
+ars
+ 
+($
+ 
+                                 
+ 
+),
+ 
+for
+ 
+payment
+ 
+of
+ 
+wh
+i
+c
+h
+ 
+i
+n 
+l
+awful
+ 
+money of
+ 
+t
+he
+ 
+U
+n
+i
+t
+ed
+ 
+S
+t
+a
+t
+es,
+ 
+w
+i
+l
+l
+ 
+and
+ 
+t
+ru
+l
+y
+ 
+t
+o
+ 
+be
+ 
+made,
+ 
+t
+he
+ 
+sa
+i
+d
+ 
+P
+r
+i
+n
+c
+i
+pal and
+ 
+t
+he
+ 
+sa
+i
+d
+ 
+Sure
+t
+y
+ 
+b
+i
+nds 
+t
+hemse
+l
+v
+e
+s,
+ 
+t
+he
+i
+r
+ 
+he
+i
+rs,
+ 
+execu
+t
+ors, adm
+i
+n
+i
+s
+t
+ra
+t
+ors, su
+cc
+essors
+ 
+and
+ 
+ass
+i
+g
+ns,
+ 
+jo
+i
+n
+t
+l
+y
+ 
+and
+ 
+s
+e
+v
+era
+l
+l
+y,
+ 
+f
+i
+r
+m
+l
+y
+ 
+b
+y 
+t
+hese
+ 
+presen
+t
+s.
+ 
+T
+he
+ 
+c
+ondi
+t
+i
+on
+ 
+of
+ 
+t
+he
+ 
+a
+b
+ove
+ 
+ob
+l
+ig
+a
+t
+i
+on
+ 
+su
+c
+h
+ 
+t
+ha
+t
+,
+ 
+whereas 
+t
+he
+ 
+P
+r
+i
+n
+c
+i
+pal has
+ 
+subm
+i
+tt
+ed
+ 
+a
+ 
+proposal
+ 
+for:
+ 
+ 
+RFP No. 
+ASPA21.016
+.
+ESD
+-
+WTR 
+
+ 
+Pipe
+ 
+Upgrade & 
+Replacement Project
+ 
+Phase II 
+-
+ 
+Tualauta
+
+ 
+ 
+The proposed project will improve the ocean diffuser performance, 
+longevity and general water quality in 
+the area of the diffuser system.
+  
+ 
+Offerors must provide a document that specifically and completely addresses work tasks as specified 
+
+ 
+ 
+[
+S
+i
+g
+na
+t
+u
+r
+e
+ 
+P
+a
+g
+e
+ 
+F
+o
+ll
+o
+w
+s
+]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+26
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+ 
+IN WITNESS
+ 
+WHEREOF
+, we have hereunto set our hands on this bid bond this ____________ day of 
+_____________________, 20
+__
+.
+ 
+ 
+Principal:   ________________________
+ 
+Surety:   ____________________________
+ 
+ 
+ 
+(Name of Firm)
+ 
+ 
+ 
+ 
+ 
+(Name of Firm)
+ 
+ 
+By:
+ 
+___________________________
+ 
+By:
+ 
+______________________________
+ 
+Name:
+ 
+___________________________
+ 
+Name:
+ 
+______________________________
+ 
+Title:
+ 
+___________________________
+ 
+Title:
+ 
+______________________________
+ 
+ 
+By:
+ 
+___________________________
+ 
+By:
+ 
+____________
+__________________
+ 
+Name:
+ 
+___________________________
+ 
+Name:
+ 
+______________________________
+ 
+Title:
+ 
+___________________________
+ 
+Title:
+ 
+______________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resident Agent:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+______________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name:
+ 
+_________________
+_____________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title:
+ 
+______________________________
+ 
+Address for Notices:
+ 
+ 
+ 
+ 
+Address for Notices:
+ 
+________________________________
+ 
+ 
+_____________________________________
+ 
+________________________________
+ 
+ 
+_____________________________________
+ 
+________________________________
+ 
+ 
+_____________________________________
+ 
+NOTE:
+ 
+The signature of the person executing this Bid Bond must be notarized.  If an attorney
+-
+in
+-
+fact executes the 
+bid bond on behalf of the surety, a copy of the current power of attor
+ney bearing the notarized signature of the 
+appropriate corporate officer must also be included with the bid bond.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+27
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+
+H
+
+ 
+
+ 
+SITE LOCATIONS
+ 
+ 
+1.
+ 
+Tafuna: Cost
+-
+U
+-
+Less to Happy Valley:
+ 
+Approx. 
+2950LF
+.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+28
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+2.
+ 
+
+ 
+Approx. 2250LF
+ 
+ 
+ 
+3.
+ 
+Malaeimi: Ma Store:
+ 
+Approx. 3000LF.
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+29
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+4.
+ 
+Iliili: Talelei Church
+:
+ 
+Approx. 2450LF
+ 
+ 
+ 
+ 
+5.
+ 
+
+-
+Tongan Community
+: 
+Approx. 4900LF
+ 
+ 
+ 
+RFP NO. 
+ASPA21
+.
+016
+.ESD
+-
+WTR
+ 
+ 
+Page 
+30
+ 
+ 
+HDPE Pipe Upgrade & Replacement Project Phase II 
+
+ 
+Tualauta Design
+ 
+6.
+ 
+Vaitogi: Logotala 
+(approx.. 2000lf)
+ 
+ 
+ 
+ 

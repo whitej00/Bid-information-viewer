@@ -1,0 +1,63 @@
+4, OUTDOOR METERING UNIT 11 KV50/1
+
+ 
+
+5, DEADLINE FOR SUBMISSION OF TENDER
+
+The bidders are required to take note that the tender closing date has been extended
+to 9 February 2021 at 10:00am and open at 10.30am.
+
+All other terms and conditions remain as per the Principal Tender Document (PTD).
+Yours faithfully,
+FOR: THE KENYA POWER & LIGHTING COMPANY PLC
+
+DR. JOHN/NGENO.
+JERAL MANAGER, SUPPLY CHAIN & LO’
+
+ 
+L
+
+Kenya Power
+
+ 
+
+Central Office - P.O. Box 30099 - 00100
+Telephone ~ 254 - 02 - 3201000
+Stima Plaza, Kolobot Road
+
+Nairobi, Kenya
+www.kenyapower.co.ke
+
+Our Ref: KP1/9A.3/OT/23/20-21/JN/ik 215 January 2021
+TO ALL TENDERERS
+
+RE: ADDENDUM NO. 3 TO TENDER NO.KP1/9A.3/OT/23/20-21 FOR SUPPLY OF SMART
+LARGE POWER METERING UNITS
+
+Please refer to the above Tender. We make the following amendments to the Principal
+Tender Document (hereinafter abbreviated as the PTD) for Supply of Smart Large Power
+Metering units
+
+1, RELATIONSHIP WITH THE PRINCIPAL TENDER DOCUMENT (PTD)
+
+Save where expressly amended by the terms of this Addendum, the PTD shall continue
+to be in full force and effect. The provisions of this Addendum shall be deemed to
+have been incorporated in and shall be read and construed as part of the PTD.
+
+2. CURRENT & POTENTIAL TRANSFORMER CONNECTED METER SPECIFICATION-
+KP1/6C/4/1/TSP/14/006-2
+4.3 COMMUNICATIONS
+
+Clause 4.3.5 - The modem shall support meter communication protocols as per
+DLMS/COSEM standards. DLMS certificate and KEMA certificate shall be provided.
+The clause is amended to read -The modem shall support meter communication
+protocols as per DLMS/COSEM standards. DLMS cerfificate and test results shall be
+provided.
+
+3. ENCLOSURES FOR METERING EQUIPMENT SPECIFICATION-KP1/6C/4/1/TSP/14/006-2
+4.2 LVCT METERING ENCLOSURE
+
+Clause 4.2.2.5 -The Enclosure shall be constructed to IP65 degree of protection as per
+IEC 60529 and IEC 62208:2011 standards
+A clarification is made that IP54 degree of protection is acceptable.
+

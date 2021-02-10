@@ -66,13 +66,11 @@
         newObj.data = afterStr[i];
         document.getElementById('engPdf').appendChild(newObj);
     }
+
     for ( var i = 0; i < afterStr.length; i ++) {
-        var newObj = document.createElement('object');
-        var pdfName = afterStr[i].split('/');
-        var pdfName = pdfName[pdfName.length - 1];
-        var pdfName = "../static/bid/Files/" + "{{item.0}}"+ "/" + pdfName.replace('.pdf','') + "(kor).pdf";
-        newObj.data = pdfName
-        document.getElementById('korPdf').appendChild(newObj);
+        var korObj = document.createElement('object');
+        korObj.data = afterStr[i];
+        document.getElementById('korPdf').appendChild(korObj);
     }
 </script>
 

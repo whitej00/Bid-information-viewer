@@ -1,0 +1,393 @@
+ 
+
+No.
+
+CLARIFICATION SOUGHT
+
+RESPONSE
+
+ 
+
+> Why the requirement to have 32000
+PPPoE sessions in the metro router?
+Typically PPPoE / radius service
+should terminate in the core network
+for centralized subscriber
+management?
+
+ 
+
+KPLC fo remove evaluation criteria 6.2.1.8
+to allow bidders to source equipment from
+any supplier provided the supplier:
+1S09001:2015 certified
+> Has Quality Assurance Plan
+> Has equipment type-tested by an
+independent laboratory, accredited
+to ISO/IEC17025
+> Has experience of supplying the said
+equipment by KPLC
+
+Bidders shall respond as per the
+requirements in the tender document.
+
+ 
+
+ 
+
+ 
+
+Time for of the tender
+
+document
+
+preparation
+
+ 
+
+‘According to Public Procurement and
+Asset Disposal Act 2015 section 97 and
+Regulation 86, the minimum time for
+tender preparation shall be a period of
+seven days for national tenders.
+
+KPLC has given adequate time for
+bidders to respond.
+
+ 
+
+3. TENDER CLOSING DATE
+
+The tender closing date remains 21# January, 2021 at 10.30am.
+
+All other terms and conditions remain as per the Principal Tender Document (PTD)
+
+Yours faithfully,
+For: THE KENYA POWER & LIGHTING CO. PLC
+
+DR. JOHN'NGENO
+
+GENERAL MANAGER, SUPPLY CHAIN & LOGISTICS
+
+ 
+
+ 
+ir
+
+0
+
+Kenya Power
+
+The Kenya Power & Lighting Co, L1d.
+Central Office - P.O. 8x 30099, Nairobi, Kenya
+Telephone - 254-02-3201000
+Fax No. 254-02-3201889
+Stima Plaza, Kolobot Road
+
+Our Ref: KP1/9A.2/OT/032/ICT/20-21/JN/rmh 14th January, 2021
+
+M/s
+
+ 
+
+Dear Sir/Madam,
+
+ADDENDUM NO. 3 TO THE TENDER NO. KP1/9A.2/OT/032/ICT/20-21 FOR DESIGN,
+SUPPLY, INSTALLATION AND COMMISSIONING OF FIBER OPTIC NETWORK AND
+RELATED SERVICES
+
+The following clarifications are made to the specified provisions of the Tender
+document.
+
+1. RELATIONSHIP WITH THE PRINCIPAL TENDER DOCUMENT
+
+Save where expressly amended by the terms of this Addendum, the Principal
+Tender Document shall continue fo be in full force and effect. The provisions of this
+Addendum shall be deemed to have been incorporated in and shall be read as
+part of the Principal Tender Document.
+
+2. CLARIFICATIONS MADE TO QUERIES ON THE TENDER DOCUMENT
+
+The following are responses made to clarifications sought on various issues on the
+tender document and shall be deemed to form the Addendum.
+
+ 
+
+No. | CLARIFICATION SOUGHT RESPONSE
+
+ 
+
+le \s it possible to submit partial of the solution; | Submission of a partial response is not
+full scope without Metro Router, Firewalls, | allowed and will result in the bidder
+
+ 
+
+ 
+
+Billing System. Please clarify being deemed non-responsive
+2 What is the project/deployment timeline? | The successful bidder shall be required
+Please clarify to commission the solution within six
+months from the date of award
+3. The technical specification of the Metro | Technical specifications which are
+Routers is from a specific vendor, is| equivalent to those stated are
+accepted a different solution vendor. permitted provided that the bidder
+Please clarify submits sufficiently detailed supporting
+documents.
+
+ 
+
+4. [As per given network diagram DWDM| Within the scope of this tender the
+nodes are shown standalone. Those should | equipment will be deployed as
+be connected point fo point or ring | specified. However, Kenya Power has
+network. To design DWDM solution, link | an extensive fiber optic network to
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+No.
+
+CLARIFICATION SOUGHT
+
+RESPONSE
+
+ 
+
+14.
+
+What is the capacity required for the FAT?
+Witch type of Splitter will be install and how
+many can be?
+
+Please clarify
+
+Refer to the Detailed Technical
+Specifications as well as other details
+provided in the entire tender document
+
+ 
+
+SECTION IV - SCHEDULE OF REQUIREMENTS
+item #6 "The solution must come with 3-year
+software and hardware support service"
+conflicts with the SECTION XIIB The Warranty
+will remain valid for 1 year. Does it mean
+support will be for 3 years but Hardware
+warranty only 1 Year? Usually warranty and
+support are taken as a package.
+
+Both | year warranty and 3 years
+software and hardware support are
+required. However, where they are
+overiaps the two can be combined
+provided sufficient. supporting
+documentation is provided.
+
+ 
+
+Please provide the Fiber details linking the
+sites as described in SECTION IV: Bill of
+Materials. Such details should include Fiber
+distances, Attenuation measurements and
+type of Fiber. This is important for the DWMD
+link budget calculation and selection of
+correct SFP.
+
+Refer to Schedule of Requirements
+
+ 
+
+Clarify the location of the DWDM devices.
+Our assumption is the devices should be
+located in the data centre with an optical
+section from Data Center to the metro sites.
+However, the document indicates the
+Presence of DWDM components in Site 2
+‘and 4 only?
+
+> Confirm that the DWDM core switch
+will be in Data Centre 1 &3
+
+> To.complete the ring network, should
+there not be another DWDM device
+at Data Center 2 or what is the type
+of interface connecting the DWDM
+devices from Service Router 2 and
+what are the distances / fiber
+characteristics?
+
+> Since no DWDM lambda
+component indicated for Site 1 and
+3, what is the interface at these
+locations? Also provide Fiber details
+(distance and attenuation)
+
+Refer to Schedule of Requirements
+
+ 
+
+ 
+
+ 
+
+Metro Service Router component, should
+this device not be a metro switch for Layer
+2 transport services to the DWDM core
+device? There is already a service router
+existing in the core network (data center).
+
+ 
+
+Bidders shall respond as per the
+specifications in the tender document.
+
+ 
+
+ 
+ 
+
+No.
+
+CLARIFICATION SOUGHT
+
+RESPONSE
+
+ 
+
+distance, loss across that link is required.
+Please clarify
+
+which they shall be integrated in
+subsequent projects.
+
+ 
+
+How the decision will be faken on non-
+compliances? Please clarify
+
+Responses which are non-compliant
+with the requirements will be deemed
+non-responsive
+
+ 
+
+Is required the 6RU Chassis with AC and DC
+support. Is possible a solution with 9RU
+Chassis? Please clarify
+
+Given the space constraints at various
+sites a more compact form factor is
+required.
+
+ 
+
+The DWDM, why VC4 cross connect is
+required? The services are pure Ethernet
+and there is no meaning for VC4 cross
+connection. Please clarify
+
+Within the scope of this tender the
+equipment wil be deployed as
+specified. However, Kenya Power has
+an extensive fiber optic network to
+which they shall be integrated in
+subsequent projects.
+
+ 
+
+As per technical specifications, the
+requirements for the Metro Ring and for the
+service router are combined together, can
+you please spiit the requirements that are
+relevant for each type? Please clarify
+
+Bidders shall respond as per the
+specifications in the tender document.
+
+ 
+
+What are the configuration required for
+each platform? In order to prepare BOM
+we need the required interfaces and
+services. Please clarify
+
+Refer to the Schedule of Requirements
+and Detailed Technical Specifications
+as well as other details provided in the
+entire tender document
+
+ 
+
+10.
+
+The routers, why VXLAN is required, for what
+propose? Please clarify
+
+Within the scope of this tender the
+equipment wil be deployed as
+specified. However, Kenya Power has
+an extensive fiber optic network to
+which they shall be integrated in
+subsequent projects.
+
+ 
+
+i.
+
+The Technical specification for FDT, are
+insufficient, for a correct choice of the
+equipment, also only the items 9/10, can
+be, the other items is only splitters
+attenuation and splitters aren't required? Is
+possible share more technical details?
+Please clarify
+
+Refer to the Detailed Technical
+Specifications as well as other details
+provided in the entire tender document
+
+ 
+
+12.
+
+What is the capacity required for the FDT?
+Witch type of Splitter will be install and how
+many can be?
+
+Please clarify
+
+Refer to the Detailed Technical
+Specifications as well as other details
+provided in the entire tender document
+
+ 
+
+ 
+
+ 
+
+The Technical specification for FAT, are
+insufficient, for a correct choice of the
+equipment, also only the items 9/10, can
+be, the other items is only splitters
+attenuation and splitters aren't required? Is
+possible share = more _ technical
+details@Please clarity
+
+ 
+
+Refer to the Detailed Technical
+Specifications as well as other details
+provided in the entire tender document
+
+ 
+
+ 
+
